@@ -1,38 +1,32 @@
-http://www.rsssf.com/tablesi/ivo04.html
+BlockSource: http://www.rsssf.com/tablesi/ivo04.html
+Season: 2004
+Competition: Ligue 1 (Ivory Coast)
 
-Ivory Coast 2004
+* 1.ASEC Mimosas                    26 21  5  0 60- 7 68  Champions (Abidjan)
+* 2.Africa Sports National          26 15  9  2 38-16 48  [-6 pts] (Abidjan)
+* 3.Stella Club d'Adjamé            26 11 10  5 32-21 43  (Abidjan)
+* 4.Jeunesse Club d'Abidjan         26  8 11  7 34-25 35  [JCA]
+* 5.Sabé Sports de Bouna            26  8 11  7 21-18 35
+* 6.Stade d'Abidjan                 26  8 10  8 25-28 34
+* 7.Réveil Club de Daloa            26  9  7 10 24-31 34
+* 8.CO de Bouaflé                   26  7 10  9 24-26 31
+* 9.Satellite FC du Plateau         26  9  4 13 22-42 31  (Abidjan)
+*10.Denguélé Sports d'Odienné       26  6 12  8 24-27 30
+*11.Séwé Sport de San Pedro         26  7  8 11 20-30 29
+*12.Entente Sportive de Bingerville 26  6  9 11 21-37 27
+*-------------------------------------------------------
+*13.CO de Korhogo                   26  5  6 15 22-42 21  Relegated
+*14.Man FC                          26  2  8 16 17-37 14  Relegated
 
+*NB: overall goal difference -3 due to award round 24
+*NB: Africa Sports deducted 6 points by demand of FIFA for non-payment
+*    of their former Swiss trainer Christian Zermatten; in case they
+*    do not pay him before September 18, they are to be relegated to 
+*    the 2nd level
 
-Championnat National de 1ère Division
-=====================================
+*NB: CO = Club Omnisports, FC = Football Club
 
-Final Table:
-
- 1.ASEC Mimosas                    26 21  5  0 60- 7 68  Champions (Abidjan)
- 2.Africa Sports National          26 15  9  2 38-16 48  [-6 pts] (Abidjan)
- 3.Stella Club d'Adjamé            26 11 10  5 32-21 43  (Abidjan)
- 4.Jeunesse Club d'Abidjan         26  8 11  7 34-25 35  [JCA]
- 5.Sabé Sports de Bouna            26  8 11  7 21-18 35
- 6.Stade d'Abidjan                 26  8 10  8 25-28 34
- 7.Réveil Club de Daloa            26  9  7 10 24-31 34
- 8.CO de Bouaflé                   26  7 10  9 24-26 31
- 9.Satellite FC du Plateau         26  9  4 13 22-42 31  (Abidjan)
-10.Denguélé Sports d'Odienné       26  6 12  8 24-27 30
-11.Séwé Sport de San Pedro         26  7  8 11 20-30 29
-12.Entente Sportive de Bingerville 26  6  9 11 21-37 27
--------------------------------------------------------
-13.CO de Korhogo                   26  5  6 15 22-42 21  Relegated
-14.Man FC                          26  2  8 16 17-37 14  Relegated
-
-NB: overall goal difference -3 due to award round 24
-NB: Africa Sports deducted 6 points by demand of FIFA for non-payment
-    of their former Swiss trainer Christian Zermatten; in case they
-    do not pay him before September 18, they are to be relegated to 
-    the 2nd level
-
-NB: CO = Club Omnisports, FC = Football Club
-
-Round 1
+Round: 1
 [Feb 21]
 Satellite       4-1 JCA
 Bouaflé             0-0 Stade
@@ -43,7 +37,7 @@ Bingerville                 2-2 Daloa
 Africa          2-1 Denguélé
 Sabé                1-1 Stella
 
-Round 2 [Feb 28,29]
+Round: 2 [Feb 28,29]
 Stella       2-0 Bingerville
 Sabé             0-0 JCA
 Séwé                 1-0 Bouaflé
@@ -52,7 +46,7 @@ Denguélé                 0-2 ASEC
 Daloa                        0-1 Africa
 Man                              0-1 Satellite
 
-Round 3
+Round: 3
 [Mar 4]
 Satellite       0-0 Stade
 [Mar 5]
@@ -65,7 +59,7 @@ JCA                 1-1 Man
 [Mar 10]
 Bouaflé         0-1 Denguélé
 
-Round 4
+Round: 4
 [Mar 14]
 Stade           1-0 Man
 Daloa               2-0 Bouaflé 
@@ -76,7 +70,7 @@ Bingerville             0-2 JCA
 Stella          0-3 ASEC
 Sabé                1-1 Africa
 
-Round 5
+Round: 5
 [Mar 20]
 Bingerville     0-4 ASEC
 Stella          4-1 Korhogo
@@ -88,7 +82,7 @@ Denguélé        1-1 Man
 [Mar 25]
 Sabé            1-1 Bouaflé
 
-Round 6
+Round: 6
 [Mar 31]
 Satellite       1-0 Denguélé
 Korhogo             0-0 Daloa
@@ -99,7 +93,7 @@ JCA                             0-0 Stade
 Africa          3-0 Bingerville
 ASEC                3-0 Sabé
 
-Round 7
+Round: 7
 [Apr 3]
 Stade           1-1 Denguelé
 Satellite       0-1 Stella
@@ -110,7 +104,7 @@ ASEC    0-0 Africa
 Bouaflé     4-2 Bingerville
 Korhogo         1-3 Sabé
 
-Round 8
+Round: 8
 [Apr 8]
 Bingerville     2-0 Korhogo
 Daloa               2-0 Stade
@@ -122,7 +116,7 @@ Africa          4-1 Bouaflé
 ASEC    1-1 JCA
 Stella      2-0 Man
 
-Round 9
+Round: 9
 [Apr 17]
 Korhogo         0-2 Africa
 Satellite       1-1 Bingerville 
@@ -133,7 +127,7 @@ JCA             2-0 Denguélé
 Bouaflé             0-0 ASEC
 Man                     0-1 Sabé
 
-Round 10
+Round: 10
 [Apr 25]
 Bingerville     2-1 Man
 Sabé                1-0 Stade
@@ -145,7 +139,7 @@ Africa          3-1 Satellite
 ASEC    2-0 Korhogo
 Stella      2-0 Sewé
 
-Round 11 [May 1,2]
+Round: 11 [May 1,2]
 Satellite     0-5 ASEC
 Man               0-1 Africa
 Korhogo               2-1 Bouaflé
@@ -154,7 +148,7 @@ JCA                       0-1 Daloa
 Bingerville               0-2 Stade
 Séwé                          0-0 Sabé
 
-Round 12 [May 8,9]
+Round: 12 [May 8,9]
 Stade    1-1 Africa
 Bouaflé      5-0 Satellite
 Sabé             1-0 Denguélé
@@ -163,7 +157,7 @@ Korhogo              0-2 JCA
 Stella                   0-1 Daloa
 ASEC                         5-1 Man
 
-Round 13
+Round: 13
 [May 15]
 Stade           1-2 ASEC
 Satellite       2-1 Korhogo
@@ -175,7 +169,7 @@ JCA     1-2 Stella
 [May 20]
 Séwé    2-2 Africa
 
-Round 14
+Round: 14
 [Jul 2]
 Denguélé        0-1 Africa
 [Jul 9]
@@ -189,7 +183,7 @@ Stella          1-0 Sabé
 [Jul 13]
 JCA     4-1 Satellite
 
-Round 15 [Jul 16,17]
+Round: 15 [Jul 16,17]
 Bingerville   1-1 Stella
 JCA               3-0 Sabé
 Bouaflé               2-0 Séwé
@@ -198,7 +192,7 @@ ASEC                          2-0 Denguélé
 Africa                            0-0 Daloa
 Satellite                         1-1 Man
 
-Round 16
+Round: 16
 [Jul 31]
 Stade           2-0 Satellite
 [Aug 1]
@@ -209,7 +203,7 @@ Séwé                        0-1 Korhogo
 Man                             2-1 JCA
 Denguélé                        1-1 Bouaflé
 
-Round 17
+Round: 17
 [Aug 8]
 Satellite       1-1 Séwé
 Korhogo         1-1 Denguélé
@@ -221,7 +215,7 @@ Bouaflé     2-1 Daloa
 [Aug 18]
 Africa          2-1 Sabé
 
-Round 18
+Round: 18
 [Aug 13]
 ASEC    3-0 Bingerville
 [Aug 14]
@@ -233,7 +227,7 @@ Bouaflé                     0-0 Sabé
 [Aug 15]
 JCA     0-1 Africa
 
-Round 19
+Round: 19
 [Aug 21]
 Denguélé        1-0 Satellite
 Daloa               0-0 Korhogo
@@ -244,7 +238,7 @@ Sabé                                0-0 ASEC
 [Aug 22]
 Bingerville     1-1 Africa
 
-Round 20
+Round: 20
 [Aug 28]
 Denguelé        4-1 Stade
 Stella              2-0 Satellite
@@ -255,7 +249,7 @@ Sabé                            1-2 Korhogo
 [Aug 29]
 Africa          1-2 ASEC
 
-Round 21
+Round: 21
 [Sep 2]
 JCA     0-0 ASEC
 [Sep 4]
@@ -266,7 +260,7 @@ Séwé                    2-1 Denguélé
 Bouaflé                     0-0 Africa
 Man                             1-1 Stella
 
-Round 22
+Round: 22
 [Sep 9]
 Stella          3-1 Stade
 [Sep 11]
@@ -279,7 +273,7 @@ Sabé                        1-1 Man
 Africa          2-1 Korhogo
 
 
-Round 23
+Round: 23
 [Sep 17]
 Stade           0-0 Sabé
 JCA                 1-1 Bouaflé
@@ -291,7 +285,7 @@ Man     0-1 Bingerville
 Satellite   0-2 Africa
 Korhogo         0-2 ASEC
 
-Round 24
+Round: 24
 [Sep 25]
 Bouaflé         0-2 Korhogo
 Stella              1-1 Denguélé
@@ -303,7 +297,7 @@ ASEC                               3-1 Satellite
 [Oct 3]
 Africa          3-1 Man
 
-Round 25
+Round: 25
 [Oct 6]
 Satellite       1-0 Bouaflé
 Denguélé        1-0 Sabé
@@ -314,7 +308,7 @@ Africa          1-2 Stade
 Daloa               1-1 Stella
 Man                     0-2 ASEC
 
-Round 26
+Round: 26
 [Oct 13]
 ASEC    2-0 Stade
 Korhogo     0-2 Satellite
@@ -363,7 +357,7 @@ Top Scorers: 1. Diaby Abdramane (Sabé)    13 goals
 Coupe Nationale (41st edition)
 ===============
 
-Round 1 
+Round: 1 
 [May 19,20] (between 44 clubs from Division 2 and 3)
 Toumodi FC              4-0 RC Tiassalé 
 JS Katiola              1-3 Boca Sports de Bocanda
@@ -385,7 +379,7 @@ Omness de Dabou         0-0 Oryx FC             [5-6 pen]
 Agneby FC               2-0 Vallée AC d'Adjamé  
 EFYM = Centre de formation Yéo Martial 
 
-Round 2
+Round: 2
 [May 23]
 EFYM            2-2 Bonoua              [2-3 pen]
 [Jun 1]
@@ -456,7 +450,7 @@ Coupe Houphouët-Boigny 2004/05
 NB: the former Super Cup was turned into a tournament involving the
     top-3 of the previous season and the cup winners.
 
-Round 1 [Jan 23]
+Round: 1 [Jan 23]
 ASEC         2-0 Africa
 Stella                  4-0 CO Bouaflé
 
@@ -475,13 +469,13 @@ Played in 4 Zones
 
 Zone 1 (7 clubs)
 
-Round 8 [Apr 24,25]
+Round: 8 [Apr 24,25]
 Racing Club de Koumassi  -  Oryx de Yopougon
 Omness de Dabou          -  Espoir de Koumassi
 US Koumassi              -  Centre de Formation Selaf
 Vallée AC               bye
 
-Round 9 [May 1,2?]
+Round: 9 [May 1,2?]
 Oryx                    4-2 Omness
 Selafe                  2-1 RC Koumassi
 US Koumassi             0-0 Vallée AC
@@ -489,10 +483,10 @@ Espoir de Koumassi      bye
 
 NB: Omness de Dabou lost in round 10.
 
-Round 11 (10?) [May 8,9]
+Round: 11 (10?) [May 8,9]
 Omness de Dabou          -  US Koumassi
 
-Round 13 [May 29,30]
+Round: 13 [May 29,30]
 Oryx                    0-1 US Koumassi
 Espoir Koumassi         2-0 RC Koumassi
 Vallée AC               2-0 Selafe
@@ -509,26 +503,26 @@ Table (after round 13):
 
 Zone 2 (7 clubs)
 
-Round 1?
+Round: 1?
 Issia Wazi              awd SC Gagnoa         [awarded to Gagnoa; originally 2-1]
 
-Round 8 [Apr 24,25]
+Round: 8 [Apr 24,25]
 AS Divo                  -  AC Sinfra
 Sporting Club de Gagnoa 0-0 Issia Wazi 
 
-Round 9 [May 1,2?]
+Round: 9 [May 1,2?]
 As Sempa                3-1 AS Divo
 Issia Wazi              2-1 Yokolo FC
 SC Gagnoa               2-3 Lagoke FC
 AC Sinfra               bye
 
-Round 11 (10?) [May 8,9]
+Round: 11 (10?) [May 8,9]
 SC Gagnoa                -  AS Divo
 AS Sempa de San Pedro    -  AC Sinfra
 FC Yokobo                -  Lagoke FC
 Issia Wazi              bye
 
-Round 13 [May 29,30]
+Round: 13 [May 29,30]
 AS Sempa                1-2 SC Gagnoa
 Lagoke FC               2-2 Issia Wazi
 AC Sinfra               1-1 Yokolo FC
@@ -549,25 +543,25 @@ NB: Issia Wazi qualified along with SC Gagnoa
 
 Zone 3 (6 clubs)
 
-Round 5?
+Round: 5?
 RC Daoukro              3-1 AS Tanda
 
-Round 7 [Apr 24,25]
+Round: 7 [Apr 24,25]
 ASI Abengourou           -  AS Tanda
 RC Béttié                -  RC Daoukro
 Sacraboutou              -  Rio d’Anyama 
 
-Round 8 [May 1,2?]
+Round: 8 [May 1,2?]
 ASI d’Abengourou        1-0 Sacraboutou
 AS Tanda                0-2 RC Bettié
 Rio d’Anyama            1-1 RFC Daoukro
 
-Round 9 [May 8,9]
+Round: 9 [May 8,9]
 ASI Abengourou           -  RFC Daoukro
 AS Tanda                 -  Sacraboutou
 Rio d’Anyama             -  RC Tanda (RC Bettié?)    
 
-Round 10 [May 29,30]
+Round: 10 [May 29,30]
 Sacraboutou             1-0 RC Bettié
 AS Tanda               0-20 Daoukro           [annulled]
 ASI                     0-0 Rio Sport 
@@ -589,17 +583,17 @@ NB: RC Tanda withdrew or erroneously included in fixtures;
 
 Zone 4 (6 clubs)
 
-Round 7 [May 1,2]
+Round: 7 [May 1,2]
 Botro                   0-1 SOA
 Hiré FC                 1-0 US Yamoussoukro 
 Toumodi FC              3-1 RFC Yamoussoukro
 
-Round 8 [May 8,9]
+Round: 8 [May 8,9]
 SOA                     3-0 Toumodi FC
 RFC Yamoussoukro         -  Hiré FC 
 US Yamoussoukro          -  Botro FC
 
-Round 10 [May 29,30]
+Round: 10 [May 29,30]
 Botro FC                1-5 RFC Yamoussoukro
 Hiré FC                 3-1 Toumodi 
 US Yamoussoukro         2-3 SOA 
@@ -618,15 +612,15 @@ Interzonal Stage
 
 Group 1 (at stade Biaka Boda de Gagnoa)
 
-Round 1 [Jun 20]
+Round: 1 [Jun 20]
 Issia Wazi              awd Rio Sports        [awarded 5-0; match was abandoned;
 Toumodi FC              1-1 Espoir de Koumassi          referees were suspended]
 
-Round 2
+Round: 2
 Issia Wazi              6-0 Espoir de Koumassi
 Toumodi FC              1-0 Rio Sports
 
-Round 3 [Jun 26]
+Round: 3 [Jun 26]
 Issia Wazi              1-0 Toumodi FC
 Rio Sports               -  Espoir de Koumassi
 
@@ -653,15 +647,15 @@ Interzonal Stage
 
 Group 1 (at stade Biaka Boda de Gagnoa)
 
-Round 1 [Jun 19]
+Round: 1 [Jun 19]
 Siroco FC               0-4 Lakota FC
 Nicla Sport             2-0 AS Prikro
 
-Round 2
+Round: 2
 Lakota FC               1-0 Nicla Sport
 AS Prikro               2-2 Siroco FC
 
-Round 3 [Jun 26]
+Round: 3 [Jun 26]
 Nicla Sport              -  Siroco FC (San Pedro)
 Lakota FC               bt  AS Prikro
 
@@ -669,15 +663,15 @@ Promoted: Lakota FC and Nicla Sport de Guiglo
 
 Group 2 (at Abidjan)
 
-Round 1 [Jun 19]
+Round: 1 [Jun 19]
 Cosmos FC               0-2 Athlétic FC
 EFYM                    1-0 Agnéby Sport d’Agboville
 
-Round 2 [Jun 22]
+Round: 2 [Jun 22]
 Cosmos FC               0-1 Agnéby Sport
 Athlétic FC             1-1 EFYM
 
-Round 3 [Jun 25]
+Round: 3 [Jun 25]
 EFYM                    bt  Cosmos
 Athlétic                lt  Agneby 
 
@@ -687,31 +681,8 @@ NB: apparently Athlétic were also promoted to compensate for the
     forced relegation of RFC Daoukro.
 
 
-2003
-
-
-2005
-
-
-list of champions
-
-
-list of cup winners
-
-
-list of super cup winners
-
-
-list of topscorers
-
-
-
-About this document
-
-Prepared and maintained by José Batalha for the Rec.Sport.Soccer Statistics Foundation
-
-Author: José Batalha (jose.batalha@netvisao.pt) 
-Last updated: 12 Feb 2005
-
-(C) Copyright José Batalha and RSSSF 2004/05
-You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+*Prepared and maintained by José Batalha for the Rec.Sport.Soccer Statistics Foundation
+*Author: José Batalha (jose.batalha@netvisao.pt) 
+*Last updated: 12 Feb 2005
+*(C) Copyright José Batalha and RSSSF 2004/05
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

@@ -1,5 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesa/alg2010.html
 Season: 2009-2010
+Competition: Algerian Ligue Professionnelle 1
 
 
 *Team name                                  City                Province            Founded Stadium (capacity)
@@ -65,7 +66,7 @@ Season: 2009-2010
 Round: 1 
 Date: 8/6/2009
 
-; NA; Husseïn-Dey;  2-0 USM Blida
+; NA Husseïn-Dey;  2-0; USM Blida
 ; WA Tlemcen     ; 3-2; MSP Batna
 ; CA Batna       ; 2-0; USM Alger
 ; CABB Arréridj  ; 1-0; JS Kabylie
@@ -73,7 +74,7 @@ Date: 8/6/2009
 ; MC Alger       ; 4-0; USM Annaba
 ; MC Oran        ; 4-1; CR Bélouizdad
 ; USM El Harrach ; 1-0; ASO Chlef 
-AS El Khroub    1-1 ES Sétif
+; AS El Khroub   ; 1-1; ES Sétif
 
 Round: 2 
 Date: 8/14/2009
@@ -104,7 +105,7 @@ Date: 8/22/2009
 ; ES Sétif       ; 1-1; CR Bélouizdad
 ; MC Oran        ; 2-0; MC El Eulma
 ; USM El Harrach ; 3-2; CABB Arréridj
-; NA; Husseïn-Dey;  1-1 JS Kabylie
+; NA Husseïn-Dey;  1-1; JS Kabylie
 ; MC Alger       ; 1-0; USM Blida
 ; AS El Khroub   ; 1-0; USM Alger
 
@@ -134,7 +135,7 @@ Date: 9/11/2009
 
 Date: 9/12/2009
 
-; NA; Husseïn-Dey;  1-4 USM El Harrach
+; NA Husseïn-Dey;  1-4; USM El Harrach
 ; MC El Eulma    ; 2-1; CR Bélouizdad
 ; WA Tlemcen     ; 2-1; ASO Chlef
 ; MC Oran        ; 0-2; USM Annaba
@@ -153,7 +154,7 @@ Date: 9/18/2009
 ; JS Kabylie     ; 3-1; WA Tlemcen
 ; USM Annaba     ; 3-1; JSM Béjaïa
 
-9/19/2009; NA; Husseïn-Dey;  0-1 MC Alger
+9/19/2009; NA Husseïn-Dey;  0-1; MC Alger
 
 10/13/2009; USM Blida      ; 1-2; ES Sétif
 
@@ -185,7 +186,7 @@ Date: 10/2/2009
 Date: 10/3/2009
 
 ; USM El Harrach ; 1-0; MC El Eulma
-; NA; Husseïn-Dey;  1-0 WA Tlemcen
+; NA Husseïn-Dey;  1-0; WA Tlemcen
 ; USM Alger      ; 3-1; MSP Batna
 ; MC Oran        ; 1-0; USM Blida
 
@@ -222,7 +223,7 @@ Date: 10/24/2009
 
 ; JS Kabylie     ; 1-0; MC El Eulma
 ; USM El Harrach ; 1-2; JSM Béjaïa
-; NA; Husseïn-Dey;  0-2 ES Sétif
+; NA Husseïn-Dey;  0-2; ES Sétif
 
 Round: 11 
 Date: 10/30/2009
@@ -250,7 +251,7 @@ Date: 11/6/2009
 
 Date: 11/7/2009
 
-; NA; Husseïn-Dey;  1-2 MC El Eulma
+; NA Husseïn-Dey;  1-2; MC El Eulma
 ; MC Alger       ; 4-1; MC Oran
 ; WA Tlemcen     ; 1-1; AS El Khroub
 ; USM Blida      ; 0-0; USM Annaba
@@ -275,7 +276,7 @@ Date: 11/21/2009
 
 Round: 14
 
-11/13/2009; NA; Husseïn-Dey;  1-2 CR Bélouizdad
+11/13/2009; NA Husseïn-Dey;  1-2; CR Bélouizdad
 
 Date: 12/1/2009
 
@@ -310,7 +311,7 @@ Round: 16
 Date: 12/11/2009
 
 ; CABB Arréridj  ; 1-0; USM Blida
-; NA; Husseïn-Dey;  1-2 USM Alger
+; NA Husseïn-Dey;  1-2; USM Alger
 ; MC Alger       ; 4-2; CR Bélouizdad
 
 Date: 12/12/2009
@@ -387,7 +388,7 @@ Round: 21
 
 Date: 2/6/2010
 
-; NA; Husseïn-Dey;  1-1 CABB Arréridj 
+; NA Husseïn-Dey;  1-1; CABB Arréridj 
 ; WA Tlemcen     ; 2-0; USM El Harrach 
 ; AS El Khroub   ; 1-1; CR Bélouizdad 
 ; MC El Eulma    ; 0-1; MSP Batna 
@@ -437,7 +438,7 @@ Date: 3/6/2010
 
 ; MSP Batna      ; 0-1; ES Sétif 
 ; CABB Arréridj  ; 1-1; MC El Eulma 
-; NA; Husseïn-Dey;  2-1 CA Batna 
+; NA Husseïn-Dey;  2-1; CA Batna 
 ; USM Blida      ; 1-1; WA Tlemcen 
 ; ASO Chlef      ; 3-1; MC Oran 
 ; JS Kabylie     ; 1-1; JSM Béjaïa 
@@ -471,7 +472,7 @@ Date: 3/23/2010
 ; USM Annaba     ; 3-0; MSP Batna 
 ; USM Alger      ; 1-2; MC Alger 
 ; CA Batna       ; 3-1; WA Tlemcen 
-; NA; Husseïn-Dey;  1-1 MC Oran 
+; NA Husseïn-Dey;  1-1; MC Oran 
 ; CABB Arréridj  ; 1-1; JSM Béjaïa 
 ; USM El Harrach ; 5-0; AS El Khroub
 
@@ -500,7 +501,7 @@ Date: 4/24/2010
 ; USM Blida      ; 2-1; USM Alger 
 ; MC Alger       ; 1-0; WA Tlemcen 
 ; USM El Harrach ; 5-2; MC Oran 
-; NA; Husseïn-Dey;  1-1 JSM Béjaïa 
+; NA Husseïn-Dey;  1-1; JSM Béjaïa 
 ; CA Batna       ; 1-0; AS El Khroub
 
 4/30/2010; JS Kabylie     ; 2-1; CR Bélouizdad 
@@ -531,7 +532,7 @@ Date: 5/13/2010
 ; CABB Arréridj  ; 3-2; USM Annaba 
 ; WA Tlemcen     ; 2-2; MC Oran 
 ; MC Alger       ; 1-1; JSM Béjaïa 
-; NA; Husseïn-Dey;  1-2 AS El Khroub
+; NA Husseïn-Dey;  1-2; AS El Khroub
 
 5/14/2010; USM El Harrach ; 0-0; CR Bélouizdad 
 
@@ -554,7 +555,7 @@ Date: 5/25/2010
 ; WA Tlemcen     ; 2-1; ES Sétif 
 ; MC Alger       ; 3-1; MC El Eulma 
 ; CA Batna       ; 1-0; CR Bélouizdad 
-; NA; Husseïn-Dey;  1-1 MSP Batna 
+; NA Husseïn-Dey;  1-1; MSP Batna 
 ; USM El Harrach ; 0-1; USM Alger 
 ; ASO Chlef      ; 1-1; USM Annaba 
 ; JS Kabylie     ; 3-1; USM Blida 
@@ -582,7 +583,7 @@ Date: 5/31/2010
 ; WA Tlemcen     ; 2-3; CR Bélouizdad 
 ; MC Alger       ; 4-0; MSP Batna 
 ; MC Oran        ; 1-1; USM Alger 
-; NA; Husseïn-Dey;  0-1 USM Annaba 
+; NA Husseïn-Dey;  0-1; USM Annaba 
 ; USM El Harrach ; 2-1; USM Blida 
 ; CABB Arréridj  ; 1-0; ASO Chlef  
 ; CA Batna       ; 0-1; JS Kabylie 

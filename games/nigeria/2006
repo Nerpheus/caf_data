@@ -1,9 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesn/nig06.html
 Season: 2006
+Competition: Nigerian Premier League
 
-
-First Stage
-===========
+Stage: 1
 
 *Group A
 * 1. Kwara United FC (Ilorin)           18 10  4  4 20-14 34 Qualified
@@ -37,7 +36,7 @@ First Stage
 
 
 Round: 1
-Group A
+Group: A
 [Apr 15]
 Dolphins        1-1 Bayelsa
 [Apr 16]
@@ -45,7 +44,7 @@ El-Kanemi       0-0 Wikki
 Insurance       2-0 Pillars
 Ranchers Bees   1-0 Julius Berger
 Rangers         2-2 Kwara
-Group B
+Group: B
 [Apr 16]
 Nasarawa        0-0 Enyimba
 Shooting        1-1 Lobi
@@ -55,7 +54,7 @@ Heartland           2-0 Tornadoes
 Ocean Boys      1-0 Sharks
 
 Round: 2
-Group A
+Group: A
 [Apr 22]
 Julius Berger   1-1 Insurance
 Pillars             0-0 Rangers
@@ -63,7 +62,7 @@ Kwara                   1-0 El-Kanemi
 Wikki                       1-0 Dolphins
 [Apr 23]
 Bayelsa         2-0 Ranchers Bees
-Group B
+Group: B
 [Apr 22]
 Sharks          1-0 Shooting
 Tornadoes       0-0 Nasarawa
@@ -75,7 +74,7 @@ Enyimba         2-1 Gombe
 Lobi    0-0 Heartland
 
 Round: 3
-Group A
+Group: A
 [Apr 29]
 El-Kanemi       3-2 Pillars
 Ranchers Bees   3-0 Insurance
@@ -83,7 +82,7 @@ Dolphins 2-0 Kwara
 [Apr 30]
 Bayelsa         1-0 Wikki
 Rangers             1-0 Julius Berger
-Group B
+Group: B
 [Apr 29]
 Shooting        2-1 Kaduna
 [Apr 30]
@@ -93,7 +92,7 @@ Nasarawa        2-2 Lobi
 Enyimba             2-1 Tornadoes
 
 Round: 4
-Group A
+Group: A
 [May 6]
 Pillars         2-0 Dolphins
 Insurance       2-0 Rangers
@@ -101,7 +100,7 @@ Wikki               2-0 Ranchers Bees
 Kwara                   0-0 Bayelsa
 [May 7]
 Julius Berger   1-0 El-Kanemi
-Group B
+Group: B
 [May 6]
 Ocean Boys      1-0 Shooting
 Tornadoes       2-0 Gombe United
@@ -113,7 +112,7 @@ Lobi    0-0 Enyimba
 Kaduna          2-0 Heartland
 
 Round: 5
-Group A
+Group: A
 [May 13]
 Ranchers Bees   1-0 Rangers
 El-Kanemi       2-0 Insurance
@@ -121,7 +120,7 @@ Wikki               1-0 Kwara
 Dolphins            2-0 Julius Berger
 [May 14]
 Bayelsa         4-0 Pillars
-Group B
+Group: B
 [May 13]
 Tornadoes       0-0 Lobi
 [May 14]
@@ -131,7 +130,7 @@ Nasarawa        3-1 Kaduna
 Enyimba             2-0 Sharks
 
 Round: 6
-Group A
+Group: A
 [May 20]
 Julius Berger   1-0 Bayelsa
 Kwara           2-1 Ranchers Bees
@@ -139,7 +138,7 @@ Pillars             4-0 Wikki
 Insurance           0-0 Dolphins
 [May 21]
 Rangers         2-0 El-Kanemi
-Group B
+Group: B
 [May 20]
 Shooting        2-1 Heartland
 Ocean Boys      1-0 Nasarawa
@@ -149,7 +148,7 @@ Lobi    2-0 Gombe
 Kaduna      2-0 Enyimba
 
 Round: 7
-Group A
+Group: A
 [May 27]
 Ranchers Bees   2-1 El-Kanemi
 Wikki           3-0 Julius Berger
@@ -157,7 +156,7 @@ Kwara               2-1 Pillars
 [May 28]
 Bayelsa         1-0 Insurance
 Dolphins        2-1 Rangers
-Group B
+Group: B
 [May 27]
 Tornadoes       1-0 Kaduna
 [May 28]
@@ -167,7 +166,7 @@ Lobi                    2-1 Sharks
 Enyimba                     2-1 Ocean Boys
 
 Round: 8
-Group A
+Group: A
 [Jun 3]
 Julius Berger   0-1 Kwara
 Pillars             1-0 Ranchers Bees
@@ -175,7 +174,7 @@ Insurance           2-1 Wikki
 El-Kanemi           2-0 Dolphins
 [Jun 4]
 Rangers         2-0 Bayelsa
-Group B [Jun 3]
+Group: B [Jun 3]
 Shooting     3-3 Enyimba
 Heartland    1-0 Nasarawa
 Ocean Boys   1-0 Tornadoes
@@ -183,13 +182,13 @@ Kaduna           1-0 Lobi
 Sharks               2-1 Gombe
 
 Round: 9
-Group A [Jun 7]
+Group: A [Jun 7]
 Ranchers Bees   2-0 Dolphins
 Wikki           1-0 Rangers
 Kwara               3-1 Insurance
 Pillars                 1-0 Julius Berger
 Bayelsa                     3-1 El-Kanemi
-Group B
+Group: B
 [Jun 7]
 Lobi    2-1 Ocean Boys
 Enyimba     3-0 Heartland
@@ -199,7 +198,7 @@ Tornadoes       1-0 Shooting
 Gombe               0-1 Nasarawa
 
 Round: 10
-Group A
+Group: A
 [Jun 17]
 Insurance       1-1 Kwara
 Julius Berger   1-1 Pillars
@@ -207,7 +206,7 @@ El-Kanemi       2-0 Bayelsa
 Dolphins        2-1 Ranchers Bees
 [Jun 18]
 Rangers         2-0 Wikki
-Group B [Jun 18]
+Group: B [Jun 18]
 Shooting     2-0 Tornadoes
 Ocean Boys   1-0 Lobi
 Heartland    0-0 Enyimba
@@ -215,7 +214,7 @@ Nasarawa     1-0 Gombe
 Kaduna           2-0 Sharks
 
 Round: 11
-Group A
+Group: A
 [Jun 24]
 Wikki           2-1 El-Kanemi
 Pillars             3-1 Insurance
@@ -223,7 +222,7 @@ Julius Berger       1-1 Ranchers Bees
 Kwara               2-1 Rangers
 [Jun 25]
 Bayelsa         2-4 Dolphins
-Group B
+Group: B
 [Jun 24]
 Tornadoes       1-0 Heartland
 [Jun 25]
@@ -233,7 +232,7 @@ Lobi                    1-1 Shooting
 Kaduna                      2-0 Gombe
 
 Round: 12
-Group A
+Group: A
 [Jul 1]
 Insurance       2-0 Julius Berger
 El-Kanemi       2-1 Kwara
@@ -241,7 +240,7 @@ Ranchers Bees   2-0 Bayelsa
 Dolphins 2-0 Wikki
 [Jul 19]
 Rangers         3-2 Pillars
-Group B
+Group: B
 [Jul 1]
 Shooting        2-1 Sharks
 Heartland       4-0 Lobi
@@ -251,13 +250,13 @@ Ocean Boys      1-0 Kaduna
 Gombe           1-0 Enyimba
 
 Round: 13
-Group A [Jul 12]
+Group: A [Jul 12]
 Insurance    2-0 Ranchers Bees
 Kwara            1-0 Dolphins
 Wikki                1-0 Bayelsa
 Julius Berger        1-2 Rangers
 Pillars                  3-2 El-Kanemi
-Group B
+Group: B
 [Jul 10]
 Tornadoes       1-0 Enyimba
 [Jul 12]
@@ -268,7 +267,7 @@ Lobi                    2-1 Nasarawa
 Sharks          2-0 Heartland
 
 Round: 14
-Group A
+Group: A
 [Jul 15]
 Dolphins        3-0 Pillars
 [Jul 16]
@@ -277,7 +276,7 @@ Bayelsa             0-0 Kwara
 El-Kanemi           1-0 Julius Berger
 [Aug 6]
 Ranchers Bees   1-2 Wikki
-Group B
+Group: B
 [Jul 16]
 Shooting        1-0 Ocean Boys
 Gombe United    2-0 Tornadoes
@@ -287,7 +286,7 @@ Enyimba         4-1 Lobi
 Heartland       1-0 Kaduna
 
 Round: 15
-Group A
+Group: A
 [Jul 22]
 Insurance       2-1 El-Kanemi
 Kwara               1-0 Wikki
@@ -295,7 +294,7 @@ Julius Berger       2-0 Dolphins
 Pillars                 1-0 Bayelsa
 [Jul 23]
 Rangers         1-1 Ranchers Bees
-Group B
+Group: B
 [Jul 22]
 Shooting        1-0 Gombe
 [Jul 23]
@@ -306,7 +305,7 @@ Sharks                  2-1 Enyimba
 Ocean Boys      1-0 Heartland
 
 Round: 16
-Group A
+Group: A
 [Jul 29]
 Wikki           1-0 Pillars
 Dolphins        1-0 Insurance
@@ -314,7 +313,7 @@ Dolphins        1-0 Insurance
 Bayelsa         2-0 Julius Berger
 Ranchers Bees   0-1 Kwara
 El-Kanemi       3-0 Rangers
-Group B
+Group: B
 [Jul 30]
 Nasarawa        1-0 Ocean Boys
 Tornadoes       2-1 Sharks
@@ -325,13 +324,13 @@ Heartland       1-0 Shooting
 Enyimba             4-1 Kaduna
 
 Round: 17
-Group A [Aug 9]
+Group: A [Aug 9]
 El-Kanemi    1-0 Ranchers Bees
 Julius Berger    2-0 Wikki
 Pillars              2-0 Kwara
 Insurance            0-0 Bayelsa
 Rangers                  2-0 Dolphins
-Group B [Aug 8]
+Group: B [Aug 8]
 Kaduna       0-0 Tornadoes
 Shooting     1-0 Nasarawa
 Heartland    1-0 Gombe
@@ -339,13 +338,13 @@ Sharks           2-1 Lobi
 Ocean Boys       2-1 Enyimba
 
 Round: 18
-Group A [Aug 13]
+Group: A [Aug 13]
 Kwara   2-0 Julius Berger
 Ranchers Bees      n/p Pillars          [0-3 awarded; Ranchers Bees dns]
 Wikki              3-0 Insurance
 Dolphins           5-0 El-Kanemi
 Bayelsa                2-0 Rangers
-Group B
+Group: B
 [Aug 17]
 Enyimba         1-0 Shooting
 Nasarawa        2-1 Heartland
@@ -355,7 +354,7 @@ Gombe                   n/p Sharks              [3-0 awarded; Sharks dns; later 
 [Aug 27]
 Gombe           2-0 Sharks
 
-*Group A
+*Group: A
 * 1. Kwara United FC (Ilorin)           18 10  4  4 20-14 34 Qualified
 * 2. Wikki Tourists FC (Bauchi)                18 10  1  7 18-16 31 Qualified
 *- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -369,7 +368,7 @@ Gombe           2-0 Sharks
 * 9. Ranchers Bees                      18  6  2 10 16-21 20 Relegated 
 *10. Julius Berger FC (Lagos)                  18  4  3 11 10-21 15 Relegated
 
-*Group B
+*Group: B
 * 1. Nasarawa United FC (Lafia)         18  9  3  6 18-15 30 Qualified
 * 2. Ocean Boys FC (Brass)                     18 10  0  8 16-16 30 Qualified
 *- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -386,55 +385,53 @@ Gombe           2-0 Sharks
 
 
 
-Super League
-============
+Stage: Super League
+Round: 1
 
-NB: played at Abuja National Stadium.
+9/6/2006; Ocean Boys  ; 2-0; Nasarawa United; Abuja National Stadium.
+9/6/2006; Wikki Tourists  ; 2-2; Kwara United; Abuja National Stadium.
 
-Round: 1 [Sep 6]
-Ocean Boys   2-0 Nasarawa United
-Wikki Tourists   2-2 Kwara United
+Round: 2
 
-Round: 2 [Sep 8]
-Ocean Boys   1-0 Wikki Tourists
-Nasarawa United  1-0 Kwara United
+9/8/2006; Ocean Boys  ; 1-0; Wikki Tourists; Abuja National Stadium.
+9/6/2006; Nasarawa United ; 1-0; Kwara United; Abuja National Stadium.
 
-Round: 3 [Sep 10]
-Ocean Boys   0-0 Kwara United
-Wikki Tourists   0-2 Nasarawa United
+Round: 3
 
-Final Table:
-
- 1. Ocean Boys FC (Brass)       3  2  1  0  3-0  7 Champions
- 2. Nasarawa United FC (Lafia)  3  2  0  1  3-2  6
- 3. Kwara United FC (Ilorin)    3  0  2  1  2-3  2
- 4. Wikki Tourists FC (Bauchi)  3  0  1  2  2-5  1
+9/10/2006; Ocean Boys  ; 0-0; Kwara United; Abuja National Stadium.
+9/10/2006; Wikki Tourists  ; 0-2; Nasarawa United; Abuja National Stadium.
 
 
-NB: The 2006/07 season is programmed to kick off on October 7 to begin 
-    a new era of Nigerian league season calendar harmonized with those
-    of most other countries, especially in Europe. This is, however, 
-    subject to the approval of the NFL Congress billed to hold a day
-    before the board elections in Abuja.
-
-NB: NFL Board ratified at its Extraordinary Congress in Abuja that the 
-    last two teams in the Premier League would be automatically be 
-    relegated at the end of the football season while the first from 
-    each zone of the Pro League gain promotion to the elite Globacom 
-    League.
-
-The Nigerian Football League (NFL) Congress has approved the abridged 
-league format as proposed by the league board, breaking the Premier 
-League into two and the Pro-League Division One into four for the 2006 
-season only.
-
-The format, which is a measure to harmonize the NFL calendar in line 
-with others in the continent and will be only for the 2006 season being 
-proposed to end by August, brings back a Super League competition at 
-a neutral venue that will involve the top two winners in both groups 
-in the Premier League fighting for the two CAF Champions League tickets 
-as well as one of the two tickets into the African Confederation Cup 
-competition.
+* 1. Ocean Boys FC (Brass)       3  2  1  0  3-0  7 Champions
+* 2. Nasarawa United FC (Lafia)  3  2  0  1  3-2  6
+* 3. Kwara United FC (Ilorin)    3  0  2  1  2-3  2
+* 4. Wikki Tourists FC (Bauchi)  3  0  1  2  2-5  1
+*
+*
+*NB: The 2006/07 season is programmed to kick off on October 7 to begin 
+*    a new era of Nigerian league season calendar harmonized with those
+*    of most other countries, especially in Europe. This is, however, 
+*    subject to the approval of the NFL Congress billed to hold a day
+*    before the board elections in Abuja.
+*
+*NB: NFL Board ratified at its Extraordinary Congress in Abuja that the 
+*    last two teams in the Premier League would be automatically be 
+*    relegated at the end of the football season while the first from 
+*    each zone of the Pro League gain promotion to the elite Globacom 
+*    League.
+*
+*The Nigerian Football League (NFL) Congress has approved the abridged 
+*league format as proposed by the league board, breaking the Premier 
+*League into two and the Pro-League Division One into four for the 2006 
+*season only.
+*
+*The format, which is a measure to harmonize the NFL calendar in line 
+*with others in the continent and will be only for the 2006 season being 
+*proposed to end by August, brings back a Super League competition at 
+*a neutral venue that will involve the top two winners in both groups 
+*in the Premier League fighting for the two CAF Champions League tickets 
+*as well as one of the two tickets into the African Confederation Cup 
+*competition.
 
 
 
