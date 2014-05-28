@@ -51,7 +51,7 @@ Date: 1/7/2007
 
 ; Insurance; 0-0; Akwa 
 ; Gombe    ; 0-0; Lobi
-;; El-Kanemi; 1-0 Zamfara
+; El-Kanemi; 1-0; Zamfara
 ; Bayelsa  ; 0-0; Enyimba 
 
 Date: 2/15/2007
@@ -101,7 +101,7 @@ Group: B
 
 ; Gombe    ; 2-0; Insurance
 ; Bayelsa  ; 0-0; Zamfara
-;; El-Kanemi; 0-0 Lobi
+; El-Kanemi; 0-0; Lobi
 ; Enyimba  ; 0-0; Dolphin
 ; Nasarawa ; 1-0; Akwa
 
@@ -184,7 +184,7 @@ Date: 1/31/2007
 
 Date: 2/1/2007
 
-;; El-Kanemi; 2-0 Nasarawa
+; El-Kanemi; 2-0; Nasarawa
 
 Round: 7
 Group: A
@@ -228,7 +228,7 @@ Date: 2/7/2007
 ; Nasarawa ; 1-1; Bayelsa
 ; Akwa     ; 2-0; Gombe 
 ; Insurance; 0-0; Dolphin
-;; El-Kanemi; 1-0 Enyimba
+; El-Kanemi; 1-0; Enyimba
 
 Round: 9
 Group: A
@@ -277,7 +277,7 @@ Date: 2/25/2007
 Group: B
 Date: 2/24/2007
 
-;; El-Kanemi; 0-0 Dolphin
+; El-Kanemi; 0-0; Dolphin
 ; Insurance; 2-1; Zamfara 
 
 Date: 2/25/2007
@@ -301,12 +301,12 @@ Date: 3/4/2007
 Date: 4/28/2007
 
 ; Tornadoes awd Kwara          
-*[awarded; 0-3;; abandoned at 1-2 in 80' due to crowd trouble]
+*[awarded; 0-3; abandoned at 1-2 in 80' due to crowd trouble]
 
 Group: B                       
 Date: 3/4/2007
 
-; Akwa     ; 1-1; Insurance
+; Akwa     ; 1-1;; Insurance
 ; Zamfara  ; 1-0; El-Kanemi
 ; Lobi     ; 1-0; Gombe
 ; Enyimba  ; 3-0; Bayelsa
@@ -328,7 +328,7 @@ Date: 3/7/2007
 Group: B
 Date: 3/7/2007
 
-;; El-Kanemi; 1-2 Akwa
+; El-Kanemi; 1-2; Akwa
 ; Insurance; 3-0; Lobi
 ; Gombe    ; 1-0; Enyimba
 ; Nasarawa ; 2-0; Zamfara
@@ -385,7 +385,7 @@ Date: 3/16/2007
 
 Date: 3/17/2007
 
-;; El-Kanemi; 2-2 Insurance
+; El-Kanemi; 2-2; Insurance
 
 Date: 3/18/2007
 
@@ -412,7 +412,7 @@ Date: 3/25/2007
 Group: B 
 Date: 3/25/2007
 
-;; El-Kanemi; 2-1 Gombe
+; El-Kanemi; 2-1; Gombe
 ; Insurance; 2-0; Nasarawa
 ; Zamfara  ; 1-0; Dolphin
 *Akwa      abd Enyimba        [abandoned at 2-1 due to crowd trouble, killing 2 people]
@@ -469,7 +469,7 @@ Date: 5/2/2007
 Group: B 
 Date: 5/2/2007
 
-;; El-Kanemi; 1-0 Bayelsa
+; El-Kanemi; 1-0; Bayelsa
 ; Insurance; 2-0; Enyimba
 ; Nasarawa ; 1-0; Gombe
 ; Akwa     ; 1-1; Zamfara
@@ -548,16 +548,16 @@ Date: 6/6/2007
 Babale Ibrahim 43; Uche Kalu 5, David Tyevkase 25
 
 ; Gombe    ; 0-1; Rangers
-  Chijioke Abai 78
+;  Chijioke Abai 78
 
 Round: 2 
 Date: 6/8/2007
 
 ; Wikki    ; 0-1; Gombe
-  Bala Manu 51
+;  Bala Manu 51
 
 ; Rangers  ; 0-2; Enyimba
-  Ajibade Omolade 7, Junior Osagie 60
+;  Ajibade Omolade 7, Junior Osagie 60
 
 Round: 3 
 Date: 6/10/2007
@@ -566,7 +566,7 @@ Date: 6/10/2007
   Bala Manu 34; Junior Osagie 67
 
 ; Wikki    ; 2-1; Rangers
-  Abubarkar Ibrahim 69, Aliu Ahmed 82; John Nnam 30pen
+  Abubarkar Ibrahim 69, Aliu Ahmed 82; John Nnam (pk) 30
 
 
 

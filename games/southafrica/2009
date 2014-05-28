@@ -25,7 +25,7 @@ Round: 1
 Date: 8/7/2009
 
 ; Maritzburg United        ; 1-1; SuperSport United 
-  Noah Chivuta 41pen; Morgan Gould 23
+  Noah Chivuta (pk) 41; Morgan Gould 23
 
 Date: 8/8/2009
 
@@ -41,7 +41,7 @@ Date: 8/8/2009
 Date: 8/9/2009
 
 ; AmaZulu                  ; 2-2; BidVest Wits University 
-  Bafo Biyela 38pen, Pere Ariweriyai 65; Calvin Kadi 10, 41
+  Bafo Biyela (pk) 38, Pere Ariweriyai 65; Calvin Kadi 10, 41
 
 ; Bloemfontein Celtic      ; 2-2; Free State Stars 
   Prince Olomu 56, 60; Eder Richartz 31, Kingston Nkhatha 87
@@ -111,12 +111,12 @@ Round: 4
 Date: 8/29/2009
 
 ; Bidvest Wits University  ; 1-1; Bloemfontein Celtic   
-  Calvin Kadi 11; Patrick Malokase 77pen
+  Calvin Kadi 11; Patrick Malokase (pk) 77
  
 ; Mpumalanga Black Aces    ; 0-0; Lamontville Golden Arrows 
 
 ; SuperSport United        ; 0-1; Ajax Cape Town 
-  Diphetogo Selolwane 14pen
+  Diphetogo Selolwane (pk) 14
   
 ; Platinum Stars           ; 1-0; Maritzburg United  
   Reuben Thebakang 87
@@ -131,7 +131,7 @@ Date: 8/29/2009
 Date: 8/30/2009
 
 ; AmaZulu                  ; 2-3; Kaizer Chiefs
-  Kapamba Chintu 31, Ayanda Dlamini 70; Simphiwe Tshabalala 27pen, 
+  Kapamba Chintu 31, Ayanda Dlamini 70; Simphiwe Tshabalala (pk) 27, 
    Nkosinathi Nhleko 29, David Mathebula 56
  
 ; Free State Stars         ; 0-1; Moroka Swallows  
@@ -150,7 +150,7 @@ Date: 9/12/2009
 ; Lamontville Golden Arrows; 0-0; Orlando Pirates           
 
 ; Mamelodi Sundowns        ; 1-1; SuperSport United   
-  Katlego Mphela 56pen; Anthony Laffor 67pen
+  Katlego Mphela (pk) 56; Anthony Laffor (pk) 67
       
 ; Mpumalanga Black Aces    ; 1-1; Platinum Stars   
   Sibusiso Themba 66; Alton Meiring 19
@@ -186,7 +186,7 @@ Date: 9/16/2009
   Dikgang Mabalane 61
 
 ; AmaZulu                  ; 0-1; Ajax Cape Town 
-  Diphetogo Selolwane 11pen
+  Diphetogo Selolwane (pk) 11
 
 ; Santos                   ; 1-1; Jomo Cosmos
   Graham King 46; Sekouba Camara 71
@@ -245,7 +245,7 @@ Date: 9/26/2009
   Tyren Arendse 72, Phikolethu Spelman 78
       
 ; Orlando Pirates          ; 1-1; Bidvest Wits University 
-  Lucas Thwala 21pen; Calvin Kadi 64
+  Lucas Thwala (pk) 21; Calvin Kadi 64
         
 ; Mamelodi Sundowns        ; 1-2; Ajax Cape Town     
   Mabhuti Khenyeza 35; Sifiso Vilakazi 68, Diyo Sibisi 73
@@ -270,7 +270,7 @@ Date 10/2/2009
   Erwin Isaacs 56
         
 ; Maritzburg United        ; 1-5; Mamelodi Sundowns   
-  Noah Chivuta 24pen; Katlego Mphela 46, 70, Elias Pelembe 50,
+  Noah Chivuta (pk) 24; Katlego Mphela 46, 70, Elias Pelembe 50,
    Mabhuti Khenyeza 89, Lebohang Mokoena 90+1
             
 
@@ -291,7 +291,7 @@ Date 10/3/2009
 Date 10/4/2009
 
 ; Bidvest Wits University  ; 3-1; Jomo Cosmos           
-  Fabricio Rodriguez 25pen, Calvin Kadi 77, Marawaan Bantam 86;
+  Fabricio Rodriguez (pk) 25, Calvin Kadi 77, Marawaan Bantam 86;
    Koena Mathopa 79
           
 ; Ajax Cape Town           ; 0-3; Kaizer Chiefs           
@@ -311,11 +311,11 @@ Date 10/17/2009
    Dario Monteiro 89
       
 ; Mamelodi Sundowns        ; 2-2; Kaizer Chiefs     
-  Katlego Mphela 29pen, 70; Knowledge Musona 56,
+  Katlego Mphela (pk) 29, 70; Knowledge Musona 56,
    Simphiwe Tshabalala 62
           
 ; Free State Stars         ; 0-1; Platinum Stars  
-  Norikazu Murakami 88pen
+  Norikazu Murakami (pk) 88
             
 ; Orlando Pirates          ; 0-1; Santos     
   Erwin Isaacs 44
@@ -338,7 +338,7 @@ Round: 11
 Date: 9/30/2009
 
 ; AmaZulu                  ; 0-1; Lamontville Golden Arrows 
-  Richard Henyekane 23pen
+  Richard Henyekane (pk) 23
 
 ; Platinum Stars           ; 0-1; Ajax Cape Town            
   Diphetogo Selolwane 75
@@ -356,11 +356,11 @@ Date 10/21/2009
   Bryce Aka 38; Koena Mathopa 16
                      
 ; Santos                   ; 2-2; Free State Stars   
-  Tony Tsabedze 25, Tyren Arendse 72pen; Tebelo Mofokeng 1,
+  Tony Tsabedze 25, Tyren Arendse (pk) 72; Tebelo Mofokeng 1,
    Mpho Makola 81
               
 ; SuperSport United        ; 3-0; Orlando Pirates     
-  Daine Klate 34, 69pen, Dario Monteiro 90+1
+  Daine Klate 34, (pk) 69, Dario Monteiro 90+1
              
 ; Bidvest Wits University  ; 0-1; Mpumalanga Black Aces  
   Clifford Mulenga 78
@@ -378,7 +378,7 @@ Date 10/27/2009
 Date 10/28/2009
 
 ; Ajax Cape Town           ; 2-0; Moroka Swallows  
-  Diphetogo Selolwane 58pen, Gordon Gilbert 90+1og
+  Diphetogo Selolwane (pk) 58, Gordon Gilbert 90+1og
                    
 ; Platinum Stars           ; 2-0; Mamelodi Sundowns   
   Tshepo Ramokala 64, Alton Meiring 73
@@ -407,7 +407,7 @@ Date 10/31/2009
 ; Kaizer Chiefs            ; 0-0; Orlando Pirates    
 
 ; Maritzburg United        ; 1-1; Free State Stars    
-  Bryce Aka 27; Duncan Lechesa 83pen
+  Bryce Aka 27; Duncan Lechesa (pk) 83
                 
 ; Platinum Stars           ; 0-1; Moroka Swallows   
   Shaun Haschick 22
@@ -511,7 +511,7 @@ Date: 11/21/2009
    Rudolph Bester 81
                
 ; Orlando Pirates          ; 3-0; Ajax Cape Town
-  Katlego Mashego 27, Phenyo Mongala 52, Rooi Mahamutsa 70pen
+  Katlego Mashego 27, Phenyo Mongala 52, Rooi Mahamutsa (pk) 70
                
 ; Lamontville Golden Arrows; 1-3; Moroka Swallows 
   Richard Henyekane 46; Collins Mbesuma 49, 76, David Radebe 80
@@ -598,19 +598,19 @@ Date: 12/1/2009
 Date: 12/2/2009
 
 ; Lamontville Golden Arrows; 2-1; Mpumalanga Black Aces
-  Thanduyise Khuboni 57, Njabulo 90+1; Clifford Mulenga 82pen
+  Thanduyise Khuboni 57, Njabulo 90+1; Clifford Mulenga (pk) 82
        
 Kaizer Chiefs             abd AmaZulu                   [abandoned at 0-0]  
 Mamelodi Sundowns         abd Santos                    [abandoned at 1-0]   
 
 ; Jomo Cosmos              ; 1-0; Orlando Pirates   
-  Siza Dlamini 66pen
+  Siza Dlamini (pk) 66
           
 ; Bloemfontein Celtic      ; 3-0; Bidvest Wits University 
   Mbuyiselo Wellington Sambu 15, Excellent Walaza 17, Cecil Oerson 54
     
 ; Maritzburg United        ; 1-3; Platinum Stars   
-  Noah Chivuta 33pen; Norikazu Murakami 6, Dillon Sheppard 44,
+  Noah Chivuta (pk) 33; Norikazu Murakami 6, Dillon Sheppard 44,
    Almiro Lobo 78
            
 
@@ -633,7 +633,7 @@ Date: 12/5/2009
   Mpho Maleka 11
 
 ; Free State Stars         ; 2-2; Jomo Cosmos    
-  Mpho Makola 8, Kennedy Mweene 31pen; Elhadji Abdou Samb 49, 
+  Mpho Makola 8, Kennedy Mweene (pk) 31; Elhadji Abdou Samb 49, 
    Tshepo Moloto 80
            
 ; Bidvest Wits University  ; 0-2; Ajax Cape Town     
@@ -720,10 +720,10 @@ Date: 12/12/2009
 Date: 12/13/2009
 
 ; Maritzburg United        ; 2-1; Ajax Cape Town         
-  Musa Nyatama 55, 56; Lance Davids 80pen
+  Musa Nyatama 55, 56; Lance Davids (pk) 80
           
 ; AmaZulu                  ; 0-3; Mamelodi Sundowns       
-  Katlego Mphela 70, 90pen, Lebohang Mokoena 72
+  Katlego Mphela 70, (pk) 90, Lebohang Mokoena 72
         
 Round: 23
 Date: 12/15/2009
@@ -741,7 +741,7 @@ Date: 12/16/2009
 ; Jomo Cosmos              ; 0-0; Bidvest Wits University   
 
 ; Lamontville Golden Arrows; 1-0; SuperSport United   
-  Richard Henyekane 45pen
+  Richard Henyekane (pk) 45
          
 ; Moroka Swallows          ; 0-4; AmaZulu       
   Ayanda Dlamini 26, 65, 84, Litha Ngxabi 77
@@ -761,10 +761,10 @@ Date: 12/18/2009
 Date: 12/19/2009
 
 ; Kaizer Chiefs            ; 1-2; Mamelodi Sundowns 
-  Josta Dladla 42pen; Katlego Mphela 34, Siyanda Xulu 78
+  Josta Dladla (pk) 42; Katlego Mphela 34, Siyanda Xulu 78
         
 ; Bidvest Wits University  ; 2-1; Lamontville Golden Arrows 
-  Sifiso Myeni 24pen, Mark Haskins 81; Richard Henyekane 88pen
+  Sifiso Myeni (pk) 24, Mark Haskins 81; Richard Henyekane (pk) 88
         
 ; SuperSport United        ; 3-0; Mpumalanga Black Aces 
   Anthony Laffor 38, Glen Salmon 62, Jabu Maluleke 83
@@ -779,7 +779,7 @@ Date: 12/20/2009
    Tlou Segolela 88; Derek Decamps 36, Aboubacar Fofana 80
         
 ; Maritzburg United        ; 1-1; Moroka Swallows
-  Serge Bageta Dikilu 62pen; David Radebe 86
+  Serge Bageta Dikilu (pk) 62; David Radebe 86
         
 Date: 2/13/2010
 
@@ -866,7 +866,7 @@ Date: 2/10/2010
   Mpho Maleka 51
 
 ; Free State Stars         ; 1-1; Bidvest Wits University  
-  Kennedy Mweene 84pe; Sifiso Myeni 74pen
+  Kennedy Mweene 84pe; Sifiso Myeni (pk) 74
 
 Round: 28
 Date: 2/16/2010
@@ -924,7 +924,7 @@ Date: 2/24/2010
   Nazeer Allie 45og; Diphetogo Selolwane 56
 
 ; Jomo Cosmos              ; 2-0; Mamelodi Sundowns
-  Paballo Mngomezulu 4, Siza Dlamini 88pen
+  Paballo Mngomezulu 4, Siza Dlamini (pk) 88
 
 ; SuperSport United        ; 1-2; Bidvest Wits University 
   Brian Umony 33; Mark Haskins 26, Calvin Kadi 67
@@ -953,7 +953,7 @@ Date: 3/6/2010
   Katlego Mphela 41, Siyanda Xulu 89, Mabhuti Khenyeza 90
 
 ; AmaZulu                  ; 3-0; SuperSport United
-  Ayanda Dlamini 58, 85pen, Thamsanqa Sangweni 74
+  Ayanda Dlamini 58, (pk) 85, Thamsanqa Sangweni 74
 
 ; Bidvest Wits University  ; 2-0; Platinum Stars
   Marwaan Bantam 65, Thando Mngomeni 82
@@ -962,7 +962,7 @@ Date: 3/6/2010
   Bongani Ndulula 70; Ndumiso Mabena 47
 
 ; Ajax Cape Town           ; 1-1; Mpumalanga Black Aces   
-  Lance Davids 40; Thomrick October 33pen
+  Lance Davids 40; Thomrick October (pk) 33
   
 
 * 1.SuperSport United         30 16  9  5  51-25  57  Champions
