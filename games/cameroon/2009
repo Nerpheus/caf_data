@@ -18,267 +18,344 @@ Season: 2009-2010
 *14.Roumdé Adjia FC (Garoua)              26  4  3 19 21-49 15  Relegated
 
 Round: 1 
-[Oct 25]
-Astres          1-1 Union
-[Oct 28]
-Fovu            abd Panthère        [abandoned due to rain]
-Tiko            3-1 Roumdé Adjia
-Renaissance     0-1 Unisport
-Matelots        1-2 Sable
-Cotonsport      2-1 YOSA
-Canon           1-0 Ngaoundéré
-[Oct 29]
-Fovu            0-2 Panthère        [replay]   
+Date: 10/25/2009
 
-Round: 2 [Nov 1]
-Roumdé Adjia    1-0 Les Astres
-Unisport        1-2 Matelots
-Panthère        1-0 Canon
-Ngaoundéré      1-1 Tiko
-Union           3-2 Renaissance
-Sable           0-0 Cotonsport
-YOSA            0-0 Fovu
+; Astres         ; 1-1; Union
 
-Round: 3 [Nov 8]
-Fovu            0-1 Sable
-Panthère        0-0 YOSA
-Renaissance     3-2 Roumdé Adjia
-Matelots        1-0 Union
-Cotonsport      4-2 Unisport
-Les Astres      2-1 Ngaoundéré
-Canon           1-2 Tiko
+Date: 10/28/2009
 
-Round: 4 [Nov 15]
-YOSA            1-1 Canon              
-Sable           1-0 Panthère 
-Union           2-5 Cotonsport
-Ngaoundéré      0-0 Renaissance 
-Unisport        1-1 Fovu 
-Tiko            2-2 Les Astres 
-Roumdé Adjia    1-0 Matelots
+*Fovu            abd Panthère        [abandoned due to rain]
+; Tiko           ; 3-1; Roumdé Adjia
+; Renaissance    ; 0-1; Unisport
+; Matelots       ; 1-2; Sable
+; Cotonsport     ; 2-1; YOSA
+; Canon          ; 1-0; Ngaoundéré
 
-Round: 5 [Nov 22]
-Canon           0-0 Les Astres 
-YOSA            0-0 Sable 
-Cotonsport      3-0 Roumdé Adjia
-Matelots        2-1 Ngaoundéré
-Renaissance     0-1 Tiko 
-Panthère        1-0 Unisport
-Fovu            0-1 Union
+Date: 10/29/2009
 
-Round: 6 [Nov 29]
-Les Astres      3-0 Renaissance
-Union           0-0 Panthère 
-Ngaoundéré      1-0 Cotonsport
-Unisport        0-0 YOSA              
-Tiko            1-0 Matelots 
-Roumdé Adjia    1-2 Fovu
-Sable           1-1 Canon              
+; Fovu           ; 0-2; Panthère        
+*[replay]   
 
-Round: 7 [Dec 6]
-Fovu            1-0 Ngaoundéré
-Canon           1-2 Renaissance 
-YOSA            1-1 Union 
-Sable           0-2 Unisport
-Cotonsport      2-0 Tiko 
-Matelots        0-1 Les Astres
-Panthère        1-0 Roumdé Adjia 
+Round: 2 
+Date: 11/1/2009
 
-Round: 8 [Dec 13]
-Les Astres      1-3 Cotonsport 
-Union           1-1 Sable
-Ngaoundéré      0-1 Panthère 
-Renaissance     0-0 Matelots
-Canon           0-1 Unisport
-Tiko            2-1 Fovu 
-Roumdé Adjia    2-0 YOSA              
+; Roumdé Adjia   ; 1-0; Les Astres
+; Unisport       ; 1-2; Matelots
+; Panthère       ; 1-0; Canon
+; Ngaoundéré     ; 1-1; Tiko
+; Union          ; 3-2; Renaissance
+; Sable          ; 0-0; Cotonsport
+; YOSA           ; 0-0; Fovu
 
-Round: 9 [Dec 20]
-YOSA            0-0 Ngaoundéré 
-Sable           1-0 Roumdé Adjia 
-Cotonsport      2-1 Renaissance 
-Panthère        1-1 Tiko 
-Unisport        1-1 Union 
-Fovu            2-1 Les Astres 
-Matelots        1-3 Canon             
+Round: 3 
+Date: 11/8/2009
+
+; Fovu           ; 0-1; Sable
+; Panthère       ; 0-0; YOSA
+; Renaissance    ; 3-2; Roumdé Adjia
+; Matelots       ; 1-0; Union
+; Cotonsport     ; 4-2; Unisport
+; Les Astres     ; 2-1; Ngaoundéré
+; Canon          ; 1-2; Tiko
+
+Round: 4 
+Date: 11/15/2009
+
+; YOSA           ; 1-1; Canon              
+; Sable          ; 1-0; Panthère 
+; Union          ; 2-5; Cotonsport
+; Ngaoundéré     ; 0-0; Renaissance 
+; Unisport       ; 1-1; Fovu 
+; Tiko           ; 2-2; Les Astres 
+; Roumdé Adjia   ; 1-0; Matelots
+
+Round: 5 
+Date: 11/22/2009
+
+; Canon          ; 0-0; Les Astres 
+; YOSA           ; 0-0; Sable 
+; Cotonsport     ; 3-0; Roumdé Adjia
+; Matelots       ; 2-1; Ngaoundéré
+; Renaissance    ; 0-1; Tiko 
+; Panthère       ; 1-0; Unisport
+; Fovu           ; 0-1; Union
+
+Round: 6 
+Date: 11/29/2009
+
+; Les Astres     ; 3-0; Renaissance
+; Union          ; 0-0; Panthère 
+; Ngaoundéré     ; 1-0; Cotonsport
+; Unisport       ; 0-0; YOSA              
+; Tiko           ; 1-0; Matelots 
+; Roumdé Adjia   ; 1-2; Fovu
+; Sable          ; 1-1; Canon              
+
+Round: 7 
+Date: 12/6/2009
+
+; Fovu           ; 1-0; Ngaoundéré
+; Canon          ; 1-2; Renaissance 
+; YOSA           ; 1-1; Union 
+; Sable          ; 0-2; Unisport
+; Cotonsport     ; 2-0; Tiko 
+; Matelots       ; 0-1; Les Astres
+; Panthère       ; 1-0; Roumdé Adjia 
+
+Round: 8 
+Date: 12/13/2009
+
+; Les Astres     ; 1-3; Cotonsport 
+; Union          ; 1-1; Sable
+; Ngaoundéré     ; 0-1; Panthère 
+; Renaissance    ; 0-0; Matelots
+; Canon          ; 0-1; Unisport
+; Tiko           ; 2-1; Fovu 
+; Roumdé Adjia   ; 2-0; YOSA              
+
+Round: 9 
+Date: 12/20/2009
+
+; YOSA           ; 0-0; Ngaoundéré 
+; Sable          ; 1-0; Roumdé Adjia 
+; Cotonsport     ; 2-1; Renaissance 
+; Panthère       ; 1-1; Tiko 
+; Unisport       ; 1-1; Union 
+; Fovu           ; 2-1; Les Astres 
+; Matelots       ; 1-3; Canon             
 
 Round: 10 
-[Dec 23]       
-Union           0-0 Canon           
-Les Astres      3-2 Panthère        
-Tiko            1-0 YOSA 
-[Dec 24]    
-Renaissance     0-3 Fovu     
-Roumdé Adjia    0-1 Unisport        
-Ngaoundéré      2-0 Sable       
-[Dec 27]      
-Matelots        0-1 Cotonsport      
+Date: 12/23/2009
 
-Round: 11 [Dec 30]
-Canon           0-2 Cotonsport      
-Union           2-1 Roumdé Adjia    
-Sable           0-0 Tiko            
-Fovu            1-1 Matelots        
-Unisport        2-0 Ngaoundéré      
-YOSA            2-0 Les Astres      
-Panthère        2-0 Renaissance     
+; Union          ; 0-0; Canon           
+; Les Astres     ; 3-2; Panthère        
+; Tiko           ; 1-0; YOSA 
 
-Round: 12 [Jan 9]
-Roumdé Adjia    0-1 Canon           
-Tiko            0-2 Unisport        
-Renaissance     0-3 YOSA            
-Ngaoundéré      2-1 Union           
-Matelots        2-3 Panthère        
-Cotonsport      5-2 Fovu            
-Les Astres      4-0 Sable           
+Date: 12/24/2009
 
-Round: 13 [Feb 7]
-Roumdé Adjia    0-1 Ngaoundéré      
-Unisport        1-2 Les Astres      
-Panthère        0-0 Cotonsport      
-Union           2-1 Tiko            
-Sable           1-2 Renaissance     
-YOSA            2-0 Matelots        
-Canon           2-1 Fovu            
+; Renaissance    ; 0-3; Fovu     
+; Roumdé Adjia   ; 0-1; Unisport        
+; Ngaoundéré     ; 2-0; Sable       
+
+Date: 12/27/2009
+
+; Matelots       ; 0-1; Cotonsport      
+
+Round: 11 
+Date: 12/30/2009
+
+; Canon          ; 0-2; Cotonsport      
+; Union          ; 2-1; Roumdé Adjia    
+; Sable          ; 0-0; Tiko            
+; Fovu           ; 1-1; Matelots        
+; Unisport       ; 2-0; Ngaoundéré      
+; YOSA           ; 2-0; Les Astres      
+; Panthère       ; 2-0; Renaissance     
+
+Round: 12 
+Date: 1/9/2010
+
+; Roumdé Adjia   ; 0-1; Canon           
+; Tiko           ; 0-2; Unisport        
+; Renaissance    ; 0-3; YOSA            
+; Ngaoundéré     ; 2-1; Union           
+; Matelots       ; 2-3; Panthère        
+; Cotonsport     ; 5-2; Fovu            
+; Les Astres     ; 4-0; Sable           
+
+Round: 13 
+Date: 2/7/2010
+
+; Roumdé Adjia   ; 0-1; Ngaoundéré      
+; Unisport       ; 1-2; Les Astres      
+; Panthère       ; 0-0; Cotonsport      
+; Union          ; 2-1; Tiko            
+; Sable          ; 1-2; Renaissance     
+; YOSA           ; 2-0; Matelots        
+; Canon          ; 2-1; Fovu            
 
 Round: 14
-[Feb 14]
-Panthère        0-0 Fovu
-Unisport        2-1 Renaissance
-Sable           1-0 Matelots
-YOSA            0-1 Cotonsport
-Union           0-1 Les Astres
-Ngaoundéré      0-0 Canon
-[Mar 3]
-Roumdé Adjia    1-0 Tiko
+Date: 2/14/2010
+
+; Panthère       ; 0-0; Fovu
+; Unisport       ; 2-1; Renaissance
+; Sable          ; 1-0; Matelots
+; YOSA           ; 0-1; Cotonsport
+; Union          ; 0-1; Les Astres
+; Ngaoundéré     ; 0-0; Canon
+
+Date: 3/3/2010
+
+; Roumdé Adjia   ; 1-0; Tiko
 
 Round: 15
-[Feb 20]
-Tiko            2-0 Ngaoundéré
-Canon           1-1 Panthère
-Renaissance     1-0 Union
-[Feb 21]
-Les Astres      1-1 Roumdé Adjia
-Matelots        0-1 Unisport
-Cotonsport      2-1 Sable
-Fovu            0-0 YOSA 
+
+Date: 2/20/2010
+
+; Tiko           ; 2-0; Ngaoundéré
+; Canon          ; 1-1; Panthère
+; Renaissance    ; 1-0; Union
+
+Date: 2/21/2010
+
+; Les Astres     ; 1-1; Roumdé Adjia
+; Matelots       ; 0-1; Unisport
+; Cotonsport     ; 2-1; Sable
+; Fovu           ; 0-0; YOSA 
 
 Round: 16
-[Feb 23]
-Tiko            1-0 Canon
-[Feb 28]
-Roumdé Adjia    0-1 Renaissance
-Union           1-2 Matelots
-Ngaoundéré      0-0 Les Astres
-YOSA            1-1 Panthère
-Unisport        1-1 Cotonsport
-Sable           1-0 Fovu   
 
-Round: 17 [Mar 7]
-Cotonsport      2-1 Union
-Matelots        3-0 Roumdé Adjia
-Les Astres      2-0 Tiko
-Fovu            1-1 Unisport
-Panthère        1-1 Sable
-Renaissance     1-2 Ngaoundéré   
-Canon           2-1 YOSA
+Date: 2/23/2010
+
+; Tiko           ; 1-0; Canon
+
+Date: 2/28/2010
+
+; Roumdé Adjia   ; 0-1; Renaissance
+; Union          ; 1-2; Matelots
+; Ngaoundéré     ; 0-0; Les Astres
+; YOSA           ; 1-1; Panthère
+; Unisport       ; 1-1; Cotonsport
+; Sable          ; 1-0; Fovu   
+
+Round: 17 
+Date: 3/7/2010
+
+; Cotonsport     ; 2-1; Union
+; Matelots       ; 3-0; Roumdé Adjia
+; Les Astres     ; 2-0; Tiko
+; Fovu           ; 1-1; Unisport
+; Panthère       ; 1-1; Sable
+; Renaissance    ; 1-2; Ngaoundéré   
+; Canon          ; 2-1; YOSA
    
 Round: 18
-[Mar 14]
-Roumdé Adjia    1-1 Cotonsport
-Union           2-2 Fovu
-Tiko            1-0 Renaissance
-Sable           0-2 YOSA
-Unisport        1-2 Panthère
-Ngaoundéré      1-1 Matelots
-[Mar 17]
-Les Astres      2-1 Canon
+Date: 3/14/2010
+
+; Roumdé Adjia   ; 1-1; Cotonsport
+; Union          ; 2-2; Fovu
+; Tiko           ; 1-0; Renaissance
+; Sable          ; 0-2; YOSA
+; Unisport       ; 1-2; Panthère
+; Ngaoundéré     ; 1-1; Matelots
+
+Date: 3/17/2010
+
+; Les Astres     ; 2-1; Canon
 
 Round: 19
-[Mar 21]
-Fovu            2-1 Roumdé Adjia
-YOSA            1-0 Unisport
-[Mar 24]
-Canon           2-0 Sable
-Renaissance     1-0 Les Astres
-Matelots        1-1 Tiko
-[Mar 28]
-Cotonsport      2-0 Ngaoundéré
-Panthère        0-0 Union
+Date: 3/21/2010
+
+; Fovu           ; 2-1; Roumdé Adjia
+; YOSA           ; 1-0; Unisport
+
+Date: 3/24/2010
+
+; Canon          ; 2-0; Sable
+; Renaissance    ; 1-0; Les Astres
+; Matelots       ; 1-1; Tiko
+
+Date: 3/28/2010
+
+; Cotonsport     ; 2-0; Ngaoundéré
+; Panthère       ; 0-0; Union
 
 Round: 20
-[Apr 4]
-Les Astres      5-2 Matelots
-Renaissance     awd Canon           [awarded 2-0 win to Renaissance;
-Ngaoundéré      1-1 Fovu             originally 2-2] 
-Unisport        0-2 Sable
-[Apr 14]
-Union           2-2 YOSA           
-Tiko            1-2 Cotonsport 
-[Apr 21]
-Roumdé Adjia    2-5 Panthère
+Date: 4/4/2010
+
+; Les Astres     ; 5-2; Matelots
+*Renaissance     awd Canon           [awarded 2-0 win to Renaissance; originally 2-2] 
+; Ngaoundéré     ; 1-1; Fovu             
+; Unisport       ; 0-2; Sable
+
+Date: 4/14/2010
+
+; Union          ; 2-2; YOSA           
+; Tiko           ; 1-2; Cotonsport 
+
+Date: 4/21/2010
+
+; Roumdé Adjia   ; 2-5; Panthère
 
 Round: 21
-[Apr 10]
-YOSA            2-1 Roumdé Adjia
-Cotonsport      awd Les Astres      [awarded 0-0 win to Les Astres;
-Matelots        1-0 Renaissance      originally 1-0]
-Unisport        2-0 Canon           
-[Apr 11]
-Sable           awd Union           [awarded 0-0 win to Union;
-Fovu            0-0 Tiko             originally 2-0]
-Panthère        0-0 Ngaoundéré      
+Date: 4/10/2010
+
+; YOSA           ; 2-1; Roumdé Adjia
+*; Cotonsport      awd Les Astres      [awarded; 0-0; win to Les Astres; originally 1-0]
+; Matelots       ; 1-0; Renaissance      
+; Unisport       ; 2-0; Canon           
+
+Date: 4/11/2010
+
+*; Sable           awd Union           [awarded; 0-0; win to Union; originally 2-0]
+; Fovu           ; 0-0; Tiko             
+; Panthère       ; 0-0; Ngaoundéré      
 
 Round: 22 
-[Apr 25]
-Canon           3-0 Matelots       
-Les Astres      2-0 Fovu            
-Roumdé Adjia    2-4 Sable           
-Ngaoundéré      1-0 YOSA            
-Tiko            4-0 Panthère        
-Union           3-1 Unisport        
-[May 12]     
-Renaissance     1-0 Cotonsport  
+Date: 4/25/2010
 
-Round: 23 [May 2]
-Cotonsport      5-0 Matelots
-Panthère        0-2 Les Astres
-YOSA            1-0 Tiko
-Fovu            awd Renaissance     [awarded 0-0 win to Renaissance;
-Unisport        0-2 Sable            originally 2-1; Fovu used player
-Sable           0-1 Ngaoundéré       with false identity]
-Canon           0-0 Union
-Unisport        0-0 Roumdé Adjia
+; Canon          ; 3-0; Matelots       
+; Les Astres     ; 2-0; Fovu            
+; Roumdé Adjia   ; 2-4; Sable           
+; Ngaoundéré     ; 1-0; YOSA            
+; Tiko           ; 4-0; Panthère        
+; Union          ; 3-1; Unisport        
+
+Date: 5/12/2010
+
+; Renaissance    ; 1-0; Cotonsport  
+
+Round: 23 
+Date: 5/2/2010
+
+; Cotonsport     ; 5-0; Matelots
+; Panthère       ; 0-2; Les Astres
+; YOSA           ; 1-0; Tiko
+*Fovu            awd Renaissance     [awarded 0-0 win to Renaissance; originally 2-1; Fovu used player with false identity]
+
+; Unisport       ; 0-2; Sable            
+; Sable          ; 0-1; Ngaoundéré       
+; Canon          ; 0-0; Union
+; Unisport       ; 0-0; Roumdé Adjia
 
 Round: 24
-[May 9]
-Ngaoundéré      0-1 Unisport
-Renaissance     1-1 Panthère
-Roumdé Adjia    0-3 Union
-Tiko            1-0 Sable
-Les Astres      0-0 YOSA
-[May 12]
-Matelots        1-0 Fovu
-[May 16]
-Cotonsport      1-1 Canon
-           
-Round: 25 [May 30]
-Canon           6-2 Roumdé Adjia 
-Unisport        0-1 Tiko
-YOSA            1-1 Renaissance  
-Union           5-0 Ngaoundéré
-Panthère        2-0 Matelots
-Sable           0-0 Les Astres
-Fovu            2-0 Cotonsport
+Date: 5/9/2010
 
-Round: 26 [Jun 6]
-Cotonsport      4-1 Panthère        
-Ngaoundéré      3-1 Roumde Adjia
-Tiko            2-1 Union
-Matelots        1-5 YOSA            
-Les Astres      2-1 Unisport
-Renaissance     3-0 Sable
-Fovu            1-0 Canon
+; Ngaoundéré     ; 0-1; Unisport
+; Renaissance    ; 1-1; Panthère
+; Roumdé Adjia   ; 0-3; Union
+; Tiko           ; 1-0; Sable
+; Les Astres     ; 0-0; YOSA
+
+Date: 5/12/2010
+
+; Matelots       ; 1-0; Fovu
+
+Date: 5/16/2010
+
+; Cotonsport     ; 1-1; Canon
+           
+Round: 25 
+Date: 5/30/2010
+
+; Canon          ; 6-2; Roumdé Adjia 
+; Unisport       ; 0-1; Tiko
+; YOSA           ; 1-1; Renaissance  
+; Union          ; 5-0; Ngaoundéré
+; Panthère       ; 2-0; Matelots
+; Sable          ; 0-0; Les Astres
+; Fovu           ; 2-0; Cotonsport
+
+Round: 26 
+Date: 6/6/2010
+
+; Cotonsport     ; 4-1; Panthère        
+; Ngaoundéré     ; 3-1; Roumde Adjia
+; Tiko           ; 2-1; Union
+; Matelots       ; 1-5; YOSA            
+; Les Astres     ; 2-1; Unisport
+; Renaissance    ; 3-0; Sable
+; Fovu           ; 1-0; Canon
 
 
 * 1.Coton Sport FC (Garoua)               26 17  5  4 50-20 56  Champions
