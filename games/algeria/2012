@@ -21,352 +21,446 @@ Competition: Algerian Ligue Professionnelle 1
 *16.USM Bel-Abbès          30   5  7 18  18-45  22  Relegated
 
 Round: 1
-[Sep 7]
-ASO Chlef             2-1 USM Bel-Abbès
-[Sep 15]
-CA Batna              1-1 CA Bordj Bou Arréridj
-JS Saoura             0-1 CR Bélouizdad
-MC El Eulma           1-1 ES Sétif
-MC Oran               0-2 JSM Béjaïa
-USM Algér             1-1 CS Constantine
-USM El Harrach        1-0 JS Kabylie
-WA Tlemcen            0-3 MC Alger
+Date: 9/7/2012
 
-Round: 2 [Sep 18]
-CA Bordj Bou Arréridj 0-1 USM El Harrach
-CR Bélouizdad         1-0 ASO Chlef
-CS Constantine        4-3 MC Oran
-ES Sétif              6-0 CA Batna
-JS Kabylie            3-0 WA Tlemcen
-MC Alger              1-0 JS Saoura
-MC El Eulma           3-2 USM Algér
-USM Bel-Abbès         0-1 JSM Béjaïa
+; ASO Chlef            ; 2-1; USM Bel-Abbès
 
-Round: 3 [Sep 22]
-ASO Chlef             1-1 CS Constantine
-CA Batna              2-1 MC El Eulma
-JS Saoura             2-1 JS Kabylie
-JSM Béjaïa            1-0 CR Bélouizdad
-MC Oran               1-1 USM Bel-Abbès
-USM Algér             1-0 MC Alger
-USM El Harrach        0-0 ES Sétif
-WA Tlemcen            0-0 CA Bordj Bou Arréridj
+Date: 9/15/2012
+
+; CA Batna             ; 1-1; CA Bordj Bou Arréridj
+; JS Saoura            ; 0-1; CR Bélouizdad
+; MC El Eulma          ; 1-1; ES Sétif
+; MC Oran              ; 0-2; JSM Béjaïa
+; USM Algér            ; 1-1; CS Constantine
+; USM El Harrach       ; 1-0; JS Kabylie
+; WA Tlemcen           ; 0-3; MC Alger
+
+Round: 2 
+Date: 9/18/2012
+
+; CA Bordj Bou Arréridj; 0-1; USM El Harrach
+; CR Bélouizdad        ; 1-0; ASO Chlef
+; CS Constantine       ; 4-3; MC Oran
+; ES Sétif             ; 6-0; CA Batna
+; JS Kabylie           ; 3-0; WA Tlemcen
+; MC Alger             ; 1-0; JS Saoura
+; MC El Eulma          ; 3-2; USM Algér
+; USM; Bel-Abbès;         0-1 JSM Béjaïa
+
+Round: 3 
+Date: 9/22/2012
+
+; ASO Chlef            ; 1-1; CS Constantine
+; CA Batna             ; 2-1; MC El Eulma
+; JS Saoura            ; 2-1; JS Kabylie
+; JSM Béjaïa           ; 1-0; CR Bélouizdad
+; MC Oran              ; 1-1; USM Bel-Abbès
+; USM Algér            ; 1-0; MC Alger
+; USM El Harrach       ; 0-0; ES Sétif
+; WA Tlemcen           ; 0-0; CA Bordj Bou Arréridj
 
 Round: 4
-[Sep 28]
-CR Bélouizdad         0-0 USM Bel-Abbès
-[Sep 29]
-CA Batna              0-3 USM Algér
-CA Bordj Bou Arréridj 0-1 JS Saoura
-CS Constantine        2-2 JSM Béjaïa
-ES Sétif              3-1 WA Tlemcen
-JS Kabylie            0-0 MC Oran
-MC Alger              0-0 ASO Chlef
-MC El Eulma           2-0 USM El Harrach
+Date: 9/28/2012
+
+; CR Bélouizdad        ; 0-0; USM Bel-Abbès
+
+Date: 9/29/2012
+
+; CA Batna             ; 0-3; USM Algér
+; CA Bordj Bou Arréridj; 0-1; JS Saoura
+; CS Constantine       ; 2-2; JSM Béjaïa
+; ES Sétif             ; 3-1; WA Tlemcen
+; JS Kabylie           ; 0-0; MC Oran
+; MC Alger             ; 0-0; ASO Chlef
+; MC El Eulma          ; 2-0; USM El Harrach
 
 Round: 5
-[Oct 5]
-JSM Béjaïa            1-1 MC Alger
-[Oct 6]
-ASO Chlef             0-2 JS Kabylie
-JS Saoura             1-0 ES Sétif
-MC Oran               1-1 CR Bélouizdad
-USM Algér             0-1 CA Bordj Bou Arréridj
-USM Bel-Abbès         0-2 CS Constantine
-USM El Harrach        2-0 CA Batna
-WA Tlemcen            1-0 MC El Eulma
+Date: 10/5/2012
 
-Round: 6 [Oct 16]
-CA Batna              1-0 WA Tlemcen
-CA Bordj Bou Arréridj 1-1 MC Oran
-CS Constantine        1-0 CR Bélouizdad
-ES Sétif              1-0 USM Algér
-JS Kabylie            2-1 JSM Béjaïa
-MC Alger              3-1 USM Bel-Abbès
-MC El Eulma           1-1 JS Saoura
-USM El Harrach        2-0 ASO Chlef
+; JSM Béjaïa           ; 1-1; MC Alger
+
+Date: 10/6/2012
+
+; ASO Chlef            ; 0-2; JS Kabylie
+; JS Saoura            ; 1-0; ES Sétif
+; MC Oran              ; 1-1; CR Bélouizdad
+; USM Algér            ; 0-1; CA Bordj Bou Arréridj
+; USM; Bel-Abbès;         0-2 CS Constantine
+; USM El Harrach       ; 2-0; CA Batna
+; WA Tlemcen           ; 1-0; MC El Eulma
+
+Round: 6 
+Date: 10/16/2012
+
+; CA Batna             ; 1-0; WA Tlemcen
+; CA Bordj Bou Arréridj; 1-1; MC Oran
+; CS Constantine       ; 1-0; CR Bélouizdad
+; ES Sétif             ; 1-0; USM Algér
+; JS Kabylie           ; 2-1; JSM Béjaïa
+; MC Alger             ; 3-1; USM Bel-Abbès
+; MC El Eulma          ; 1-1; JS Saoura
+; USM El Harrach       ; 2-0; ASO Chlef
 
 Round: 7
-[Oct 20]
-ASO Chlef             0-1 CA Bordj Bou Arréridj
-CR Bélouizdad         0-0 MC Alger
-JS Saoura             0-0 CS Constantine
-JSM Béjaïa            1-1 MC El Eulma
-MC Oran               0-2 ES Sétif
-USM Bel-Abbès         1-0 CA Batna
-WA Tlemcen            1-2 USM El Harrach
-[Oct 30]
-USM Algér             1-0 JS Kabylie
+Date: 10/20/2012
 
-Round: 8 [Oct 23]
-CA Batna              0-0 JS Saoura
-CA Bordj Bou Arréridj 2-0 USM Bel-Abbès
-ES Sétif              1-0 JSM Béjaïa
-JS Kabylie            0-1 CR Bélouizdad
-MC Alger              1-0 CS Constantine
-MC El Eulma           3-0 MC Oran
-USM El Harrach        0-0 USM Algér
-WA Tlemcen            0-0 ASO Chlef
+; ASO Chlef            ; 0-1; CA Bordj Bou Arréridj
+; CR Bélouizdad        ; 0-0; MC Alger
+; JS Saoura            ; 0-0; CS Constantine
+; JSM Béjaïa           ; 1-1; MC El Eulma
+; MC Oran              ; 0-2; ES Sétif
+; USM; Bel-Abbès;         1-0 CA Batna
+; WA Tlemcen           ; 1-2; USM El Harrach
+
+Date: 10/30/2012
+
+; USM Algér            ; 1-0; JS Kabylie
+
+Round: 8 
+Date: 10/23/2012
+
+; CA Batna             ; 0-0; JS Saoura
+; CA Bordj Bou Arréridj; 2-0; USM Bel-Abbès
+; ES Sétif             ; 1-0; JSM Béjaïa
+; JS Kabylie           ; 0-1; CR Bélouizdad
+; MC Alger             ; 1-0; CS Constantine
+; MC El Eulma          ; 3-0; MC Oran
+; USM El Harrach       ; 0-0; USM Algér
+; WA Tlemcen           ; 0-0; ASO Chlef
 
 Round: 9
-[Nov 2]
-ASO Chlef             1-1 CA Batna
-[Nov 3]
-CR Bélouizdad         1-1 MC El Eulma
-CS Constantine        1-2 JS Kabylie
-JS Saoura             awd USM El Harrach        [0-3 awarded; abd at 1-2]
-JSM Béjaïa            1-0 CA Bordj Bou Arréridj
-MC Oran               2-2 MC Alger
-USM Algér             4-0 WA Tlemcen
-USM Bel-Abbès         0-2 ES Sétif
+Date: 11/2/2012
+
+; ASO Chlef            ; 1-1; CA Batna
+
+Date: 11/3/2012
+
+; CR Bélouizdad        ; 1-1; MC El Eulma
+; CS Constantine       ; 1-2; JS Kabylie
+*; JS Saoura             awd USM El Harrach       ; [0-3; awarded; abd at 1-2]
+; JSM Béjaïa           ; 1-0; CA Bordj Bou Arréridj
+; MC Oran              ; 2-2; MC Alger
+; USM Algér            ; 4-0; WA Tlemcen
+; USM; Bel-Abbès;         0-2 ES Sétif
 
 Round: 10
-[Nov 9]
-WA Tlemcen            0-1 JS Saoura
-[Nov 10]
-CA Batna              0-2 JSM Béjaïa
-CA Bordj Bou Arréridj 1-1 CS Constantine
-ES Sétif              1-0 CR Bélouizdad
-JS Kabylie            0-1 MC Alger
-MC El Eulma           2-0 USM Bel-Abbès
-USM Algér             3-0 ASO Chlef
-USM El Harrach        3-0 MC Oran
+Date: 11/9/2012
+
+; WA Tlemcen           ; 0-1; JS Saoura
+
+Date: 11/10/2012
+
+; CA Batna             ; 0-2; JSM Béjaïa
+; CA Bordj Bou Arréridj; 1-1; CS Constantine
+; ES Sétif             ; 1-0; CR Bélouizdad
+; JS Kabylie           ; 0-1; MC Alger
+; MC El Eulma          ; 2-0; USM Bel-Abbès
+; USM Algér            ; 3-0; ASO Chlef
+; USM El Harrach       ; 3-0; MC Oran
 
 Round: 11
-[Nov 16]
-MC Oran               3-1 CA Batna
-[Nov 17]
-ASO Chlef             2-1 ES Sétif
-CR Bélouizdad         2-1 CA Bordj Bou Arréridj
-CS Constantine        2-0 WA Tlemcen
-JS Saoura             0-1 USM Algér
-JSM Béjaïa            2-0 USM El Harrach
-MC Alger              0-0 MC El Eulma
-USM Bel-Abbès         1-0 JS Kabylie
+Date: 11/16/2012
+
+; MC Oran              ; 3-1; CA Batna
+
+Date: 11/17/2012
+
+; ASO Chlef            ; 2-1; ES Sétif
+; CR Bélouizdad        ; 2-1; CA Bordj Bou Arréridj
+; CS Constantine       ; 2-0; WA Tlemcen
+; JS Saoura            ; 0-1; USM Algér
+; JSM Béjaïa           ; 2-0; USM El Harrach
+; MC Alger             ; 0-0; MC El Eulma
+; USM; Bel-Abbès;         1-0 JS Kabylie
 
 Round: 12
-[Nov 23]
-CA Batna              2-2 CR Bélouizdad
-CA Bordj Bou Arréridj 1-0 JS Kabylie
-[Nov 24]
-ES Sétif              3-1 MC Alger
-JS Saoura             1-1 ASO Chlef
-MC El Eulma           1-0 CS Constantine
-USM El Harrach        1-1 USM Bel-Abbès
-WA Tlemcen            1-0 JSM Béjaïa
-[Nov 27]
-USM Algér             1-0 MC Oran
+Date: 11/23/2012
 
-Round: 13 [Dec 1]
-ASO Chlef             0-0 MC El Eulma
-CR Bélouizdad         2-4 USM El Harrach
-CS Constantine        2-0 CA Batna
-JS Kabylie            1-1 ES Sétif
-JSM Béjaïa            2-0 USM Algér
-MC Alger              1-1 CA Bordj Bou Arréridj
-MC Oran               1-0 JS Saoura
-USM Bel-Abbès         0-1 WA Tlemcen
+; CA Batna             ; 2-2; CR Bélouizdad
+; CA Bordj Bou Arréridj; 1-0; JS Kabylie
+
+Date: 11/24/2012
+
+; ES Sétif             ; 3-1; MC Alger
+; JS Saoura            ; 1-1; ASO Chlef
+; MC El Eulma          ; 1-0; CS Constantine
+; USM El Harrach       ; 1-1; USM Bel-Abbès
+; WA Tlemcen           ; 1-0; JSM Béjaïa
+
+Date: 11/27/2012
+
+; USM Algér            ; 1-0; MC Oran
+
+Round: 13 
+Date: 12/1/2012
+
+; ASO Chlef            ; 0-0; MC El Eulma
+; CR Bélouizdad        ; 2-4; USM El Harrach
+; CS Constantine       ; 2-0; CA Batna
+; JS Kabylie           ; 1-1; ES Sétif
+; JSM Béjaïa           ; 2-0; USM Algér
+; MC Alger             ; 1-1; CA Bordj Bou Arréridj
+; MC Oran              ; 1-0; JS Saoura
+; USM; Bel-Abbès;         0-1 WA Tlemcen
 
 Round: 14
-[Dec 7]
-USM Algér             6-0 USM Bel-Abbès
-[Dec 8]
-ASO Chlef             1-0 MC Oran
-CA Batna              0-1 MC Alger
-ES Sétif              3-1 CA Bordj Bou Arréridj
-JS Saoura             3-0 JSM Béjaïa
-MC El Eulma           0-1 JS Kabylie
-USM El Harrach        1-0 CS Constantine
-[Dec 11]
-WA Tlemcen            1-1 CR Bélouizdad
+Date: 12/7/2012
+
+; USM Algér            ; 6-0; USM Bel-Abbès
+
+Date: 12/8/2012
+
+; ASO Chlef            ; 1-0; MC Oran
+; CA Batna             ; 0-1; MC Alger
+; ES Sétif             ; 3-1; CA Bordj Bou Arréridj
+; JS Saoura            ; 3-0; JSM Béjaïa
+; MC El Eulma          ; 0-1; JS Kabylie
+; USM El Harrach       ; 1-0; CS Constantine
+
+Date: 12/11/2012
+
+; WA Tlemcen           ; 1-1; CR Bélouizdad
 
 Round: 15
-[Dec 21]
-CS Constantine        0-0 ES Sétif
-MC Alger              1-0 USM El Harrach
-[Dec 22]
-CA Bordj Bou Arréridj 0-0 MC El Eulma
-CR Bélouizdad         0-0 USM Algér
-JS Kabylie            1-0 CA Batna
-JSM Béjaïa            1-1 ASO Chlef
-MC Oran               2-0 WA Tlemcen
-USM Bel-Abbès         0-0 JS Saoura
+Date: 12/21/2012
 
-Round: 16 [Jan 15]
-USM Bel-Abbès       0-1 ASO Chlef
-CA Bordj Bou Arréridj 0-0 CA Batna
-CR Bélouizdad               2-1 JS Saoura
-ES Sétif                          3-1 MC El Eulma
-JSM Béjaïa                              0-1 MC Oran
-CS Constantine                                1-0 USM Algér
-JS Kabylie                                          0-1 USM El Harrach
-MC Alger                                                  0-1 WA Tlemcen
+; CS Constantine       ; 0-0; ES Sétif
+; MC Alger             ; 1-0; USM El Harrach
 
-Round: 17 [Jan 19]
-USM El Harrach        2-1 CA Bordj Bou Arréridj
-ASO Chlef                   1-2 CR Bélouizdad
-MC Oran                               1-1 CS Constantine
-CA Batna                                    1-2 ES Sétif
-WA Tlemcen                                        3-1 JS Kabylie
-JS Saoura                                               2-0 MC Alger
-USM Algér                                                     1-0 MC El Eulma
-JSM Béjaïa                                                          1-3 USM Bel-Abbès
+Date: 12/22/2012
+
+; CA Bordj Bou Arréridj; 0-0; MC El Eulma
+; CR Bélouizdad        ; 0-0; USM Algér
+; JS Kabylie           ; 1-0; CA Batna
+; JSM Béjaïa           ; 1-1; ASO Chlef
+; MC Oran              ; 2-0; WA Tlemcen
+; USM; Bel-Abbès;         0-0 JS Saoura
+
+Round: 16 
+Date: 1/15/2013
+
+; USM; Bel-Abbès;       0-1 ASO Chlef
+; CA Bordj Bou Arréridj; 0-0; CA Batna
+; CR Bélouizdad              ; 2-1; JS Saoura
+; ES Sétif                         ; 3-1; MC El Eulma
+; JSM Béjaïa                             ; 0-1; MC Oran
+; CS Constantine                               ; 1-0; USM Algér
+; JS Kabylie                                         ; 0-1; USM El Harrach
+; MC Alger                                                 ; 0-1; WA Tlemcen
+
+Round: 17 
+Date: 1/19/2013
+
+; USM El Harrach       ; 2-1; CA Bordj Bou Arréridj
+; ASO Chlef                  ; 1-2; CR Bélouizdad
+; MC Oran                              ; 1-1; CS Constantine
+; CA Batna                                   ; 1-2; ES Sétif
+; WA Tlemcen                                       ; 3-1; JS Kabylie
+; JS Saoura                                              ; 2-0; MC Alger
+; USM Algér                                                    ; 1-0; MC El Eulma
+; JSM Béjaïa                                                         ; 1-3; USM Bel-Abbès
 
 Round: 18
-[Jan 25]
-MC Alger              1-0 USM Algér
-ES Sétif                    1-0 USM El Harrach
-[Jan 26]
-CS Constantine        1-0 ASO Chlef
-JS Kabylie                  2-0 JS Saoura
-CR Bélouizdad                     4-1 JSM Béjaïa
-USM Bel-Abbès                           1-0 MC Oran
-CA Bordj Bou Arréridj 2-1 WA Tlemcen
-[Feb 19]
-MC El Eulma           0-0 CA Batna
+Date: 1/25/2013
+
+; MC Alger             ; 1-0; USM Algér
+; ES Sétif                   ; 1-0; USM El Harrach
+
+Date: 1/26/2013
+
+; CS Constantine       ; 1-0; ASO Chlef
+; JS Kabylie                 ; 2-0; JS Saoura
+; CR Bélouizdad                    ; 4-1; JSM Béjaïa
+; USM; Bel-Abbès;                           1-0 MC Oran
+; CA Bordj Bou Arréridj; 2-1; WA Tlemcen
+
+Date: 2/19/2013
+
+; MC El Eulma          ; 0-0; CA Batna
 
 Round: 19
-[Feb 1]
-WA Tlemcen            1-2 ES Sétif
-[Feb 2]
-USM Bel-Abbès         0-0 CR Bélouizdad
-USM Algér                   2-0 CA Batna
-JS Saoura                         2-0 CA Bordj Bou Arréridj
-JSM Béjaïa                              0-0 CS Constantine
-MC Oran                                           1-1 JS Kabylie
-ASO Chlef                                               0-1 MC Alger
-USM El Harrach                                                1-0 MC El Eulma
+Date: 2/1/2013
+
+; WA Tlemcen           ; 1-2; ES Sétif
+
+Date: 2/2/2013
+
+; USM; Bel-Abbès;         0-0 CR Bélouizdad
+; USM Algér                  ; 2-0; CA Batna
+; JS Saoura                        ; 2-0; CA Bordj Bou Arréridj
+; JSM Béjaïa                             ; 0-0; CS Constantine
+; MC Oran                                          ; 1-1; JS Kabylie
+; ASO Chlef                                              ; 0-1; MC Alger
+; USM El Harrach                                               ; 1-0; MC El Eulma
 
 Round: 20
-[Feb 8]
-CA Bordj Bou Arréridj 1-1 USM Algér
-CR Bélouizdad               1-0 MC Oran
-[Feb 9]
-MC Alger              3-1 JSM Béjaïa
-JS Kabylie                  1-0 ASO Chlef
-ES Sétif                          1-0 JS Saoura
-CS Constantine                          2-1 USM Bel-Abbès
-CA Batna                                      2-3 USM El Harrach
-[Mar 5]
-MC El Eulma           2-1 WA Tlemcen
+Date: 2/8/2013
+
+; CA Bordj Bou Arréridj; 1-1; USM Algér
+; CR Bélouizdad              ; 1-0; MC Oran
+
+Date: 2/9/2013
+
+; MC Alger             ; 3-1; JSM Béjaïa
+; JS Kabylie                 ; 1-0; ASO Chlef
+; ES Sétif                         ; 1-0; JS Saoura
+; CS Constantine                         ; 2-1; USM Bel-Abbès
+; CA Batna                                     ; 2-3; USM El Harrach
+
+Date: 3/5/2013
+
+; MC El Eulma          ; 2-1; WA Tlemcen
 
 Round: 21
-[Feb 16]
-WA Tlemcen            0-1 CA Batna
-MC Oran                             0-0 CA Bordj Bou Arréridj
-CR Bélouizdad                             1-1 CS Constantine
-USM Bel-Abbès                                   2-1 MC Alger
-JS Saoura                                             1-1 MC El Eulma
-ASO Chlef                                                   3-0 USM El Harrach
-[Feb 19]
-USM Algér             1-0 ES Sétif
-JSM Béjaïa                  2-2 JS Kabylie
+Date: 2/16/2013
+
+; WA Tlemcen           ; 0-1; CA Batna
+; MC Oran                            ; 0-0; CA Bordj Bou Arréridj
+; CR Bélouizdad                            ; 1-1; CS Constantine
+; USM; Bel-Abbès;                                   2-1 MC Alger
+; JS Saoura                                            ; 1-1; MC El Eulma
+; ASO Chlef                                                  ; 3-0; USM El Harrach
+
+Date: 2/19/2013
+
+; USM Algér            ; 1-0; ES Sétif
+; JSM Béjaïa                 ; 2-2; JS Kabylie
 
 Round: 22
-[Feb 22]
-MC Alger              2-1 CR Bélouizdad
-[Feb 23]
-CA Bordj Bou Arréridj 0-1 ASO Chlef
-CS Constantine              2-1 JS Saoura
-CA Batna                          1-0 USM Bel-Abbès
-USM El Harrach                          1-2 WA Tlemcen
-JS Kabylie                                    1-0 USM Algér
-MC El Eulma                                         0-0 JSM Béjaïa
-ES Sétif                                                  4-1 MC Oran
+Date: 2/22/2013
+
+; MC Alger             ; 2-1; CR Bélouizdad
+
+Date: 2/23/2013
+
+; CA Bordj Bou Arréridj; 0-1; ASO Chlef
+; CS Constantine             ; 2-1; JS Saoura
+; CA Batna                         ; 1-0; USM Bel-Abbès
+; USM El Harrach                         ; 1-2; WA Tlemcen
+; JS Kabylie                                   ; 1-0; USM Algér
+; MC El Eulma                                        ; 0-0; JSM Béjaïa
+; ES Sétif                                                 ; 4-1; MC Oran
 
 Round: 23
-[Mar 8]
-JSM Béjaïa            2-1 ES Sétif
-[Mar 9]
-JS Saoura             2-0 CA Batna
-USM Bel-Abbès               1-1 CA Bordj Bou Arréridj
-CR Bélouizdad                     1-1 JS Kabylie
-CS Constantine                          0-0 MC Alger
-MC Oran                                           4-1 MC El Eulma
-USM Algér                                               0-0 USM El Harrach
-ASO Chlef                                                     3-0 WA Tlemcen
+Date: 3/8/2013
+
+; JSM Béjaïa           ; 2-1; ES Sétif
+
+Date: 3/9/2013
+
+; JS Saoura            ; 2-0; CA Batna
+; USM; Bel-Abbès;               1-1 CA Bordj Bou Arréridj
+; CR Bélouizdad                    ; 1-1; JS Kabylie
+; CS Constantine                         ; 0-0; MC Alger
+; MC Oran                                          ; 4-1; MC El Eulma
+; USM Algér                                              ; 0-0; USM El Harrach
+; ASO Chlef                                                    ; 3-0; WA Tlemcen
 
 Round: 24
-[Mar 12]
-ES Sétif              4-0 USM Bel-Abbès
-[Mar 19]
-CA Batna              1-0 ASO Chlef
-MC El Eulma                 1-1 CR Bélouizdad
-JS Kabylie                        1-1 CS Constantine
-USM El Harrach                          2-1 JS Saoura
-CA Bordj Bou Arréridj 0-0 JSM Béjaïa
-MC Alger       2-0 MC Oran
-[Mar 22]
-WA Tlemcen            0-1 USM Algér
+Date: 3/12/2013
+
+; ES Sétif             ; 4-0; USM Bel-Abbès
+
+Date: 3/19/2013
+
+; CA Batna             ; 1-0; ASO Chlef
+; MC El Eulma                ; 1-1; CR Bélouizdad
+; JS Kabylie                       ; 1-1; CS Constantine
+; USM El Harrach                         ; 2-1; JS Saoura
+; CA Bordj Bou Arréridj; 0-0; JSM Béjaïa
+; MC Alger      ; 2-0; MC Oran
+
+Date: 3/22/2013
+
+; WA Tlemcen           ; 0-1; USM Algér
 
 Round: 25
-[Apr 6]
-JS Saoura             2-0 WA Tlemcen
-CS Constantine              1-0 CA Bordj Bou Arréridj
-MC Alger                          3-1 JS Kabylie
-USM Bel-Abbès                           0-1 MC El Eulma
-MC Oran                                           1-0 USM El Harrach
-[Apr 16]
-CR Bélouizdad         4-1 ES Sétif
-JSM Béjaïa                  1-1 CA Batna
-ASO Chlef                         1-0 USM Algér
+Date: 4/6/2013
+
+; JS Saoura            ; 2-0; WA Tlemcen
+; CS Constantine             ; 1-0; CA Bordj Bou Arréridj
+; MC Alger                         ; 3-1; JS Kabylie
+; USM; Bel-Abbès;                           0-1 MC El Eulma
+; MC Oran                                          ; 1-0; USM El Harrach
+
+Date: 4/16/2013
+
+; CR Bélouizdad        ; 4-1; ES Sétif
+; JSM Béjaïa                 ; 1-1; CA Batna
+; ASO Chlef                        ; 1-0; USM Algér
 
 Round: 26
-[Apr 19]
-JS Kabylie            2-1 USM Bel-Abbès
-[Apr 20]
-CA Batna              2-1 MC Oran
-CA Bordj Bou Arréridj 1-0 CR Bélouizdad
-WA Tlemcen         0-0 CS Constantine
-MC El Eulma              0-0 MC Alger
-[Apr 27]
-USM El Harrach        1-1 JSM Béjaïa
-USM Algér                   0-0 JS Saoura
-ES Sétif                          4-1 ASO Chlef 
+Date: 4/19/2013
+
+; JS Kabylie           ; 2-1; USM Bel-Abbès
+
+Date: 4/20/2013
+
+; CA Batna             ; 2-1; MC Oran
+; CA Bordj Bou Arréridj; 1-0; CR Bélouizdad
+; WA Tlemcen        ; 0-0; CS Constantine
+; MC El Eulma             ; 0-0; MC Alger
+
+Date: 4/27/2013
+
+; USM El Harrach       ; 1-1; JSM Béjaïa
+; USM Algér                  ; 0-0; JS Saoura
+; ES Sétif                         ; 4-1; ASO Chlef 
 
 Round: 27
-[May 4]
-CR Bélouizdad         2-0 CA Batna
-JS Kabylie                  2-0 CA Bordj Bou Arréridj 
-ASO Chlef                         2-0 JS Saoura
-CS Constantine                          3-0 MC El Eulma
-USM Bel-Abbès                                 1-2 USM El Harrach
-[May 7]
-MC Alger              3-2 ES Sétif
-JSM Béjaïa                  1-0 WA Tlemcen
-MC Oran                               2-0 USM Algér
+Date: 5/4/2013
 
-Round: 28 [May 11]
-USM El Harrach        2-0 CR Bélouizdad       
-ES Sétif                    4-1 JS Kabylie          
-USM Algér                         1-0 JSM Béjaïa          
-MC El Eulma                             2-0 ASO Chlef           
-JS Saoura             2-3 MC Oran                 
-WA Tlemcen                  2-2 USM Bel-Abbès           
-CA Batna                          1-4 CS Constantine          
-CA Bordj Bou Arréridj 2-0 MC Alger          
+; CR Bélouizdad        ; 2-0; CA Batna
+; JS Kabylie                 ; 2-0; CA Bordj Bou Arréridj 
+; ASO Chlef                        ; 2-0; JS Saoura
+; CS Constantine                         ; 3-0; MC El Eulma
+; USM; Bel-Abbès;                                 1-2 USM El Harrach
+
+Date: 5/7/2013
+
+; MC Alger             ; 3-2; ES Sétif
+; JSM Béjaïa                 ; 1-0; WA Tlemcen
+; MC Oran                              ; 2-0; USM Algér
+
+Round: 28 
+Date: 5/11/2013
+
+; USM El Harrach       ; 2-0; CR Bélouizdad       
+; ES Sétif                   ; 4-1; JS Kabylie          
+; USM Algér                        ; 1-0; JSM Béjaïa          
+; MC El Eulma                            ; 2-0; ASO Chlef           
+; JS Saoura            ; 2-3; MC Oran                 
+; WA Tlemcen                 ; 2-2; USM Bel-Abbès           
+; CA Batna                         ; 1-4; CS Constantine          
+; CA Bordj Bou Arréridj; 2-0; MC Alger          
 
 Round: 29
-[May 14]
-CA Bordj Bou Arréridj 0-0 ES Sétif            
-JSM Béjaïa         1-1 JS Saoura             
-[May 18]
-MC Oran               2-2 ASO Chlef           
-USM Bel-Abbès               0-1 USM Algér           
-CR Bélouizdad                     1-0 WA Tlemcen          
-CS Constantine                          0-0 USM El Harrach            
-MC Alger                                      1-0 CA Batna                  
-JS Kabylie                                          1-1 MC El Eulma               
+Date: 5/14/2013
 
-Round: 30 [May 21]
-WA Tlemcen          2-2 MC Oran               
-CA Batna                  2-2 JS Kabylie            
-ASO Chlef                       2-0 JSM Béjaïa            
-JS Saoura             3-0 USM Bel-Abbès       
-MC El Eulma                 3-1 CA Bordj Bou Arréridj 
-USM Algér                         1-0 CR Bélouizdad         
-ES Sétif                                1-3 CS Constantine        
-USM El Harrach                                awd MC Alger              [awarded 3-0, MCA dns]
+; CA Bordj Bou Arréridj; 0-0; ES Sétif            
+; JSM Béjaïa        ; 1-1; JS Saoura             
+
+Date: 5/18/2013
+
+; MC Oran              ; 2-2; ASO Chlef           
+; USM; Bel-Abbès;               0-1 USM Algér           
+; CR Bélouizdad                    ; 1-0; WA Tlemcen          
+; CS Constantine                         ; 0-0; USM El Harrach            
+; MC Alger                                     ; 1-0; CA Batna                  
+; JS Kabylie                                         ; 1-1; MC El Eulma               
+
+Round: 30 
+Date: 5/21/2013
+
+; WA Tlemcen         ; 2-2; MC Oran               
+; CA Batna                 ; 2-2; JS Kabylie            
+; ASO Chlef                      ; 2-0; JSM Béjaïa            
+; JS Saoura            ; 3-0; USM Bel-Abbès       
+; MC El Eulma                ; 3-1; CA Bordj Bou Arréridj 
+; USM Algér                        ; 1-0; CR Bélouizdad         
+; ES Sétif                               ; 1-3; CS Constantine        
+*; USM El Harrach                                awd MC Alger              
+*[awarded; 3-0,; MCA dns]
 
 
 * 1.ES Sétif               30  18  5  7  55-27  59  Champions

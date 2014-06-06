@@ -24,433 +24,465 @@ BlockSource: http://rsssf.com/tablese/egy03.html
 Round: 1 
 Date: 9/23/2002
 
-Zamalek     3-0 Masry
-  [Abdulhalim Ali 43, 47, Mohamed Abdulwahed 88]
-Tersana     1-2 Ismaily 
-  [Mohamed Abou-Tarikah 49; Mohamed Mohsen Abou-Greyshah 88, 90]
-B Mehalla   1-0 Goldy
-  [Akram Abdulmajid 57]
-ENPPI       1-0 Mokawloon
-  [Hamada Shanah 35]
-Mansoura    2-0 Ittihad
-  [Ashraf Khamis 15, Ahmed Salem 67]
-H Hodoud    0-1 Ahly
-  [Mohamed Fadhl 8]
-Aswan       0-3 G Mehalla 
-  [Hossam Abdulal 20, Tamer Abdulhakim 30, Ekrami Abdulaziz 90]
+; Zamalek    ; 3-0; Masry
+  Abdulhalim Ali 43, 47, Mohamed Abdulwahed 88
+
+; Tersana    ; 1-2; Ismaily 
+  Mohamed Abou-Tarikah 49; Mohamed Mohsen Abou-Greyshah 88, 90
+
+; B Mehalla  ; 1-0; Goldy
+  Akram Abdulmajid 57
+
+; ENPPI      ; 1-0; Mokawloon
+  Hamada Shanah 35
+
+; Mansoura   ; 2-0; Ittihad
+  Ashraf Khamis 15, Ahmed Salem 67
+
+; H Hodoud   ; 0-1; Ahly
+  Mohamed Fadhl 8
+
+; Aswan      ; 0-3; G Mehalla 
+  Hossam Abdulal 20, Tamer Abdulhakim 30, Ekrami Abdulaziz 90
+
 
 Round: 2
 
 Date: 9/27/2002
 
-Ittihad     0-1 Zamalek
-  [Hossam Hassan 29]
-Ahly        3-0 Mansoura
-  [Gilberto 16, Ahmed Bilal 68, 76]
-G Mehalla   0-2 B Mehalla
-  [Ayman Mashali 70, Bassem Wajdi 87]
-Goldy       1-2 ENPPI 
-  [Nabil Abou-Zeid 40pen; Magdi Abdul-Ati 32pen, 44]
-Mokawloon   0-0 H Hodoud
-Masry       1-1 Tersana
-  [Mohamed Abdulsattar 43; Mustapha Abdulaziz 55]
+; Ittihad    ; 0-1; Zamalek
+  Hossam Hassan 29
+
+; Ahly       ; 3-0; Mansoura
+  Gilberto 16, Ahmed Bilal 68, 76
+
+; G Mehalla  ; 0-2; B Mehalla
+  Ayman Mashali 70, Bassem Wajdi 87
+
+; Goldy      ; 1-2; ENPPI 
+  Nabil Abou-Zeid 40pen; Magdi Abdul-Ati 32pen, 44
+
+; Mokawloon  ; 0-0; H Hodoud
+
+; Masry      ; 1-1; Tersana
+  Mohamed Abdulsattar 43; Mustapha Abdulaziz 55
 
 Date: 10/4/2002
 
-Ismaily     3-0 Aswan
-  [Islam Al-Shater 38pen, Mohamed Barakat 52, Amrou Fahim 60]
+; Ismaily    ; 3-0; Aswan
+  Islam Al-Shater 38pen, Mohamed Barakat 52, Amrou Fahim 60
 
 Round: 3 
-
 Date: 10/10/2002
 
-B Mehalla   1-0 Ismaily
-  [Abdulaziz Ragab 90]
-Aswan       0-2 Masry
-  [Mohamed Shawqi 50, Walid Abou Al-Ila 86]
-Tersana     0-2 Zamalek
-  [Walid Abdullatif 7, Khaled Al-Ghandour 88]
-ENPPI       1-1 G Mehalla
-  [Magdi Abdul-Ati 59; Hossam Al-Sharbini 86]
+; B Mehalla  ; 1-0; Ismaily
+  Abdulaziz Ragab 90
+
+; Aswan      ; 0-2; Masry
+  Mohamed Shawqi 50, Walid Abou Al-Ila 86
+
+; Tersana    ; 0-2; Zamalek
+  Walid Abdullatif 7, Khaled Al-Ghandour 88
+
+; ENPPI      ; 1-1; G Mehalla
+  Magdi Abdul-Ati 59; Hossam Al-Sharbini 86
+
 
 Date: 10/11/2002
 
-H Hodoud    1-0 Goldy
-  [Samuel Tera 56]
-Mansoura    1-1 Mokawloon
-  [Sameh Al-Saqqa 80; Sameh Youssouf 32]
-Ahly        1-0 Ittihad
-  [Khaled Bibo 70]
+; H Hodoud   ; 1-0; Goldy
+  Samuel Tera 56
+
+; Mansoura   ; 1-1; Mokawloon
+  Sameh Al-Saqqa 80; Sameh Youssouf 32
+
+; Ahly       ; 1-0; Ittihad
+  Khaled Bibo 70
 
 Round: 4
-
 Date: 10/17/2002
 
-Ismaily     1-0 ENPPI
-  [Mohamed Salah Abou-Greyshah 25]
-Goldy       1-2 Mansoura
-  [Nabil Abou-Zeid 70; Amrou Islam 65, 78]
-Ittihad     1-4 Tersana
-  [Youssouf Hamdi 9; Ahmed Abdulzaher 15, Hossam Mabrouk 25, 
-   Tareq Al-Sayyed 65, Medhat Ramadan 84]
-G Mehalla   1-1 H Hodoud
-  [Ayman Saeed 33; Samuel Tera 40]
+; Ismaily    ; 1-0; ENPPI
+  Mohamed Salah Abou-Greyshah 25
+
+; Goldy      ; 1-2; Mansoura
+  Nabil Abou-Zeid 70; Amrou Islam 65, 78
+
+; Ittihad    ; 1-4; Tersana
+  Youssouf Hamdi 9; Ahmed Abdulzaher 15, Hossam Mabrouk 25, 
+   Tareq Al-Sayyed 65, Medhat Ramadan 84
+
+; G Mehalla  ; 1-1; H Hodoud
+  Ayman Saeed 33; Samuel Tera 40
+
 
 Date: 10/28/2002
 
-Mokawloon   2-6 Ahly
+; Mokawloon  ; 2-6; Ahly
 
 Date: 10/29/2002
 
-Masry       1-0 B Mehalla
-  [Hassan Moussa 44]
-Zamalek     5-0 Aswan
-  [Hossam Hassan 8, 59, Abdulhalim Ali 11, 90, Walid Abdullatif 73]
+; Masry      ; 1-0; B Mehalla
+  Hassan Moussa 44
+
+; Zamalek    ; 5-0; Aswan
+  Hossam Hassan 8, 59, Abdulhalim Ali 11, 90, Walid Abdullatif 73
 
 Round: 5
-
 Date: 10/22/2002
 
-Ahly        2-0 Goldy
-  [Ala'a Ibrahim 40, Ahmed Bilal 63]
+; Ahly       ; 2-0; Goldy
+  Ala'a Ibrahim 40, Ahmed Bilal 63
+
 
 Date: 10/24/2002
 
-B Mehalla   0-1 Zamalek
-  [Oussama Nabih 90]
-H Hodoud    1-1 Ismaily
-  [Samuel Tera 22; Imad Al-Nahhas 35]
+; B Mehalla  ; 0-1; Zamalek
+  Oussama Nabih 90
+
+; H Hodoud   ; 1-1; Ismaily
+  Samuel Tera 22; Imad Al-Nahhas 35
+
 
 Date: 10/25/2002
 
-ENPPI       1-1 Masry
-  [Abdulhamid Hassan 90; Amrou Al-Dousouqi 31]
-Aswan       2-5 Tersana
-  [Jamal Jihad 56pen, Oussama Ragab 66; Ahmed Abdulzaher 2,
-   Mohamed Abou-Tarikah 7, 13, 90, Ayman Khalil 86]
-Mansoura    0-0 G Mehalla
-Mokawloon   0-0 Ittihad
+; ENPPI      ; 1-1; Masry
+  Abdulhamid Hassan 90; Amrou Al-Dousouqi 31
+
+; Aswan      ; 2-5; Tersana
+  Jamal Jihad 56pen, Oussama Ragab 66; Ahmed Abdulzaher 2,
+   Mohamed Abou-Tarikah 7, 13, 90, Ayman Khalil 86
+
+; Mansoura   ; 0-0; G Mehalla
+
+; Mokawloon  ; 0-0; Ittihad
 
 Round: 6
-
 Date: 11/1/2002
 
-Ismaily     0-0 Mansoura
-Goldy       0-2 Mokawloon
-  [Robert Okori 46, 89]
+; Ismaily    ; 0-0; Mansoura
+
+; Goldy      ; 0-2; Mokawloon
+  Robert Okori 46, 89
 
 Date: 11/2/2002
 
-Ittihad     1-1 Aswan
-  [Youssouf Hamdi 77; Abdou Al-Nasr Al-Deeb 61]
-Tersana     1-1 B Mehalla
-  [Ahmed Zaghloul 90; Bassem Ragab 41]
-Masry       1-1 H Hodoud
-  [Yasser Al-Kenani 81; Ramadan Ragab 33]
+; Ittihad    ; 1-1; Aswan
+  Youssouf Hamdi 77; Abdou Al-Nasr Al-Deeb 61
+
+; Tersana    ; 1-1; B Mehalla
+  Ahmed Zaghloul 90; Bassem Ragab 41
+
+; Masry      ; 1-1; H Hodoud
+  Yasser Al-Kenani 81; Ramadan Ragab 33
+
 
 Date: 11/3/2002
 
-G Mehalla   2-3 Ahly
-  [Ekrami Abdulaziz 20, Mahmoud Sobhy 85; Ahmed Bilal 33,
-   Gilberto Santos 51, Sayyed Abdulhafiz 88]
+; G Mehalla  ; 2-3; Ahly
+  Ekrami Abdulaziz 20, Mahmoud Sobhy 85; Ahmed Bilal 33,
+   Gilberto Santos 51, Sayyed Abdulhafiz 88
 
 Date: 12/26/2002
 
-Zamalek     1-1 ENPPI
+; Zamalek    ; 1-1; ENPPI
 
 Round: 7
-
 Date: 11/7/2002
 
-ENPPI       5-1 Tersana
-  [Sayyed Abdulnahim 21, Magdi Abdulati 45, 82, Samir Sabry 71, 
-   Amrou Abdou 87; Mamdouh Khalil( 77pen]
-Goldy       1-0 Ittihad
-  [Nabil Abuo-Zeid 13pen]
-Mokawloon   0-0 G Mehalla
+; ENPPI      ; 5-1; Tersana
+  Sayyed Abdulnahim 21, Magdi Abdulati 45, 82, Samir Sabry 71, 
+   Amrou Abdou 87; Mamdouh Khalil( 77pen
+
+; Goldy      ; 1-0; Ittihad
+  Nabil Abuo-Zeid 13pen
+
+; Mokawloon  ; 0-0; G Mehalla
 
 Date: 11/8/2002
 
-Ahly        1-0 Ismaily 
-  [Hossam Ghali 71]
-H Hodoud    2-1 Zamalek
-  [Al-Hassan Mohamed 15, Ahmed Khalaf 90; Hossam Hassan 23]
-B Mehalla   2-0 Aswan
-  [Akram Abdulmajid 9, Ahmed Samir 72]
-Mansoura    1-2 Masry 
-  [Omar Fathi 32; Hassan Moussa 45, Mohamed Shawqi 60]
+; Ahly       ; 1-0; Ismaily 
+  Hossam Ghali 71
+
+; H Hodoud   ; 2-1; Zamalek
+  Al-Hassan Mohamed 15, Ahmed Khalaf 90; Hossam Hassan 23
+
+; B Mehalla  ; 2-0; Aswan
+  Akram Abdulmajid 9, Ahmed Samir 72
+
+; Mansoura   ; 1-2; Masry 
+  Omar Fathi 32; Hassan Moussa 45, Mohamed Shawqi 60
 
 Round: 8
-
 Date: 11/12/2002
 
-Tersana     1-0 H Hodoud
-Aswan       1-4 ENPPI
-Masry       1-3 Ahly
-G Mehalla   2-1 Goldy
-Ittihad     1-1 B Mehalla
-Ismaily     2-1 Mokawloon
+; Tersana    ; 1-0; H Hodoud
+; Aswan      ; 1-4; ENPPI
+; Masry      ; 1-3; Ahly
+; G Mehalla  ; 2-1; Goldy
+; Ittihad    ; 1-1; B Mehalla
+; Ismaily    ; 2-1; Mokawloon
 
 Date: 1/25/2003
 
-Zamalek     3-0 Mansoura
+; Zamalek    ; 3-0; Mansoura
 
 Round: 9
 
 Date: 11/24/2002
 
-ENPPI       4-0 B Mehalla
+; ENPPI      ; 4-0; B Mehalla
 
 Date: 11/28/2002
 
-Mokawloon   0-0 Masry
+; Mokawloon  ; 0-0; Masry
 
 Date: 11/29/2002
 
-Goldy       0-3 Ismaily
-G Mehalla   3-0 Ittihad
-Mansoura    0-1 Tersana
-H Hodoud    2-0 Aswan
+; Goldy      ; 0-3; Ismaily
+; G Mehalla  ; 3-0; Ittihad
+; Mansoura   ; 0-1; Tersana
+; H Hodoud   ; 2-0; Aswan
 
 Date: 1/30/2003
 
-Ahly        2-2 Zamalek
+; Ahly       ; 2-2; Zamalek
 
 Round: 10
 
 Date: 12/5/2002
 
-Tersana     0-4 Ahly
+; Tersana    ; 0-4; Ahly
 
 Date: 12/6/2002
 
-Ittihad     0-2 ENPPI
-Ismaily     1-0 G Mehalla
-B Mehalla   1-0 H Hodoud
-Masry       1-0 Goldy
-Aswan       0-1 Mansoura
+; Ittihad    ; 0-2; ENPPI
+; Ismaily    ; 1-0; G Mehalla
+; B Mehalla  ; 1-0; H Hodoud
+; Masry      ; 1-0; Goldy
+; Aswan      ; 0-1; Mansoura
 
 Date: 2/24/2003
 
-Zamalek     2-0 Mokawloon
+; Zamalek    ; 2-0; Mokawloon
 
 Round: 11
 
 Date: 12/30/2002
 
-Goldy       0-2 Zamalek
+; Goldy      ; 0-2; Zamalek
 
 Date: 1/2/2003
 
-G Mehalla   1-2 Masry
-Mansoura    0-1 B Mehalla
-H Hodoud    1-0 ENPPI
-Ismaily     2-0 Ittihad
+; G Mehalla  ; 1-2; Masry
+; Mansoura   ; 0-1; B Mehalla
+; H Hodoud   ; 1-0; ENPPI
+; Ismaily    ; 2-0; Ittihad
 
 Date: 1/3/2003
 
-Mokawloon   2-0 Tersana
-Ahly        1-0 Aswan
+; Mokawloon  ; 2-0; Tersana
+; Ahly       ; 1-0; Aswan
 
 Round: 12
 
 Date: 1/6/2003
 
-ENPPI       1-1 Mansoura
-H Hodoud    2-1 Ittihad
-Masry       0-0 Ismaily
+; ENPPI      ; 1-1; Mansoura
+; H Hodoud   ; 2-1; Ittihad
+; Masry      ; 0-0; Ismaily
 
 Date: 1/7/2003
 
-Zamalek     3-0 G Mehalla
-Tersana     3-0 Goldy
-Aswan       0-2 Mokawloon
-B Mehalla   0-4 Ahly
+; Zamalek    ; 3-0; G Mehalla
+; Tersana    ; 3-0; Goldy
+; Aswan      ; 0-2; Mokawloon
+; B Mehalla  ; 0-4; Ahly
 
 Round: 13
 
 Date: 1/10/2003
 
-Goldy       3-0 Aswan
-Ittihad     2-1 Masry
-G Mehalla   1-1 Tersana
-Mansoura    1-2 H Hodoud
-Ahly        2-1 ENPPI
-Mokawloon   1-1 B Mehalla
+; Goldy      ; 3-0; Aswan
+; Ittihad    ; 2-1; Masry
+; G Mehalla  ; 1-1; Tersana
+; Mansoura   ; 1-2; H Hodoud
+; Ahly       ; 2-1; ENPPI
+; Mokawloon  ; 1-1; B Mehalla
 
 Date: 1/11/2003
 
-Ismaily     1-3 Zamalek
+; Ismaily    ; 1-3; Zamalek
 
 Round: 14 
 Date: 2/3/2003
 
-Goldy       1-1 B Mehalla
-Masry       0-1 Zamalek
-Ismaily     2-0 Tersana
-G Mehalla   1-0 Aswan
-Mokawloon   0-1 ENPPI
-Ittihad     2-1 Mansoura
-Ahly        1-0 H Hodoud
+; Goldy      ; 1-1; B Mehalla
+; Masry      ; 0-1; Zamalek
+; Ismaily    ; 2-0; Tersana
+; G Mehalla  ; 1-0; Aswan
+; Mokawloon  ; 0-1; ENPPI
+; Ittihad    ; 2-1; Mansoura
+; Ahly       ; 1-0; H Hodoud
 
 Round: 15
 
 Date: 2/7/2003
 
-Tersana     1-0 Masry
-B Mehalla   0-1 G Mehalla
-Aswan       2-2 Ismaily
-ENPPI       0-0 Goldy
-H Hodoud    1-1 Mokawloon
-Mansoura    0-1 Ahly
+; Tersana    ; 1-0; Masry
+; B Mehalla  ; 0-1; G Mehalla
+; Aswan      ; 2-2; Ismaily
+; ENPPI      ; 0-0; Goldy
+; H Hodoud   ; 1-1; Mokawloon
+; Mansoura   ; 0-1; Ahly
 
 Date: 3/17/2003
 
-Zamalek     5-0 Ittihad
+; Zamalek    ; 5-0; Ittihad
 
 Round: 16 
 Date: 2/16/2003
 
-Zamalek     1-0 Tersana
-Masry       2-0 Aswan
-Ismaily     4-1 B Mehalla
-G Mehalla   1-1 ENPPI
-Goldy       0-1 H Hodoud
-Mokawloon   0-0 Mansoura
-Ittihad     0-3 Ahly
+; Zamalek    ; 1-0; Tersana
+; Masry      ; 2-0; Aswan
+; Ismaily    ; 4-1; B Mehalla
+; G Mehalla  ; 1-1; ENPPI
+; Goldy      ; 0-1; H Hodoud
+; Mokawloon  ; 0-0; Mansoura
+; Ittihad    ; 0-3; Ahly
 
 Round: 17
 
 Date: 2/20/2003
 
-Ahly        0-0 Mokawloon
-Aswan       0-3 Zamalek
+; Ahly       ; 0-0; Mokawloon
+; Aswan      ; 0-3; Zamalek
 
 Date: 2/21/2003
 
-B Mehalla   0-2 Masry
-Tersana     3-0 Ittihad
-ENPPI       1-2 Ismaily
-H Hodoud    1-1 G Mehalla
-Mansoura    1-0 Goldy
+; B Mehalla  ; 0-2; Masry
+; Tersana    ; 3-0; Ittihad
+; ENPPI      ; 1-2; Ismaily
+; H Hodoud   ; 1-1; G Mehalla
+; Mansoura   ; 1-0; Goldy
 
 Round: 18
 
 Date: 2/27/2003
 
-Ismaily     2-0 H Hodoud
-G Mehalla   1-0 Mansoura
+; Ismaily    ; 2-0; H Hodoud
+; G Mehalla  ; 1-0; Mansoura
 
 Date: 2/28/2003
 
-Tersana     2-2 Aswan
-Zamalek     2-0 B Mehalla
-Masry       1-0 ENPPI
-Ittihad     0-0 Mokawloon
-Goldy       0-2 Ahly
+; Tersana    ; 2-2; Aswan
+; Zamalek    ; 2-0; B Mehalla
+; Masry      ; 1-0; ENPPI
+; Ittihad    ; 0-0; Mokawloon
+; Goldy      ; 0-2; Ahly
 
 Round: 19
 
 Date: 3/3/2003
 
-Mansoura    0-0 Ismaily
+; Mansoura   ; 0-0; Ismaily
 
 Date: 3/4/2003
 
-Ahly        1-1 G Mehalla
-Aswan       0-3 Ittihad
-B Mehalla   3-0 Tersana
-H Hodoud    1-0 Masry
-ENPPI       0-0 Zamalek
+; Ahly       ; 1-1; G Mehalla
+; Aswan      ; 0-3; Ittihad
+; B Mehalla  ; 3-0; Tersana
+; H Hodoud   ; 1-0; Masry
+; ENPPI      ; 0-0; Zamalek
 
 Date: 3/5/2003
 
-Mokawloon   3-0 Goldy
+; Mokawloon  ; 3-0; Goldy
 
 Round: 20
 
 Date: 3/8/2003
 
-Tersana     0-0 ENPPI
-Aswan       1-0 B Mehalla
-Ismaily     0-1 Ahly
-Masry       1-1 Mansoura
-Zamalek     1-1 H Hodoud
+; Tersana    ; 0-0; ENPPI
+; Aswan      ; 1-0; B Mehalla
+; Ismaily    ; 0-1; Ahly
+; Masry      ; 1-1; Mansoura
+; Zamalek    ; 1-1; H Hodoud
 
 Date: 3/9/2003
 
-G Mehalla   0-0 Mokawloon
-Ittihad     2-0 Goldy
+; G Mehalla  ; 0-0; Mokawloon
+; Ittihad    ; 2-0; Goldy
 
 Round: 21
 
 Date: 3/13/2003
 
-Mansoura    0-1 Zamalek
-B Mehalla   0-2 Ittihad
-Mokawloon   0-0 Ismaily
+; Mansoura   ; 0-1; Zamalek
+; B Mehalla  ; 0-2; Ittihad
+; Mokawloon  ; 0-0; Ismaily
 
 Date: 3/14/2003
 
-ENPPI       2-1 Aswan
-Goldy       1-1 G Mehalla
-H Hodoud    6-2 Tersana
-Ahly        2-0 Masry
+; ENPPI      ; 2-1; Aswan
+; Goldy      ; 1-1; G Mehalla
+; H Hodoud   ; 6-2; Tersana
+; Ahly       ; 2-0; Masry
 
 Round: 22 
 Date: 4/19/2003
 
-B Mehalla   1-1 ENPPI
-Tersana     1-2 Mansoura 
-Ismaily     2-2 Goldy 
-Aswan       0-3 H Hodoud
-Masry       1-0 Mokawloon 
-Ittihad     1-0 G Mehalla 
-Zamalek     3-1 Ahly 
+; B Mehalla  ; 1-1; ENPPI
+; Tersana    ; 1-2; Mansoura 
+; Ismaily    ; 2-2; Goldy 
+; Aswan      ; 0-3; H Hodoud
+; Masry      ; 1-0; Mokawloon 
+; Ittihad    ; 1-0; G Mehalla 
+; Zamalek    ; 3-1; Ahly 
 
 Round: 23 
 Date: 5/4/2003
 
-Mokawloon   0-3 Zamalek
-Goldy       2-0 Masry
-ENPPI       1-0 Ittihad
-Mansoura    4-1 Aswan
-H Hodoud    0-0 B Mehalla
-Ahly        2-0 Tersana
-G Mehalla   0-1 Ismaily
+; Mokawloon  ; 0-3; Zamalek
+; Goldy      ; 2-0; Masry
+; ENPPI      ; 1-0; Ittihad
+; Mansoura   ; 4-1; Aswan
+; H Hodoud   ; 0-0; B Mehalla
+; Ahly       ; 2-0; Tersana
+; G Mehalla  ; 0-1; Ismaily
 
 Round: 24 
 Date: 5/8/2003
 
-Masry       0-1 G Mehalla
-Zamalek     4-2 Goldy
-Tersana     2-2 Mokawloon
-B Mehalla   0-0 Mansoura
-ENPPI       1-0 H Hodoud
-Ittihad     4-1 Ismaily
-Aswan       0-5 Ahly
+; Masry      ; 0-1; G Mehalla
+; Zamalek    ; 4-2; Goldy
+; Tersana    ; 2-2; Mokawloon
+; B Mehalla  ; 0-0; Mansoura
+; ENPPI      ; 1-0; H Hodoud
+; Ittihad    ; 4-1; Ismaily
+; Aswan      ; 0-5; Ahly
 
 Round: 25 
 Date: 5/12/2003
 
-Ahly        1-0 B Mehalla
-Ismaily     3-2 Masry
-G Mehalla   0-3 Zamalek
-Goldy       2-1 Tersana
-Mokawloon   5-0 Aswan
-Mansoura    2-1 ENPPI
-Ittihad     3-1 H Hodoud
+; Ahly       ; 1-0; B Mehalla
+; Ismaily    ; 3-2; Masry
+; G Mehalla  ; 0-3; Zamalek
+; Goldy      ; 2-1; Tersana
+; Mokawloon  ; 5-0; Aswan
+; Mansoura   ; 2-1; ENPPI
+; Ittihad    ; 3-1; H Hodoud
 
 Round: 26 
 Date: 5/23/2003
 
-Masry       0-1 Ittihad
-Zamalek     1-0 Ismaily
-Tersana     1-0 G Mehalla
-Aswan       4-2 Goldy
-B Mehalla   4-1 Mokawloon
-ENPPI       1-0 Ahly
-H Hodoud    2-0 Mansoura
+; Masry      ; 0-1; Ittihad
+; Zamalek    ; 1-0; Ismaily
+; Tersana    ; 1-0; G Mehalla
+; Aswan      ; 4-2; Goldy
+; B Mehalla  ; 4-1; Mokawloon
+; ENPPI      ; 1-0; Ahly
+; H Hodoud   ; 2-0; Mansoura
 
 * 1.Zamalek (Cairo)              26 21  4  1  57-10  67  Champions
 * 2.Al Ahly (Cairo)              26 21  3  2  53-13  66

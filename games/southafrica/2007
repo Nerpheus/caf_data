@@ -33,47 +33,47 @@ Round: 1
 Date: 8/15/2007
 
 ; Benoni Premier United    ; 0-2; Kaizer Chiefs 
-  Mandla Masango 10, Mabhuti Khanyeza (pk) 89
+;  Mandla Masango 10, Mabhuti Khanyeza (pk) 89
 
 ; Black Leopards           ; 2-0; SuperSport United
-  Thabiso Hlalele 40, Myron Shongwe 57
+  Thabiso Hlalele 40, Myron Shongwe 57;
 
 ; Bloemfontein Celtic      ; 1-0; Ajax Cape Town
-  Patric Malokase 49
+  Patric Malokase 49;
 
 ; Jomo Cosmos              ; 0-0; Bidvest Wits 
 
 ; Lamontville Golden Arrows; 0-1; Platinum Stars
-  Koketso Mmotong 44
+;  Koketso Mmotong 44
 
 ; Mamelodi Sundowns        ; 1-2; AmaZulu
-  Gift Leremi 58; Dumisani Ngwenya 41, 51
+  Gift Leremi 58; Dumisani Ngwenya 41, Dumisani Ngwenya 51
 
 ; Orlando Pirates          ; 0-1; Moroka Swallows 
-  Cecil Oerson 69
+;  Cecil Oerson 69
 
 ; Santos                   ; 2-2; Free State Stars
-  Ryan Chapman 49, Musa Otieno Ongao 90+1; Diyo Sibisi 2, 57
+  Ryan Chapman 49, Musa Otieno Ongao 90+1; Diyo Sibisi 2, Diyo Sibisi 57
 
 Round: 2
 Date: 8/24/2007
 
 ; SuperSport United        ; 1-0; Benoni Premier United 
-  Katlego Mphela (pk) 63
+  Katlego Mphela (pk) 63;
 
 Date: 8/25/2007
 
 ; Ajax Cape Town           ; 1-0; Black Leopards
-  Sameegh Doutie 74
+  Sameegh Doutie 74;
 
 ; Free State Stars         ; 2-0; Lamontville Golden Arrows
-  Diyo Sibisi 36, (pk) 83
+  Diyo Sibisi 36, Diyo Sibisi (pk) 83;
 
 ; Kaizer Chiefs            ; 1-1; Jomo Cosmos
   Shaun Bartlett 40; Anthony Laffor (pk) 38
 
 ; Bidvest Wits             ; 1-0; Orlando Pirates
-  Marawaan Bantam 57
+  Marawaan Bantam 57;
 
 Date: 8/26/2007
 
@@ -89,20 +89,20 @@ Round: 3
 Date: 8/31/2007
 
 ; Kaizer Chiefs            ; 0-1; Bidvest Wits        
-  Noah Chivuta (pk) 63
+; Noah Chivuta (pk) 63
 
 Date: 9/1/2007
 
 ; Black Leopards           ; 2-0; Platinum Stars
-  Myron Shongwe 30, David Makgale 60
+  Myron Shongwe 30, David Makgale 60;
 
 ; Lamontville Golden Arrows; 2-1; AmaZulu
-  Norman Smith 61, 68; Dennis Lota 90+1
+  Norman Smith 61, Norman Smith 68; Dennis Lota 90+1
 
 Date: 9/2/2007
 
 ; Benoni Premier United    ; 1-2; Ajax Cape Town 
-  Bernard Parker 23; Thembinkosi 'Terror' Fanteni 76, (pk) 80
+  Bernard Parker 23; Thembinkosi 'Terror' Fanteni 76, Thembinkosi 'Terror' Fanteni (pk) 80
 
 ; Bloemfontein Celtic      ; 1-1; Free State Stars 
   John Maduka 76; Sifiso Vilakazi 52
@@ -117,10 +117,10 @@ Round: 4
 Date: 9/16/2007
 
 ; Ajax Cape Town           ; 1-0; Jomo Cosmos
-  Eduardo Ferreira 60
+  Eduardo Ferreira 60;
 
 ; AmaZulu                  ; 0-1; Bloemfontein Celtic
-  Timothy Batabaire 78
+;  Timothy Batabaire 78
 
 ; Moroka Swallows          ; 1-1; Lamontville Golden Arrows
   Sbongakonke Ndlovu 51; Musa Bilankulu 66
@@ -136,28 +136,28 @@ Date: 9/19/2007
   Noah Chivuta 9; Josta Dladla 1, Lerato Chabangu 20, Brent Carelse 23
  
 ; Free State Stars         ; 2-0; Black Leopards
-  Sifiso Vilakazi 23, Diyo Sibisi 75
+  Sifiso Vilakazi 23, Diyo Sibisi 75;
 
 ; Orlando Pirates          ; 1-0; Santos 
-  Joseph Makhanya 75
+  Joseph Makhanya 75;
 
 Round: 5
 Date: 9/22/2007
 
 ; Benoni Premier United    ; 2-0; Free State Stars
-  Serge Djiehoua 65, Bernard Parker 82
+  Serge Djiehoua 65, Bernard Parker 82;
 
 ; Black Leopards           ; 1-2; AmaZulu
   Myron Shongwe 2; Dumisani Ngwenya 50, Mpho Maleka 73
 
 ; Kaizer Chiefs            ; 0-1; Ajax Cape Town 
-  Russell Mwafulirwa 6
+;  Russell Mwafulirwa 6
 
 ; Lamontville Golden Arrows; 2-1; Orlando Pirates
   Norman Smith 58, Kagiso Dikgacoi 83; Fabry Destin Makita-Passy 53
 
 ; SuperSport United        ; 0-1; Bidvest Wits 
-  David Radebe 26
+;  David Radebe 26
 
 Date: 9/23/2007
 
@@ -165,30 +165,29 @@ Date: 9/23/2007
   Reneilwe Letsholonyane 46; Joseph Mkalipa 24
 
 ; Bloemfontein Celtic      ; 2-0; Moroka Swallows
-  Moses Spandeel 3, Ntokozo Sikhakhane (pk) 90+1
+  Moses Spandeel 3, Ntokozo Sikhakhane (pk) 90+1;
 
 Moved Match 
 Date: 9/30/2007
 
 ; Benoni Premier United    ; 2-2; Mamelodi Sundowns
-  Ryan Botha 71, Katlego Loke 74; Josta Dladla 11,
-   Lerato Chabangu 90+3 pen
+  Ryan Botha 71, Katlego Loke 74; Josta Dladla 11, Lerato Chabangu (pk) 90+3
 
 Round: 6
 Date: 10/19/2007
 
 ; Orlando Pirates          ; 3-0; Bloemfontein Celtic
-  Bennet Chenene 54, Excellent Walaza 71, 78
+  Bennet Chenene 54, Excellent Walaza 71, Excellent Walaza 78;
 
 Date: 10/20/2007
 
 ; Ajax Cape Town           ; 0-0; SuperSport United 
 
 ; AmaZulu                  ; 1-0; Thanda Royal Zulu
-  Dennis Lota 82
+  Dennis Lota 82;
 
 ; Free State Stars         ; 2-0; Jomo Cosmos
-  Thulasizwe Mbuyane 23, Diyo Sibisi 44
+  Thulasizwe Mbuyane 23, Diyo Sibisi 44;
 
 ; Mamelodi Sundowns        ; 1-2; Lamontville Golden Arrows 
   Esrom Nyandoro 53; Thabiso Gopane 38, Patrick Vilakazi 59
@@ -199,7 +198,7 @@ Date: 10/20/2007
 Date: 10/21/2007
 
 ; Moroka Swallows          ; 1-0; Black Leopards 
-  James Chamanga 90+1
+  James Chamanga 90+1;
 
 ; Platinum Stars           ; 0-0; Kaizer Chiefs 
 
@@ -209,24 +208,22 @@ Date: 10/31/2007
 ; Jomo Cosmos              ; 0-0; AmaZulu
 
 ; Lamontville Golden Arrows; 0-1; Santos
-  Erwin Isaacs 75
+;  Erwin Isaacs 75
 
 ; Ajax Cape Town           ; 5-2; Bidvest Wits 
-  Russel Mwafulira 12, 59, Bryce Moon, Neil Winstanley 50og,
-   Thembinkosi Fanteni 81; Noah Chivuta (pk) 7, Marcos ‘Pepe’ De Jesus 90+1
+  Russel Mwafulira 12, Russel Mwafulira 59, Bryce Moon, Neil Winstanley (og) 50, Thembinkosi Fanteni 81; Noah Chivuta (pk) 7, Marcos ‘Pepe’ De Jesus 90+1
 
 ; Thanda Royal Zulu        ; 1-1; Moroka Swallows
   Clement Mazibuko 71; James Chamanga 22
 
 ; Black Leopards           ; 2-3; Orlando Pirates
-  Walter Ramulondi 68, Fischer Kondowe 73; Excellent Walaza 6, 60,
-   Bennet Chenene 79
+  Walter Ramulondi 68, Fischer Kondowe 73; Excellent Walaza 6, Excellent Walaza 60, Bennet Chenene 79
 
 ; Bloemfontein Celtic      ; 0-1; Mamelodi Sundowns
-  Esrom Nyandoro (pk) 49
+;  Esrom Nyandoro (pk) 49
 
 ; Kaizer Chiefs            ; 3-0; Free State Stars
-  Mabhuti Khanyeza 46, Onismor Bhasera 77, Shaun Bartlett 90+1
+  Mabhuti Khanyeza 46, Onismor Bhasera 77, Shaun Bartlett 90+1;
 
 ; SuperSport United        ; 1-1; Platinum Stars
   Ricardo Katza (pk) 20; Hareaipha Marumo (pk) 45+1
@@ -235,14 +232,14 @@ Round: 8
 Date: 11/3/2007
 
 ; SuperSport United        ; 1-0; AmaZulu
-  Tshepo Motsoeneng 48og
+  Tshepo Motsoeneng (og) 48;
 
 Date: 11/4/2007
 
 ; Ajax Cape Town           ; 0-0; Free State Stars 
 
 ; Black Leopards           ; 2-0; Santos
-  Myron Shongwe 43, Fischer Kondowe 73
+  Myron Shongwe 43, Fischer Kondowe 73;
 
 ; Bloemfontein Celtic      ; 1-1; Lamontville Golden Arrows
   Thabo Nthete 67; Vusumuzi Vilakazi 59
@@ -256,7 +253,7 @@ Moved Matches
 Date: 11/7/2007
 
 ; Jomo Cosmos              ; 0-1; Orlando Pirates
-  Lucky Lekgwathi 89
+;  Lucky Lekgwathi 89
 
 ; Kaizer Chiefs            ; 1-2; Moroka Swallows
   Shaun Bartlett 73; Sandile Ndlovu 49, Bevan Fransman 54
@@ -268,26 +265,23 @@ Round: 9
 Date: 11/14/2007
 
 ; Ajax Cape Town           ; 4-1; Moroka Swallows 
-  Mfundo Shumana 21, Russel Mwafulirwa 30, Nhlanhla Shabalala 88,
-   Thembinkosi Fanteni 90+1; Sandile Ndlovu 74
+  Mfundo Shumana 21, Russel Mwafulirwa 30, Nhlanhla Shabalala 88, Thembinkosi Fanteni 90+1; Sandile Ndlovu 74
 
 ; Black Leopards           ; 0-1; Bloemfontein Celtic 
-  Luvhengo Mungomeni 41og
+;  Luvhengo Mungomeni (og) 41
 
 ; Free State Stars         ; 3-1; Bidvest Wits   
-  Fanyana Dhladhla 16, Sifiso Vilakazi 45, Moses Mbuyane 70;
-   Ashraf Hendricks 48
+  Fanyana Dhladhla 16, Sifiso Vilakazi 45, Moses Mbuyane 70; Ashraf Hendricks 48
 
 ; Jomo Cosmos              ; 0-0; Santos 
 
 ; Kaizer Chiefs            ; 0-0; Mamelodi Sundowns 
 
 ; Platinum Stars           ; 0-1; AmaZulu 
-  Dumisani Ngwenya 19
+;  Dumisani Ngwenya 19
 
 ; SuperSport United        ; 3-1; Orlando Pirates
-  Sboniso Gaxa 5, Bongani Khumalo 81, Katlego Mashego 90+2;
-   Teko Modise 78
+  Sboniso Gaxa 5, Bongani Khumalo 81, Katlego Mashego 90+2; Teko Modise 78
 
 Round: 10
 Date: 11/23/2007
@@ -296,37 +290,34 @@ Date: 11/23/2007
   Sandile Ndlovu 75; Daine Klate 15, Katlego Mashego 56
 
 ; Bidvest Wits             ; 2-0; Bloemfontein Celtic
-  Clive Moyo-Modise 40, Noah Chivuta 90+1
+  Clive Moyo-Modise 40, Noah Chivuta 90+1;
 
 *Mamelodi Sundowns         abd Jomo Cosmos          [abandoned due to hail]
 
 Date: 11/24/2007
 
 ; Orlando Pirates          ; 2-2; Kaizer Chiefs
-  Ecxelent Walaza 32, 51; Mabhuti Khanyeza 1, Arthur Zwane 58
+  Ecxelent Walaza 32, Ecxelent Walaza 51; Mabhuti Khanyeza 1, Arthur Zwane 58
 
 ; Santos                   ; 0-2; Thanda Royal Zulu 
-  Katlego Loke 19, Bennet Mnguni 30
+;  Katlego Loke 19, Bennet Mnguni 30
 
 Date: 11/25/2007
 
 ; Lamontville Golden Arrows; 1-0; Black Leopards
-  Abia Nale 38
+  Abia Nale 38;
 
 ; AmaZulu                  ; 0-1; Ajax Cape Town 
-  Thembinkosi Fanteni 45+2
+;  Thembinkosi Fanteni 45+2
 
 ; Free State Stars         ; 3-1; Platinum Stars
-  Prince Olomu 4, 38, 85; Stanley Kgatla 89
-
+  Prince Olomu 4, Prince Olomu 38, Prince Olomu 85; Stanley Kgatla 89
 
 Date: 11/26/2007
 *, replay/2007
 
 ; Mamelodi Sundowns        ; 2-2; Jomo Cosmos
-  Benson Mhlongo 24, Peter Ndlovu 86; Anthony Laffor 79,
-   Lethola Mofokeng 84
-
+  Benson Mhlongo 24, Peter Ndlovu 86; Anthony Laffor 79, Lethola Mofokeng 84
 
 *Moved Match 
 Date: 11/28/2007
@@ -338,8 +329,7 @@ Round: 11
 Date: 12/2/2007
 
 ; Moroka Swallows          ; 1-3; Jomo Cosmos
-  Alton Meiring 90; Anthony Laffor (pk) 6, Lucky Mhlate 89,
-   Dikgang Mabalane 90+3
+  Alton Meiring 90; Anthony Laffor (pk) 6, Lucky Mhlate 89, Dikgang Mabalane 90+3
 
 ; Orlando Pirates          ; 3-1; Thanda Royal Zulu 
   Bennet Chenene 56, Excellent Walaza 59, Paulos Masehe 87; Serge Djiehoua 77
@@ -348,10 +338,10 @@ Date: 12/2/2007
   George Mofokeng 44; Nathan Paulse 90+1
 
 ; Santos                   ; 1-0; Bloemfontein Celtic 
-  Romano Scott 78
+  Romano Scott 78;
 
 ; Free State Stars         ; 1-0; SuperSport United
-  Diyo Sibisi 48
+  Diyo Sibisi 48;
 
 ; Bidvest Wits             ; 1-1; Lamontville Golden Arrows
   Noah Chivuta (pk) 65; Vusumuzi Dhlamini 72
@@ -362,23 +352,22 @@ Date: 12/5/2007
   John Moshoeu 54; Kaizer Motaung Jnr 51
 
 ; Mamelodi Sundowns        ; 1-2; Black Leopards
-  Surprise Moriri 90+2; Fischer Kondowe 23, 51
+  Surprise Moriri 90+2; Fischer Kondowe 23, Fischer Kondowe 51
 
 Round: 12
 Date: 12/8/2007
 
 ; Lamontville Golden Arrows; 2-0; Jomo Cosmos
-  Vusumuzi Vilakazi 55, Kagiso Dikgacoi 73
+  Vusumuzi Vilakazi 55, Kagiso Dikgacoi 73;
 
 ; Mamelodi Sundowns        ; 2-3; SuperSport United
-  Surprise Moriri 66, Josta Dladla 74; Elias Pelembe 37, 79,
-   Bongani Khumalo 72
+  Surprise Moriri 66, Josta Dladla 74; Elias Pelembe 37, Elias Pelembe 79, Bongani Khumalo 72
 
 ; Orlando Pirates          ; 2-1; Ajax Cape Town
   Bennet Chenene 65, Lucky Lekgwathi 79; Thembinkosi Fanteni 27
 
 ; Bidvest Wits             ; 2-1; Black Leopards
-  Marcos Pepe de Jesus 8, 15; Mulondo Sikhwivhilu 43
+  Marcos Pepe de Jesus 8, Marcos Pepe de Jesus 15; Mulondo Sikhwivhilu 43
 
 Date: 12/9/2007
 
@@ -389,8 +378,7 @@ Date: 12/9/2007
   Lebohang Kukame 6; Bernard Parker 9
 
 ; Moroka Swallows          ; 6-2; Platinum Stars
-  James Chamanga 22, 23, 25, 85, 88, Sandile Ndlovu 31;
-   Sipho Mchabe 44, Edward Williams 50
+  James Chamanga 22, James Chamanga 23, James Chamanga 25, James Chamanga 85, James Chamanga 88, Sandile Ndlovu 31; Sipho Mchabe 44, Edward Williams 50
 
 ; Santos                   ; 0-0; Kaizer Chiefs
 
@@ -398,10 +386,10 @@ Round: 13
 Date: 12/12/2007
 
 ; Jomo Cosmos              ; 0-2; Bloemfontein Celtic
-  Mark Amofah 45, 75
+; Mark Amofah 45, Mark Amofah 75
  
 ; Free State Stars         ; 0-2; Moroka Swallows
-  James Chamanga 20, 45+1
+; James Chamanga 20, James Chamanga 45+1
 
 ; AmaZulu                  ; 1-1; Bidvest Wits   
   Dumisani Ngwenya 36; David Radebe 14
@@ -413,11 +401,10 @@ Date: 12/12/2007
   Dingane Masanabo 75; Excellent Walaza 21
 
 ; Kaizer Chiefs            ; 4-2; Lamontville Golden Arrows
-  Siphiwe Tshabalala 13, David Obua 60, Cyril Nzama 69, Gerald Sibeko 86;
-  Kagiso Dikgacoi 27, 83
+  Siphiwe Tshabalala 13, David Obua 60, Cyril Nzama 69, Gerald Sibeko 86; Kagiso Dikgacoi 27, Kagiso Dikgacoi 83
 
 ; SuperSport United        ; 0-1; Santos
-  Erwin Isaacs 55
+;  Erwin Isaacs 55
 
 ; Ajax Cape Town           ; 1-1; Mamelodi Sundowns
   Thembinkosi Fanteni 89; Peter Ndlovu 29
@@ -434,13 +421,12 @@ Date: 12/15/2007
   Thando Mngomeni 16, Erwin Isaacs (pk) 54; Edwardo Ferreira 51
 
 ; BidVest Wits             ; 1-0; Thanda Royal Zulu 
-  Marcos Pepe De Jesus 70
+  Marcos Pepe De Jesus 70;
 
 Date: 12/16/2007
 
 ; Moroka Swallows          ; 3-2; AmaZulu 
-  Tsweu Mokoro 2, James Chamanga 23, James Mayinga 58;
-   Siyabonga Mkhwanazi 18, 55
+  Tsweu Mokoro 2, James Chamanga 23, James Mayinga 58; Siyabonga Mkhwanazi 18, Siyabonga Mkhwanazi 55
 
 ; Bloemfontein Celtic      ; 1-1; Kaizer Chiefs
   Moses Spandeel (pk) 44; Kaizer Motaung Jnr 70
@@ -451,24 +437,24 @@ Date: 12/19/2007
   Peter Ndlovu 90+1; Edward Williams 31, Joseph Mkalipa 88
 
 ; Lamontville Golden Arrows; 0-1; SuperSport United  
-  Elias Pelembe 89
+;  Elias Pelembe 89
  
 Round: 15
 Date: 12/21/2007
 
 ; BidVest Wits             ; 1-0; Moroka Swallows
-  Noah Chivuta 43
+  Noah Chivuta 43;
 
 Date: 12/22/2007
 
 ; Free State Stars         ; 0-1; Mamelodi Sundowns 
-  Esrom Nyandoro 65
+;  Esrom Nyandoro 65
 
 ; Kaizer Chiefs            ; 1-1; Black Leopards 
   Siphiwe Tshabalala 14; Robert Ngambi 71
 
 ; SuperSport United        ; 1-0; Bloemfontein Celtic 
-  Rudi Isaacs 22
+  Rudi Isaacs 22;
 
 ; Ajax Cape Town           ; 1-1; Lamontville Golden Arrows
   Russel Mwafulirwa 59; Mula Bilankulu 42
@@ -479,10 +465,10 @@ Date: 12/22/2007
 Date: 12/23/2007
 
 ; Platinum Stars           ; 3-0; Santos
-  Edward Williams 47, 86, George Mofokeng
+  Edward Williams 47, Edward Williams 86, George Mofokeng
 
 ; AmaZulu                  ; 1-0; Orlando Pirates
-  Dumisani Ngwenya 18
+  Dumisani Ngwenya 18;
 
 Round: 16
 Date: 2/11/2008
@@ -493,54 +479,49 @@ Date: 2/11/2008
 Date: 2/12/2007
 
 ; Platinum Stars           ; 0-2; Lamontville Golden Arrows
-  Abia Nale 39, Papi Zothwane 53
+;  Abia Nale 39, Papi Zothwane 53
 
 Date: 2/13/2008
 
 ; Free State Stars         ; 4-1; Santos
-  Sthembiso Ngcobo 7, Thulasizwe Mbuyane 40, 69, Siyabonga Mdluli 84;
-   Mogogi Gabonamong 52
+  Sthembiso Ngcobo 7, Thulasizwe Mbuyane 40, Thulasizwe Mbuyane 69, Siyabonga Mdluli 84; Mogogi Gabonamong 52
 
 ; Kaizer Chiefs            ; 0-1; Thanda Royal Zulu
-  Serge Djehoua 56
+;  Serge Djehoua 56
 
 ; Moroka Swallows          ; 0-3; Orlando Pirates
-  Gilbert Mushangazhike 12, Teko Modise 67, Excellent Walaza 84
+; Gilbert Mushangazhike 12, Teko Modise 67, Excellent Walaza 84
 
 ; SuperSport United        ; 3-1; Black Leopards 
-  Fikru Leaessa 16, Daine Klate 27, Dennis Onyango 86;
-   Mulondo Sikhwivhilu 37
+  Fikru Leaessa 16, Daine Klate 27, Dennis Onyango 86; Mulondo Sikhwivhilu 37
 
 ; Ajax Cape Town           ; 3-1; Bloemfontein Celtic 
-  Diphetogo Selolwane 13, Erduardo Ferreira 33, Mkhanyiseli Siwahla 40;
-   Lebogang Mothibantwa 30
+  Diphetogo Selolwane 13, Erduardo Ferreira 33, Mkhanyiseli Siwahla 40; Lebogang Mothibantwa 30
 
 ; BidVest Wits             ; 2-0; Jomo Cosmos
-  Ashraf Hendricks 23, 39
+  Ashraf Hendricks 23, Ashraf Hendricks 39;
 
 Round: 17
 Date: 2/16/2008
 
 ; Black Leopards           ; 1-2; Ajax Cape Town
-  Fischer Kondowe 38; Nathana Paulse 51, 66
+  Fischer Kondowe 38; Nathana Paulse 51, Nathana Paulse 66
 
 ; Lamontville Golden Arrows; 2-2; Free State Stars
-  Kagiso Dikgacoi 5, Mauricio Ernesto Pequenino 62;
-   Tshegofatso Mashego 10, Sthembiso Ngcobo 17
+  Kagiso Dikgacoi 5, Mauricio Ernesto Pequenino 62; Tshegofatso Mashego 10, Sthembiso Ngcobo 17
 
 ; Orlando Pirates          ; 2-0; BidVest Wits   
-  Teko Modise 54, Tebogo Mashaba 79
+  Teko Modise 54, Tebogo Mashaba 79;
 
 ; Thanda Royal Zulu        ; 0-1; SuperSport United 
-  Daine Klate 36
+;  Daine Klate 36
 
 Date: 2/17/2008
 
 ; Jomo Cosmos              ; 0-0; Kaizer Chiefs 
 
 ; Santos                   ; 3-2; AmaZulu
-  Erwin Isaacs 3, 68, Mogogi Gabonamong 8; Siyabonga Mkhwanazi (pk) 57,
-   Litha Ngxabi 90+2
+  Erwin Isaacs 3, Erwin Isaacs 68, Mogogi Gabonamong 8; Siyabonga Mkhwanazi (pk) 57, Litha Ngxabi 90+2
 
 Date: 2/27/2008
 
@@ -550,45 +531,43 @@ Date: 2/27/2008
 Date: 3/12/2008
 
 ; Bloemfontein Celtic      ; 0-2; Platinum Stars
-  Phumudzo Manenzhe 48, 51
+; Phumudzo Manenzhe 48, Phumudzo Manenzhe 51
 
 Round: 18
 Date: 2/20/2007
 
 ; Ajax Cape Town           ; 3-0; Thanda Royal Zulu
-  Brett Evans 28, Nathan Paulse 34, 44
+  Brett Evans 28, Nathan Paulse 34, Nathan Paulse 44;
 
 ; AmaZulu                  ; 0-1; Lamontville Golden Arrows
-  Musa Bilankulu 50
+;  Musa Bilankulu 50
 
 ; Free State Stars         ; 1-0; Bloemfontein Celtic
-  Diyo Sibisi 42
+  Diyo Sibisi 42;
 
 ; Moroka Swallows          ; 1-4; Santos
-  James Chamanga 63; Erwin Isaacs (pk) 30, Mogogi Gabonamong 50, 61,
-   Thando Mngomeni 83
+  James Chamanga 63; Erwin Isaacs (pk) 30, Mogogi Gabonamong 50, Mogogi Gabonamong 61, Thando Mngomeni 83
 
 ; Orlando Pirates          ; 3-1; Mamelodi Sundowns
-  Bennet Chenene 8, Excellent Walaza 11, Gilbert Mushangazhike 54;
-   Peter Ndlovu 45+2
+  Bennet Chenene 8, Excellent Walaza 11, Gilbert Mushangazhike 54; Peter Ndlovu 45+2
 
 ; Platinum Stars           ; 2-0; Black Leopards 
-  Phumudzo Manenzhe 26, Tshepo Ramokala 90+1
+  Phumudzo Manenzhe 26, Tshepo Ramokala 90+1;
 
 ; SuperSport United        ; 1-1; Jomo Cosmos
   Bongani Khumalo 58; Tshepo Moloto 88
 
 ; Bidvest Wits             ; 0-2; Kaizer Chiefs
-  Shaun Bartlett 12, David Obua 90+3
+;  Shaun Bartlett 12, David Obua 90+3
 
 Round: 19
 Date: 2/23/2008
 
 ; Kaizer Chiefs            ; 0-1; SuperSport United
-  Elias Pelembe 45+2
+; Elias Pelembe 45+2
 
 ; Lamontville Golden Arrows; 1-0; Moroka Swallows 
-  Vusumuzi Vilakazi (pk) 90+1
+  Vusumuzi Vilakazi (pk) 90+1;
 
 ; Thanda Royal Zulu        ; 1-2; Platinum Stars
   Sthembiso Ngcobo 79; Phumudzo Manenzhe 17, Luis Robinson Renteria 35
@@ -599,18 +578,16 @@ Date: 2/23/2008
 Date: 2/24/2008
 
 ; Mamelodi Sundowns        ; 2-3; Bidvest Wits 
-  Lerato Chabangu 32, Bryan Aldave 86; Bruin Senokoane 25, 73,
-   Dale Studzinski 37
+  Lerato Chabangu 32, Bryan Aldave 86; Bruin Senokoane 25, Bruin Senokoane 73, Dale Studzinski 37
 
 ; Santos                   ; 2-1; Orlando Pirates 
   Romano Scott 18, Eleazar Rodgers 69; Paulus Masehe 90
 
 ; Bloemfontein Celtic      ; 3-2; AmaZulu 
-  Darren Smith 4, Pere Ariweriyai 44og, John Maduka 64;
-   Dumisani Ngwenya 88, 90
+  Darren Smith 4, Pere Ariweriyai (og) 44, John Maduka 64; Dumisani Ngwenya 88, Dumisani Ngwenya 90
 
 ; Jomo Cosmos              ; 0-1; Ajax Cape Town
-  Serge Dikulu Bageta 9
+;  Serge Dikulu Bageta 9
 
 Round: 20
 Date: 2/27/2008
@@ -629,18 +606,15 @@ Date: 3/1/2008
   Nathan Paulse 48; K Motaung Jnr 66
 
 ; Free State Stars         ; 2-2; Thanda Royal Zulu
-  Diyo Sibisi 27, Sthembiso Ngcobo 30; Bennet Mnguni 32,
-   Emmanuel 'Scara' Ngobese 88
+  Diyo Sibisi 27, Sthembiso Ngcobo 30; Bennet Mnguni 32, Emmanuel 'Scara' Ngobese 88
 
 ; AmaZulu                  ; 2-0; Black Leopards
-  Siyabonga Mkhwanazi 49, Mpho Maleka 84
+  Siyabonga Mkhwanazi 49, Mpho Maleka 84;
 
 Date: 3/2/2008
 
 ; Moroka Swallows          ; 3-1; Bloemfontein Celtic
-  Patrick Mabedi 79, Sandile Ndlovu 88, Maimane Phiri 90+1;
-   Darrel Smith 38
-
+  Patrick Mabedi 79, Sandile Ndlovu 88, Maimane Phiri 90+1; Darrel Smith 38
 
 Date: 3/12/2008
 
@@ -650,12 +624,10 @@ Round: 21
 Date: 3/4/2008
 
 ; SuperSport United        ; 3-2; Ajax Cape Town     
-  Kermit Erasmus 21, Katlego Mashego 67, Daine Klate 71;
-   Nathan Paulse 28, Franklin Cale 49
+  Kermit Erasmus 21, Katlego Mashego 67, Daine Klate 71; Nathan Paulse 28, Franklin Cale 49
 
 ; Santos                   ; 2-1; BidVest Wits  
-  Eleazar Rodgers 14, 84; Marawaan Bantam 64
-
+  Eleazar Rodgers 14, Eleazar Rodgers 84; Marawaan Bantam 64
 
 Date: 3/5/2008
 
@@ -665,23 +637,21 @@ Date: 3/5/2008
 ; Jomo Cosmos              ; 0-0; Free State Stars
 
 ; Black Leopards           ; 1-3; Moroka Swallows
-
-  Mulondo Sikhwivhilu 11; Bevan Fransman 42, James Chamanga 68,
-   Evans Gwekwerere 78
+  Mulondo Sikhwivhilu 11; Bevan Fransman 42, James Chamanga 68, Evans Gwekwerere 78
 
 ; Bloemfontein Celtic      ; 0-1; Orlando Pirates
-  Lebohang Mokoena 45+1
+;  Lebohang Mokoena 45+1
 
 ; Kaizer Chiefs            ; 0-0; Platinum Stars
 
 ; Thanda Royal Zulu        ; 1-2; AmaZulu
-  Ryan Botha 78; Siyabonga Mkhwanazi 3, 32
+  Ryan Botha 78; Siyabonga Mkhwanazi 3, Siyabonga Mkhwanazi 32
 
 Round: 22
 Date: 3/7/2008
 
 ; BidVest Wits             ; 0-1; Ajax Cape Town   
-  Wilson Shendzelani 85og
+;  Wilson Shendzelani (og) 85
   
 Date: 3/8/2008
 
@@ -690,21 +660,19 @@ Date: 3/8/2008
 ; Orlando Pirates          ; 0-0; Black Leopards  
 
 ; Santos                   ; 3-1; Lamontville Golden Arrows
-  Erwin Isaacs 66, Ryan Chapman 70, Eleazar Rodgers 88;
-   Thabiso Gopane 69
+  Erwin Isaacs 66, Ryan Chapman 70, Eleazar Rodgers 88; Thabiso Gopane 69
   
 Date: 3/9/2008
 
 ; AmaZulu                  ; 0-0; Jomo Cosmos
 
 ; Free State Stars         ; 1-4; Kaizer Chiefs
-  Kennedy Mweene (pk) 53; Gerald Sibeko 63, 84, David Mathebula 65,
-   Mabhudi Khenyeza 75
+  Kennedy Mweene (pk) 53; Gerald Sibeko 63, Gerald Sibeko 84, David Mathebula 65, Mabhudi Khenyeza 75
   
 ; Moroka Swallows          ; 0-0; Thanda Royal Zulu
 
 ; Platinum Stars           ; 0-2; SuperSport United   
-  Katlego Mashego 50, (pk) 79
+; Katlego Mashego 50, Katlego Mashego (pk) 79
   
 Round: 23
 Date: 3/19/2008
@@ -713,18 +681,17 @@ Date: 3/19/2008
   Enoh Eyong 24; Tshepo Ramokala 42
 
 ; Black Leopards           ; 0-3; Mamelodi Sundowns 
-  Fanyana Dhladhla 68, Lerato Chabangu 77, Surprise Moriri 82
+;  Fanyana Dhladhla 68, Lerato Chabangu 77, Surprise Moriri 82
 
 Date: 3/21/2008
 
 ; Kaizer Chiefs            ; 1-0; AmaZulu
-  Mabhudi Khenyeza 44
+  Mabhudi Khenyeza 44;
 
 Date: 3/22/2008
 
 ; Lamontville Golden Arrows; 2-2; Bidvest Wits
-  Musa Bilankulu 10, Abia Nale 49; Siyabonga Sangweni 30og,
-   Clive Moyo-Modise 36)
+  Musa Bilankulu 10, Abia Nale 49; Siyabonga Sangweni (og) 30, Clive Moyo-Modise 36
 
 ; Thanda Royal Zulu        ; 2-1; Orlando Pirates
   Ahmed Muhammed 48, Bernard Parker 76; Bennet Chenene 79
@@ -732,52 +699,49 @@ Date: 3/22/2008
 Date: 3/23/2008
 
 ; Bloemfontein Celtic      ; 0-1; Santos
-  Erwin Isaacs 81
+;  Erwin Isaacs 81
 
 ; Jomo Cosmos              ; 0-0; Moroka Swallows
 
 ; SuperSport United        ; 6-1; Free State Stars
-  Dennis Masina 7, 54, Katlego Mashego 23, Daine Klate 58,
-   Fikru Tefera Lemessa 61, Bongani Khumalo 90+2; Sthembiso Ngcobo 35
+  Dennis Masina 7, Dennis Masina 54, Katlego Mashego 23, Daine Klate 58, Fikru Tefera Lemessa 61, Bongani Khumalo 90+2; Sthembiso Ngcobo 35
 
 Round: 24
 Date: 4/4/2008
 
 ; Santos                   ; 4-0; Black Leopards 
-  Thando Mngomeni 25, Eleazar Rodgers 34, Romano Scott 63, 65
+  Thando Mngomeni 25, Eleazar Rodgers 34, Romano Scott 63, Romano Scott 65;
 
 Date: 4/5/2008
 
 ; Orlando Pirates          ; 0-0; Jomo Cosmos
 
 ; Lamontville Golden Arrows; 3-0; Bloemfontein Celtic 
-  Joseph Musonda 3, Abia Nale 60, Papi Zothwane 87
+  Joseph Musonda 3, Abia Nale 60, Papi Zothwane 87;
 
 Date: 4/6/2008
 
 ; Moroka Swallows          ; 1-3; Kaizer Chiefs
-  James Chamanga 30; Mabhuti Khenyeza 16, Jonathan Quartey (pk) 66,
-   Thuso Phala 82
+  James Chamanga 30; Mabhuti Khenyeza 16, Jonathan Quartey (pk) 66, Thuso Phala 82
 
 ; AmaZulu                  ; 2-0; SuperSport United
-  Siyabonga Mkhwanazi 27, Jan Sillo 84
+  Siyabonga Mkhwanazi 27, Jan Sillo 84;
 
 Date: 4/16/2008
 
 ; Bidvest Wits             ; 1-2; Platinum Stars
-  Marcos 'Pepe' De Jesus 1; Tshepo Ramokala 49, 82
+  Marcos 'Pepe' De Jesus 1; Tshepo Ramokala 49, Tshepo Ramokala 82
 
 ; Free State Stars         ; 1-1; Ajax Cape Town
 
 ; Mamelodi Sundowns        ; 2-0; Thanda Royal Zulu
-  Lerato Chabangu 26, Luvhengo Mungomeni 40
-
+  Lerato Chabangu 26, Luvhengo Mungomeni 40;
 
 Round: 25
 Date: 4/9/2008
 
 ; Bidvest Wits             ; 1-0; Free State Stars 
-  Clive Moyo-Modise 20
+  Clive Moyo-Modise 20;
 
 Date: 4/11/2008
 
@@ -787,21 +751,20 @@ Date: 4/11/2008
 Date: 4/12/2008
 
 ; Lamontville Golden Arrows; 3-1; Thanda Royal Zulu
-  Mauricio Pequenino 4, Abia Nale 23, 70; Serge Djiehoua 77
+  Mauricio Pequenino 4, Abia Nale 23, Abia Nale 70; Serge Djiehoua 77
 
 ; Orlando Pirates          ; 0-1; Supersport United 
-  Elias Pelembe 2
+;  Elias Pelembe 2
 
 Date: 4/13/2008
 
 ; Mamelodi Sundowns        ; 1-0; Kaizer Chiefs
-  Josta Dladla 20
+  Josta Dladla 20;
 
 ; AmaZulu                  ; 0-0; Platinum Stars
 
 ; Bloemfontein Celtic      ; 2-2; Black Leopards
-  John Maduka 21, Moses Spandeel 90+1; Mulondo Sikhwivhilu 45,
-   Kaizer Montsi 89
+  John Maduka 21, Moses Spandeel 90+1; Mulondo Sikhwivhilu 45, Kaizer Montsi 89
 
 ; Moroka Swallows          ; 2-1; Ajax Cape Town
   Sandile Ndlovu 31, Evans Gwekwerere 71; Nathan Paulse 30
@@ -810,17 +773,17 @@ Round: 26
 Date: 4/21/2008
 
 ; Platinum Stars           ; 1-0; Moroka Swallows
-  Luis Robinson Renteria (pk) 53
+  Luis Robinson Renteria (pk) 53;
 
 Date: 4/22/2008
 
 ; SuperSport United        ; 1-3; Mamelodi Sundowns
-  Sboniso Gaxa 84; Brent Carelse 7, 71, Peter Ndlovu 85
+  Sboniso Gaxa 84; Brent Carelse 7, Brent Carelse 71, Peter Ndlovu 85
 
 Date: 4/23/2008
 
 ; Ajax Cape Town           ; 2-0; Orlando Pirates
-  Nathan Paulse 45+2, Russel Mwafulirwa 90+3
+  Nathan Paulse 45+2, Russel Mwafulirwa 90+3;
 
 Date: 4/26/2008
 
@@ -828,15 +791,15 @@ Date: 4/26/2008
   Mokete Tsotetsi 59; Tawonga Chimodzi 43
 
 ; Free State Stars         ; 2-0; AmaZulu
-  Diyo Sibisi 20, 50
+  Diyo Sibisi 20, Diyo Sibisi 50;
 
 ; Black Leopards           ; 1-0; Bidvest Wits     
-  Christopher Netshidzivhe 65
+  Christopher Netshidzivhe 65;
 
 Date: 4/27/2008
 
 ; Thanda Royal Zulu        ; 0-3; Bloemfontein Celtic 
-  Lebogang Kukame 6, Moses Spandeel 63, Kleinbooi Taaibos 69
+;  Lebogang Kukame 6, Moses Spandeel 63, Kleinbooi Taaibos 69
  
 ; Jomo Cosmos              ; 0-0; Lamontville Golden Arrows 
 
@@ -844,29 +807,27 @@ Round: 27
 Date: 4/30/2008
 
 ; Bidvest Wits             ; 0-1; AmaZulu 
-  Mohammed-Awal Issah 46
+;  Mohammed-Awal Issah 46
 
 ; Orlando Pirates          ; 0-1; Platinum Stars 
-  Tshepo Ramokala 42
+;  Tshepo Ramokala 42
 
 ; Moroka Swallows          ; 3-1; Free State Stars
-  Sandile Ndlovu 16, 27, Cecil Oerson 83; Sifiso Sithole 3
+  Sandile Ndlovu 16, Sandile Ndlovu 27, Cecil Oerson 83; Sifiso Sithole 3
 
 ; Mamelodi Sundowns        ; 2-0; Ajax Cape Town
-  Josta Dladla 16, Lerato Chabangu 37
+  Josta Dladla 16, Lerato Chabangu 37;
 
 ; Santos                   ; 0-0; SuperSport United
 
 ; Black Leopards           ; 3-2; Thanda Royal Zulu
-  Robert Ng'ambi 5, 12, Myron Shongwe 37; Felix Obada Obada 29,
-   Tshepo Mashishi 89
+  Robert Ng'ambi 5, Robert Ng'ambi 12, Myron Shongwe 37; Felix Obada Obada 29, Tshepo Mashishi 89
 
 ; Lamontville Golden Arrows; 0-1; Kaizer Chiefs 
-  Mabhuti Khenyeza 19
+;  Mabhuti Khenyeza 19
 
 ; Bloemfontein Celtic      ; 3-1; Jomo Cosmos 
-  Petrus Mahlatsi 46, Thabo Nthete 57, Moses Spandeel 90;
-   Reneilwe Letsholonyane 19
+  Petrus Mahlatsi 46, Thabo Nthete 57, Moses Spandeel 90; Reneilwe Letsholonyane 19
 
 Round: 28
 Date: 5/6/2008
@@ -874,31 +835,28 @@ Date: 5/6/2008
 ; Platinum Stars           ; 1-3; Free State Stars
   Hareaipha Marumo 80; Diyo Sibisi 30, Prince Hlela 38, Ruben Cloete 60
 
-
 Date: 5/7/2008
 
 ; Ajax Cape Town           ; 3-0; AmaZulu
-  Eduardo Ferreira 7, Franklin Cale 31, Sifiso Vilakazi 52
+  Eduardo Ferreira 7, Franklin Cale 31, Sifiso Vilakazi 52;
 
 ; Jomo Cosmos              ; 0-1; Mamelodi Sundowns
-  Bryan Aldave 90+2
-
+;  Bryan Aldave 90+2
 
 Date: 5/10/2008
 
 ; Kaizer Chiefs            ; 1-0; Orlando Pirates
-  David Mathebula 37
+  David Mathebula 37;
 
 ; Black Leopards           ; 0-0; Lamontville Golden Arrows
 
 ; SuperSport United        ; 4-2; Moroka Swallows
-  Katlego Mashego 60, 67 pen, 69, 90+2; Sandile Ndlovu 58, Mark Haskins 65
-
+  Katlego Mashego 60, Katlego Mashego (pk) 67, Katlego Mashego 69, Katlego Mashego 90+2; Sandile Ndlovu 58, Mark Haskins 65
 
 Date: 5/11/2008
 
 ; Bloemfontein Celtic      ; 2-0; Bidvest Wits     
-  (Petrus Mahlatsi 1, 48
+  Petrus Mahlatsi 1, Petrus Mahlatsi 48;
 
 ; Thanda Royal Zulu        ; 1-1; Santos 
   Serge Djiehoua 70; Eleazar Rodgers (pk) 6
@@ -907,23 +865,22 @@ Round: 29
 Date: 5/14/2008
 
 ; AmaZulu                  ; 0-2; Moroka Swallows
-  Bevan Fransman 43, Sandile Ndlovu (pk) 76
+;  Bevan Fransman 43, Sandile Ndlovu (pk) 76
 
 ; Free State Stars         ; 1-3; Orlando Pirates
-  Thulasizwe Mbuyane 16; Tlou Segolela 2, Gilbert Mushangazhike 37,
-   Lebohang Mokoena 51
+  Thulasizwe Mbuyane 16; Tlou Segolela 2, Gilbert Mushangazhike 37, Lebohang Mokoena 51
 
 ; Jomo Cosmos              ; 0-2; Black Leopards
-  Myron Shongwe 17, Thabiso Hlalele 45+1
+;  Myron Shongwe 17, Thabiso Hlalele 45+1
 
 ; Thanda Royal Zulu        ; 3-2; Bidvest Wits
-  Serge Djiehoua 26, (pk) 43, 90+1; Rene Richards 20, Ashraf Hendricks 76
+  Serge Djiehoua 26, Serge Djiehoua (pk) 43, Serge Djiehoua 90+1; Rene Richards 20, Ashraf Hendricks 76
 
 ; Kaizer Chiefs            ; 2-0; Bloemfontein Celtic
-  Arthur Zwane 42, Mabhuti Khenyeza 66
+  Arthur Zwane 42, Mabhuti Khenyeza 66;
 
 ; SuperSport United        ; 2-0; Lamontville Golden Arrows
-  Fikru Tefera Lemessa 19, Katlego Mashego 57
+  Fikru Tefera Lemessa 19, Katlego Mashego 57;
 
 Date: 5/15/2008
 
@@ -931,35 +888,33 @@ Date: 5/15/2008
   Diphetogo Selolwane 9; Eleazar Rodgers 32
 
 ; Platinum Stars           ; 0-1; Mamelodi Sundowns
-  Elias Ngwepe 47
+;  Elias Ngwepe 47
 
 Round: 30 
 Date: 5/18/2008
 
 ; Santos                   ; 1-0; Platinum Stars
-  Erwin Isaacs 38
+  Erwin Isaacs 38;
 
 ; Lamontville Golden Arrows; 2-2; Ajax Cape Town
-  Richard Henyekane 45, Kagiso Senamela 62; Serge Dikulu Bageta (pk) 72,
-   Russel Mwafulirwa 84
+  Richard Henyekane 45, Kagiso Senamela 62; Serge Dikulu Bageta (pk) 72, Russel Mwafulirwa 84
 
 ; Bloemfontein Celtic      ; 2-1; SuperSport United 
-  Moses Spandeel 19, 42; Fikru Tefera Lemessa 59
+  Moses Spandeel 19, Moses Spandeel 42; Fikru Tefera Lemessa 59
 
 ; Moroka Swallows          ; 0-0; Bidvest Wits
 
 ; Mamelodi Sundowns        ; 0-4; Free State Stars
-  Kingston Nkatha 3, 16, Diyo Sibisi 31, Sipho Nkosi 56
+; Kingston Nkatha 3, Kingston Nkatha 16, Diyo Sibisi 31, Sipho Nkosi 56
 
 ; Black Leopards           ; 1-0; Kaizer Chiefs
-  David Makgale 44
+  David Makgale 44;
 
 ; Orlando Pirates          ; 4-1; AmaZulu
-  Gilbert Mushangazhike 25, Rudzani Ramudzuli 33, Teko Modise (pk) 68,
-   Tlou Segolela 73; Sanele Majola (pk) 85
+  Gilbert Mushangazhike 25, Rudzani Ramudzuli 33, Teko Modise (pk) 68, Tlou Segolela 73; Sanele Majola (pk) 85
 
 ; Thanda Royal Zulu        ; 1-0; Jomo Cosmos
-  Serge Djiehoua (pk) 90+1
+  Serge Djiehoua (pk) 90+1;
 
 
 * 1.SuperSport United         30 16  6  8  40-26  54  Champions
