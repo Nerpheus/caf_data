@@ -37,468 +37,459 @@ Stage: 1
 
 Round: 1
 Group: A
-
 Date: 4/15/2006
 
-Dolphins        1-1 Bayelsa
+; Dolphins       ; 1-1; Bayelsa
 
 Date: 4/16/2006
 
-El-Kanemi       0-0 Wikki
-Insurance       2-0 Pillars
-Ranchers Bees   1-0 Julius Berger
-Rangers         2-2 Kwara
+;; El-Kanemi;       0-0 Wikki
+; Insurance      ; 2-0; Pillars
+; Ranchers Bees  ; 1-0; Julius Berger
+; Rangers        ; 2-2; Kwara
 Group: B
 
 Date: 4/16/2006
 
-Nasarawa        0-0 Enyimba
-Shooting        1-1 Lobi
-Gombe               2-0 Kaduna
-Heartland           2-0 Tornadoes
+; Nasarawa       ; 0-0; Enyimba
+; Shooting       ; 1-1; Lobi
+; Gombe              ; 2-0; Kaduna
+; Heartland          ; 2-0; Tornadoes
 
 Date: 4/17/2006
 
-Ocean Boys      1-0 Sharks
+; Ocean Boys     ; 1-0; Sharks
 
 Round: 2
 Group: A
 
 Date: 4/22/2006
 
-Julius Berger   1-1 Insurance
-Pillars             0-0 Rangers
-Kwara                   1-0 El-Kanemi
-Wikki                       1-0 Dolphins
+; Julius Berger  ; 1-1; Insurance
+; Pillars            ; 0-0; Rangers
+; Kwara                  ; 1-0; El-Kanemi
+; Wikki                      ; 1-0; Dolphins
 
 Date: 4/23/2006
 
-Bayelsa         2-0 Ranchers Bees
+; Bayelsa        ; 2-0; Ranchers Bees
 Group: B
 
 Date: 4/22/2006
 
-Sharks          1-0 Shooting
-Tornadoes       0-0 Nasarawa
+; Sharks         ; 1-0; Shooting
+; Tornadoes      ; 0-0; Nasarawa
 
 Date: 4/23/2006
 
-Kaduna          3-0 Ocean Boys
+; Kaduna         ; 3-0; Ocean Boys
 
 Date: 4/26/2006
 
-Enyimba         2-1 Gombe
+; Enyimba        ; 2-1; Gombe
 
 Date: 4/27/2006
 
-Lobi    0-0 Heartland
+; Lobi   ; 0-0; Heartland
 
 Round: 3
 Group: A
 
 Date: 4/29/2006
 
-El-Kanemi       3-2 Pillars
-Ranchers Bees   3-0 Insurance
-Dolphins 2-0 Kwara
+;; El-Kanemi;       3-2 Pillars
+; Ranchers Bees  ; 3-0; Insurance
+; Dolphins; 2-0; Kwara
 
 Date: 4/30/2006
 
-Bayelsa         1-0 Wikki
-Rangers             1-0 Julius Berger
+; Bayelsa        ; 1-0; Wikki
+; Rangers            ; 1-0; Julius Berger
 Group: B
 
 Date: 4/29/2006
 
-Shooting        2-1 Kaduna
+; Shooting       ; 2-1; Kaduna
 
 Date: 4/30/2006
 
-Gombe           3-1 Ocean Boys
-Heartland       1-0 Sharks
-Nasarawa        2-2 Lobi
-Enyimba             2-1 Tornadoes
+; Gombe          ; 3-1; Ocean Boys
+; Heartland      ; 1-0; Sharks
+; Nasarawa       ; 2-2; Lobi
+; Enyimba            ; 2-1; Tornadoes
 
 Round: 4
 Group: A
 
 Date: 5/6/2006
 
-Pillars         2-0 Dolphins
-Insurance       2-0 Rangers
-Wikki               2-0 Ranchers Bees
-Kwara                   0-0 Bayelsa
+; Pillars        ; 2-0; Dolphins
+; Insurance      ; 2-0; Rangers
+; Wikki              ; 2-0; Ranchers Bees
+; Kwara                  ; 0-0; Bayelsa
 
 Date: 5/7/2006
 
-Julius Berger   1-0 El-Kanemi
+; Julius Berger  ; 1-0; El-Kanemi
 Group: B
 
 Date: 5/6/2006
 
-Ocean Boys      1-0 Shooting
-Tornadoes       2-0 Gombe United
+; Ocean Boys     ; 1-0; Shooting
+; Tornadoes      ; 2-0; Gombe United
 
 Date: 5/7/2006
 
-Sharks          2-0 Nasarawa
+; Sharks         ; 2-0; Nasarawa
 
 Date: 5/17/2006
 
-Lobi    0-0 Enyimba
+; Lobi   ; 0-0; Enyimba
 
 Date: 5/24/2006
 
-Kaduna          2-0 Heartland
+; Kaduna         ; 2-0; Heartland
 
 Round: 5
 Group: A
-
 Date: 5/13/2006
 
-Ranchers Bees   1-0 Rangers
-El-Kanemi       2-0 Insurance
-Wikki               1-0 Kwara
-Dolphins            2-0 Julius Berger
+; Ranchers Bees  ; 1-0; Rangers
+;; El-Kanemi;       2-0 Insurance
+; Wikki              ; 1-0; Kwara
+; Dolphins           ; 2-0; Julius Berger
 
 Date: 5/14/2006
 
-Bayelsa         4-0 Pillars
+; Bayelsa        ; 4-0; Pillars
 Group: B
 
 Date: 5/13/2006
 
-Tornadoes       0-0 Lobi
+; Tornadoes      ; 0-0; Lobi
 
 Date: 5/14/2006
 
-Gombe           2-0 Shooting
-Heartland       1-0 Ocean Boys
-Nasarawa        3-1 Kaduna
-Enyimba             2-0 Sharks
+; Gombe          ; 2-0; Shooting
+; Heartland      ; 1-0; Ocean Boys
+; Nasarawa       ; 3-1; Kaduna
+; Enyimba            ; 2-0; Sharks
 
 Round: 6
 Group: A
-
 Date: 5/20/2006
 
-Julius Berger   1-0 Bayelsa
-Kwara           2-1 Ranchers Bees
-Pillars             4-0 Wikki
-Insurance           0-0 Dolphins
+; Julius Berger  ; 1-0; Bayelsa
+; Kwara          ; 2-1; Ranchers Bees
+; Pillars            ; 4-0; Wikki
+; Insurance          ; 0-0; Dolphins
 
 Date: 5/21/2006
 
-Rangers         2-0 El-Kanemi
+; Rangers        ; 2-0; El-Kanemi
 Group: B
 
 Date: 5/20/2006
 
-Shooting        2-1 Heartland
-Ocean Boys      1-0 Nasarawa
-Sharks              0-0 Tornadoes
+; Shooting       ; 2-1; Heartland
+; Ocean Boys     ; 1-0; Nasarawa
+; Sharks             ; 0-0; Tornadoes
 
 Date: 5/21/2006
 
-Lobi    2-0 Gombe
-Kaduna      2-0 Enyimba
+; Lobi   ; 2-0; Gombe
+; Kaduna     ; 2-0; Enyimba
 
 Round: 7
 Group: A
-
 Date: 5/27/2006
 
-Ranchers Bees   2-1 El-Kanemi
-Wikki           3-0 Julius Berger
-Kwara               2-1 Pillars
+; Ranchers Bees  ; 2-1; El-Kanemi
+; Wikki          ; 3-0; Julius Berger
+; Kwara              ; 2-1; Pillars
 
 Date: 5/28/2006
 
-Bayelsa         1-0 Insurance
-Dolphins        2-1 Rangers
+; Bayelsa        ; 1-0; Insurance
+; Dolphins       ; 2-1; Rangers
 Group: B
 
 Date: 5/27/2006
 
-Tornadoes       1-0 Kaduna
+; Tornadoes      ; 1-0; Kaduna
 
 Date: 5/28/2006
 
-Nasarawa        2-0 Shooting
-Gombe               1-0 Heartland
-Lobi                    2-1 Sharks
-Enyimba                     2-1 Ocean Boys
+; Nasarawa       ; 2-0; Shooting
+; Gombe              ; 1-0; Heartland
+; Lobi                   ; 2-1; Sharks
+; Enyimba                    ; 2-1; Ocean Boys
 
 Round: 8
 Group: A
-
 Date: 6/3/2006
 
-Julius Berger   0-1 Kwara
-Pillars             1-0 Ranchers Bees
-Insurance           2-1 Wikki
-El-Kanemi           2-0 Dolphins
+; Julius Berger  ; 0-1; Kwara
+; Pillars            ; 1-0; Ranchers Bees
+; Insurance          ; 2-1; Wikki
+;; El-Kanemi;           2-0 Dolphins
 
 Date: 6/4/2006
 
-Rangers         2-0 Bayelsa
+; Rangers        ; 2-0; Bayelsa
 Group: B 
 Date: 6/3/2006
 
-Shooting     3-3 Enyimba
-Heartland    1-0 Nasarawa
-Ocean Boys   1-0 Tornadoes
-Kaduna           1-0 Lobi
-Sharks               2-1 Gombe
+; Shooting    ; 3-3; Enyimba
+; Heartland   ; 1-0; Nasarawa
+; Ocean Boys  ; 1-0; Tornadoes
+; Kaduna          ; 1-0; Lobi
+; Sharks              ; 2-1; Gombe
 
 Round: 9
 Group: A 
 Date: 6/7/2006
 
-Ranchers Bees   2-0 Dolphins
-Wikki           1-0 Rangers
-Kwara               3-1 Insurance
-Pillars                 1-0 Julius Berger
-Bayelsa                     3-1 El-Kanemi
+; Ranchers Bees  ; 2-0; Dolphins
+; Wikki          ; 1-0; Rangers
+; Kwara              ; 3-1; Insurance
+; Pillars                ; 1-0; Julius Berger
+; Bayelsa                    ; 3-1; El-Kanemi
 Group: B
 
 Date: 6/7/2006
 
-Lobi    2-1 Ocean Boys
-Enyimba     3-0 Heartland
-Sharks          2-1 Kaduna
+; Lobi   ; 2-1; Ocean Boys
+; Enyimba    ; 3-0; Heartland
+; Sharks         ; 2-1; Kaduna
 
 Date: 6/8/2006
 
-Tornadoes       1-0 Shooting
-Gombe               0-1 Nasarawa
+; Tornadoes      ; 1-0; Shooting
+; Gombe              ; 0-1; Nasarawa
 
 Round: 10
 Group: A
-
 Date: 6/17/2006
 
-Insurance       1-1 Kwara
-Julius Berger   1-1 Pillars
-El-Kanemi       2-0 Bayelsa
-Dolphins        2-1 Ranchers Bees
+; Insurance      ; 1-1; Kwara
+; Julius Berger  ; 1-1; Pillars
+;; El-Kanemi;       2-0 Bayelsa
+; Dolphins       ; 2-1; Ranchers Bees
 
 Date: 6/18/2006
 
-Rangers         2-0 Wikki
+; Rangers        ; 2-0; Wikki
+
 Group: B 
 Date: 6/18/2006
 
-Shooting     2-0 Tornadoes
-Ocean Boys   1-0 Lobi
-Heartland    0-0 Enyimba
-Nasarawa     1-0 Gombe
-Kaduna           2-0 Sharks
+; Shooting    ; 2-0; Tornadoes
+; Ocean Boys  ; 1-0; Lobi
+; Heartland   ; 0-0; Enyimba
+; Nasarawa    ; 1-0; Gombe
+; Kaduna          ; 2-0; Sharks
 
 Round: 11
 Group: A
-
 Date: 6/24/2006
 
-Wikki           2-1 El-Kanemi
-Pillars             3-1 Insurance
-Julius Berger       1-1 Ranchers Bees
-Kwara               2-1 Rangers
+; Wikki          ; 2-1; El-Kanemi
+; Pillars            ; 3-1; Insurance
+; Julius Berger      ; 1-1; Ranchers Bees
+; Kwara              ; 2-1; Rangers
 
 Date: 6/25/2006
 
-Bayelsa         2-4 Dolphins
+; Bayelsa        ; 2-4; Dolphins
 Group: B
 
 Date: 6/24/2006
 
-Tornadoes       1-0 Heartland
+; Tornadoes      ; 1-0; Heartland
 
 Date: 6/25/2006
 
-Sharks          1-3 Ocean Boys
-Enyimba             0-1 Nasarawa
-Lobi                    1-1 Shooting
-Kaduna                      2-0 Gombe
+; Sharks         ; 1-3; Ocean Boys
+; Enyimba            ; 0-1; Nasarawa
+; Lobi                   ; 1-1; Shooting
+; Kaduna                     ; 2-0; Gombe
 
 Round: 12
 Group: A
-
 Date: 7/1/2006
 
-Insurance       2-0 Julius Berger
-El-Kanemi       2-1 Kwara
-Ranchers Bees   2-0 Bayelsa
-Dolphins 2-0 Wikki
+; Insurance      ; 2-0; Julius Berger
+;; El-Kanemi;       2-1 Kwara
+; Ranchers Bees  ; 2-0; Bayelsa
+; Dolphins; 2-0; Wikki
 
 Date: 7/19/2006
 
-Rangers         3-2 Pillars
+; Rangers        ; 3-2; Pillars
 Group: B
 
 Date: 7/1/2006
 
-Shooting        2-1 Sharks
-Heartland       4-0 Lobi
+; Shooting       ; 2-1; Sharks
+; Heartland      ; 4-0; Lobi
 
 Date: 7/2/2006
 
-Nasarawa        2-1 Tornadoes
-Ocean Boys      1-0 Kaduna
-Gombe           1-0 Enyimba
+; Nasarawa       ; 2-1; Tornadoes
+; Ocean Boys     ; 1-0; Kaduna
+; Gombe          ; 1-0; Enyimba
 
 Round: 13
 Group: A 
 Date: 7/12/2006
 
-Insurance    2-0 Ranchers Bees
-Kwara            1-0 Dolphins
-Wikki                1-0 Bayelsa
-Julius Berger        1-2 Rangers
-Pillars                  3-2 El-Kanemi
+; Insurance   ; 2-0; Ranchers Bees
+; Kwara           ; 1-0; Dolphins
+; Wikki               ; 1-0; Bayelsa
+; Julius Berger       ; 1-2; Rangers
+; Pillars                 ; 3-2; El-Kanemi
 Group: B
 
 Date: 7/10/2006
 
-Tornadoes       1-0 Enyimba
+; Tornadoes      ; 1-0; Enyimba
 
 Date: 7/12/2006
 
-Ocean Boys      1-0 Gombe
-Kaduna              1-0 Shooting
-Lobi                    2-1 Nasarawa
+; Ocean Boys     ; 1-0; Gombe
+; Kaduna             ; 1-0; Shooting
+; Lobi                   ; 2-1; Nasarawa
 
 Date: 8/6/2006
 
-Sharks          2-0 Heartland
+; Sharks         ; 2-0; Heartland
 
 Round: 14
 Group: A
-
 Date: 7/15/2006
 
-Dolphins        3-0 Pillars
+; Dolphins       ; 3-0; Pillars
 
 Date: 7/16/2006
 
-Rangers         0-0 Insurance
-Bayelsa             0-0 Kwara
-El-Kanemi           1-0 Julius Berger
+; Rangers        ; 0-0; Insurance
+; Bayelsa            ; 0-0; Kwara
+;; El-Kanemi;           1-0 Julius Berger
 
 Date: 8/6/2006
 
-Ranchers Bees   1-2 Wikki
+; Ranchers Bees  ; 1-2; Wikki
 Group: B
 
 Date: 7/16/2006
 
-Shooting        1-0 Ocean Boys
-Gombe United    2-0 Tornadoes
-Nasarawa        2-1 Sharks
+; Shooting       ; 1-0; Ocean Boys
+; Gombe United   ; 2-0; Tornadoes
+; Nasarawa       ; 2-1; Sharks
 
 Date: 7/20/2006
 
-Enyimba         4-1 Lobi
-Heartland       1-0 Kaduna
+; Enyimba        ; 4-1; Lobi
+; Heartland      ; 1-0; Kaduna
 
 Round: 15
 Group: A
-
 Date: 7/22/2006
 
-Insurance       2-1 El-Kanemi
-Kwara               1-0 Wikki
-Julius Berger       2-0 Dolphins
-Pillars                 1-0 Bayelsa
+; Insurance      ; 2-1; El-Kanemi
+; Kwara              ; 1-0; Wikki
+; Julius Berger      ; 2-0; Dolphins
+; Pillars                ; 1-0; Bayelsa
 
 Date: 7/23/2006
 
-Rangers         1-1 Ranchers Bees
+; Rangers        ; 1-1; Ranchers Bees
 Group: B
 
 Date: 7/22/2006
 
-Shooting        1-0 Gombe
+; Shooting       ; 1-0; Gombe
 
 Date: 7/23/2006
 
-Kaduna          2-0 Nasarawa
-Lobi                3-0 Tornadoes
-Sharks                  2-1 Enyimba
+; Kaduna         ; 2-0; Nasarawa
+; Lobi               ; 3-0; Tornadoes
+; Sharks                 ; 2-1; Enyimba
 
 Date: 7/24/2006
 
-Ocean Boys      1-0 Heartland
+; Ocean Boys     ; 1-0; Heartland
 
 Round: 16
 Group: A
-
 Date: 7/29/2006
 
-Wikki           1-0 Pillars
-Dolphins        1-0 Insurance
+; Wikki          ; 1-0; Pillars
+; Dolphins       ; 1-0; Insurance
 
 Date: 7/30/2006
 
-Bayelsa         2-0 Julius Berger
-Ranchers Bees   0-1 Kwara
-El-Kanemi       3-0 Rangers
+; Bayelsa        ; 2-0; Julius Berger
+; Ranchers Bees  ; 0-1; Kwara
+;; El-Kanemi;       3-0 Rangers
 Group: B
 
 Date: 7/30/2006
 
-Nasarawa        1-0 Ocean Boys
-Tornadoes       2-1 Sharks
+; Nasarawa       ; 1-0; Ocean Boys
+; Tornadoes      ; 2-1; Sharks
 
 Date: 7/31/2006
 
-Gombe           3-1 Lobi
+; Gombe          ; 3-1; Lobi
 
 Date: 8/2/2006
 
-Heartland       1-0 Shooting
-Enyimba             4-1 Kaduna
+; Heartland      ; 1-0; Shooting
+; Enyimba            ; 4-1; Kaduna
 
 Round: 17
 Group: A 
 Date: 8/9/2006
 
-El-Kanemi    1-0 Ranchers Bees
-Julius Berger    2-0 Wikki
-Pillars              2-0 Kwara
-Insurance            0-0 Bayelsa
-Rangers                  2-0 Dolphins
+;; El-Kanemi;    1-0 Ranchers Bees
+; Julius Berger   ; 2-0; Wikki
+; Pillars             ; 2-0; Kwara
+; Insurance           ; 0-0; Bayelsa
+; Rangers                 ; 2-0; Dolphins
+
 Group: B 
 Date: 8/8/2006
 
-Kaduna       0-0 Tornadoes
-Shooting     1-0 Nasarawa
-Heartland    1-0 Gombe
-Sharks           2-1 Lobi
-Ocean Boys       2-1 Enyimba
+; Kaduna      ; 0-0; Tornadoes
+; Shooting    ; 1-0; Nasarawa
+; Heartland   ; 1-0; Gombe
+; Sharks          ; 2-1; Lobi
+; Ocean Boys      ; 2-1; Enyimba
 
 Round: 18
 Group: A 
 Date: 8/13/2006
 
-Kwara   2-0 Julius Berger
-Ranchers Bees      n/p Pillars          [0-3 awarded; Ranchers Bees dns]
-Wikki              3-0 Insurance
-Dolphins           5-0 El-Kanemi
-Bayelsa                2-0 Rangers
+; Kwara  ; 2-0; Julius Berger
+*Ranchers Bees      n/p Pillars          [0-3 awarded; Ranchers Bees dns]
+; Wikki             ; 3-0; Insurance
+; Dolphins          ; 5-0; El-Kanemi
+; Bayelsa               ; 2-0; Rangers
 Group: B
 
 Date: 8/17/2006
 
-Enyimba         1-0 Shooting
-Nasarawa        2-1 Heartland
-Tornadoes       1-0 Ocean Boys
-Lobi                4-0 Kaduna
-Gombe                   n/p Sharks              [3-0 awarded; Sharks dns; later revoked]
+; Enyimba        ; 1-0; Shooting
+; Nasarawa       ; 2-1; Heartland
+; Tornadoes      ; 1-0; Ocean Boys
+; Lobi               ; 4-0; Kaduna
+*; Gombe                   n/p Sharks             ; [3-0; awarded; Sharks dns; later revoked]
 
 Date: 8/27/2006
 
-Gombe           2-0 Sharks
+; Gombe          ; 2-0; Sharks
 
 *Group: A
 * 1. Kwara United FC (Ilorin)           18 10  4  4 20-14 34 Qualified
@@ -528,7 +519,6 @@ Gombe           2-0 Sharks
 * 9. Shooting Stars FC (Ibadan)         18  7  3  8 16-18 24 Relegated
 *10. Sharks FC (Port Harcourt)                 18  7  1 10 18-23 22 Relegated
 *[*] Iwuanyanwu Nationale FC changed name to Heartland FC.
-
 
 
 Stage: Super League

@@ -49,13 +49,13 @@ Round: 1
 Date: 12/2/2007
 
 ; Liberty       ; 4-0; King Faisal
-  Yaw Antwi 6, Samuel Ayew Yeboah 31, 74, Kojo Asamoah 82
+  Yaw Antwi 6, Samuel Ayew Yeboah 31, Samuel Ayew Yeboah 74, Kojo Asamoah 82;
 
 ; Kessben       ; 2-0; Hasaacas
-  Daniel Addo 49pen, James Boadu 67
+  Daniel Addo (pk) 49, James Boadu 67;
 
 ; Tema Youth    ; 2-0; AshGold
-  Ekow Benson 36, Edward Affum 85
+  Ekow Benson 36, Edward Affum 85;
 
 ; Hearts of Oak ; 0-0; Olympics
 ; Heart of Lions; 2-0; Real Sportive
@@ -65,43 +65,44 @@ Date: 12/2/2007
   Peter Yakubu 14, Alhassan Weah 47; Amoako Agyeman 90
 
 ; Asante Kotoko ; 3-0; All Blacks
-  Nii Adjei, Eric Bekoe, Harisson Afful
+  Nii Adjei, Eric Bekoe, Harisson Afful;
 
 Round: 2
 Date: 12/8/2007
 
 ; Real Sportive ; 2-0; Arsenals
-   Solomon Adjei 53, Hamza Abdulai 73
+   Solomon Adjei 53, Hamza Abdulai 73;
 
 Date: 12/9/2007
 
 ; Olympics      ; 0-1; Heart of Lions
 
 ; AshGold       ; 1-0; Hearts of Oak
-  Mubarak Wakaso 59
+  Mubarak Wakaso 59;
 
 ; Hasaacas      ; 1-1; Tema Youth
   Awudu Musah 50; Edward Afum 73
 
 ; All Blacks    ; 1-0; Liberty
-  Richard Kissi 2og
+  Richard Kissi (og) 2;
 
 ; King Faisal   ; 0-1; Kessben 
 
 ; Zaytuna       ; 0-3; Asante Kotoko
-  Eric Bekoe 28, 38pen, Kojo Poku 87
+; Eric Bekoe 28, Eric Bekoe (pk) 38, Kojo Poku 87
 
 ; All Stars     ; 1-0; RTU
-  Edusei Poku 55
+  Edusei Poku 55;
 
 Round: 3 
 Date: 12/12/2007
 
 ; Arsenals      ; 2-1; Olympics
+
 ; Heart of Lions; 1-0; AshGold
 
 ; Hearts of Oak ; 2-0; Hasaacas 
-  Francis Bossman 21, Eric Gawu 82
+  Francis Bossman 21, Eric Gawu 82;
 
 ; Kessben       ; 1-2; Liberty 
   Baba Iddi 85; Yaw Antwi 58, Kojo Asamoah 89
@@ -109,13 +110,12 @@ Date: 12/12/2007
 ; Asante Kotoko ; 1-0; All Stars
 
 ; RTU           ; 1-0; Real Sportive
-  Alhassan Weah 19
+  Alhassan Weah 19;
 
 ; Tema Youth    ; 0-0; King Faisal 
 
 ; Zaytuna       ; 3-2; All Blacks
-   Nicholas Coffie 29, 46, Eric Amoako Agyemang 39; Obed Owusu 65,
-   Ishmael Antwi 75
+   Nicholas Coffie 29, Nicholas Coffie 46, Eric Amoako Agyemang 39; Obed Owusu 65, Ishmael Antwi 75
 
 Round: 4 
 Date: 12/15/2007
@@ -157,7 +157,9 @@ Date: 12/23/2007
 ; King Faisal   ; 2-0; Arsenals
 ; Liberty       ; 0-0; Heart of Lions 
 ; Olympics      ; 0-0; Zaytuna 
-*Hasaacas       awd RTU                    [awarded 3-0]
+
+; Hasaacas      ; 3-0; RTU
+Forefit
 *  [Hasaacas showed in deep green jerseys, RTU in light green; the
 *   referee considered this a colour clash and awarded the match to
 *   Hasaacas after 35 minutes; however, RTU claim to have shown in 
