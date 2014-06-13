@@ -45,7 +45,7 @@ Date: 9/18/2012
 ; JS Kabylie           ; 3-0; WA Tlemcen
 ; MC Alger             ; 1-0; JS Saoura
 ; MC El Eulma          ; 3-2; USM Algér
-; USM; Bel-Abbès;         0-1 JSM Béjaïa
+; USM Bel-Abbès;         0-1; JSM Béjaïa
 
 Round: 3 
 Date: 9/22/2012
@@ -85,7 +85,7 @@ Date: 10/6/2012
 ; JS Saoura            ; 1-0; ES Sétif
 ; MC Oran              ; 1-1; CR Bélouizdad
 ; USM Algér            ; 0-1; CA Bordj Bou Arréridj
-; USM; Bel-Abbès;         0-2 CS Constantine
+; USM Bel-Abbès;         0-2; CS Constantine
 ; USM El Harrach       ; 2-0; CA Batna
 ; WA Tlemcen           ; 1-0; MC El Eulma
 
@@ -109,7 +109,7 @@ Date: 10/20/2012
 ; JS Saoura            ; 0-0; CS Constantine
 ; JSM Béjaïa           ; 1-1; MC El Eulma
 ; MC Oran              ; 0-2; ES Sétif
-; USM; Bel-Abbès;         1-0 CA Batna
+; USM Bel-Abbès;         1-0; CA Batna
 ; WA Tlemcen           ; 1-2; USM El Harrach
 
 Date: 10/30/2012
@@ -141,7 +141,7 @@ Date: 11/3/2012
 ; JSM Béjaïa           ; 1-0; CA Bordj Bou Arréridj
 ; MC Oran              ; 2-2; MC Alger
 ; USM Algér            ; 4-0; WA Tlemcen
-; USM; Bel-Abbès;         0-2 ES Sétif
+; USM Bel-Abbès;         0-2; ES Sétif
 
 Round: 10
 Date: 11/9/2012
@@ -171,7 +171,7 @@ Date: 11/17/2012
 ; JS Saoura            ; 0-1; USM Algér
 ; JSM Béjaïa           ; 2-0; USM El Harrach
 ; MC Alger             ; 0-0; MC El Eulma
-; USM; Bel-Abbès;         1-0 JS Kabylie
+; USM Bel-Abbès;         1-0; JS Kabylie
 
 Round: 12
 Date: 11/23/2012
@@ -201,7 +201,7 @@ Date: 12/1/2012
 ; JSM Béjaïa           ; 2-0; USM Algér
 ; MC Alger             ; 1-1; CA Bordj Bou Arréridj
 ; MC Oran              ; 1-0; JS Saoura
-; USM; Bel-Abbès;         0-1 WA Tlemcen
+; USM Bel-Abbès;         0-1; WA Tlemcen
 
 Round: 14
 Date: 12/7/2012
@@ -234,12 +234,12 @@ Date: 12/22/2012
 ; JS Kabylie           ; 1-0; CA Batna
 ; JSM Béjaïa           ; 1-1; ASO Chlef
 ; MC Oran              ; 2-0; WA Tlemcen
-; USM; Bel-Abbès;         0-0 JS Saoura
+; USM Bel-Abbès;         0-0; JS Saoura
 
 Round: 16 
 Date: 1/15/2013
 
-; USM; Bel-Abbès;       0-1 ASO Chlef
+; USM Bel-Abbès;       0-1; ASO Chlef
 ; CA Bordj Bou Arréridj; 0-0; CA Batna
 ; CR Bélouizdad              ; 2-1; JS Saoura
 ; ES Sétif                         ; 3-1; MC El Eulma
@@ -271,7 +271,7 @@ Date: 1/26/2013
 ; CS Constantine       ; 1-0; ASO Chlef
 ; JS Kabylie                 ; 2-0; JS Saoura
 ; CR Bélouizdad                    ; 4-1; JSM Béjaïa
-; USM; Bel-Abbès;                           1-0 MC Oran
+; USM Bel-Abbès;                           1-0; MC Oran
 ; CA Bordj Bou Arréridj; 2-1; WA Tlemcen
 
 Date: 2/19/2013
@@ -285,7 +285,7 @@ Date: 2/1/2013
 
 Date: 2/2/2013
 
-; USM; Bel-Abbès;         0-0 CR Bélouizdad
+; USM Bel-Abbès;         0-0; CR Bélouizdad
 ; USM Algér                  ; 2-0; CA Batna
 ; JS Saoura                        ; 2-0; CA Bordj Bou Arréridj
 ; JSM Béjaïa                             ; 0-0; CS Constantine
@@ -317,7 +317,7 @@ Date: 2/16/2013
 ; WA Tlemcen           ; 0-1; CA Batna
 ; MC Oran                            ; 0-0; CA Bordj Bou Arréridj
 ; CR Bélouizdad                            ; 1-1; CS Constantine
-; USM; Bel-Abbès;                                   2-1 MC Alger
+; USM Bel-Abbès;                                   2-1; MC Alger
 ; JS Saoura                                            ; 1-1; MC El Eulma
 ; ASO Chlef                                                  ; 3-0; USM El Harrach
 
@@ -349,7 +349,7 @@ Date: 3/8/2013
 Date: 3/9/2013
 
 ; JS Saoura            ; 2-0; CA Batna
-; USM; Bel-Abbès;               1-1 CA Bordj Bou Arréridj
+; USM Bel-Abbès;               1-1; CA Bordj Bou Arréridj
 ; CR Bélouizdad                    ; 1-1; JS Kabylie
 ; CS Constantine                         ; 0-0; MC Alger
 ; MC Oran                                          ; 4-1; MC El Eulma
@@ -380,7 +380,7 @@ Date: 4/6/2013
 ; JS Saoura            ; 2-0; WA Tlemcen
 ; CS Constantine             ; 1-0; CA Bordj Bou Arréridj
 ; MC Alger                         ; 3-1; JS Kabylie
-; USM; Bel-Abbès;                           0-1 MC El Eulma
+; USM Bel-Abbès;                           0-1; MC El Eulma
 ; MC Oran                                          ; 1-0; USM El Harrach
 
 Date: 4/16/2013
@@ -414,7 +414,7 @@ Date: 5/4/2013
 ; JS Kabylie                 ; 2-0; CA Bordj Bou Arréridj 
 ; ASO Chlef                        ; 2-0; JS Saoura
 ; CS Constantine                         ; 3-0; MC El Eulma
-; USM; Bel-Abbès;                                 1-2 USM El Harrach
+; USM Bel-Abbès;                                 1-2; USM El Harrach
 
 Date: 5/7/2013
 
@@ -443,7 +443,7 @@ Date: 5/14/2013
 Date: 5/18/2013
 
 ; MC Oran              ; 2-2; ASO Chlef           
-; USM; Bel-Abbès;               0-1 USM Algér           
+; USM Bel-Abbès;               0-1; USM Algér           
 ; CR Bélouizdad                    ; 1-0; WA Tlemcen          
 ; CS Constantine                         ; 0-0; USM El Harrach            
 ; MC Alger                                     ; 1-0; CA Batna                  

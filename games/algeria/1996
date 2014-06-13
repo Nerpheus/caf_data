@@ -38,10 +38,10 @@ Round: 2
 ; WO Boufarik                ; 1-1; USM Alger
 ; US Chaouia                     ; 0-0; JS Kabylie
 ; MC Oran                            ; 2-1; WA Mostaganem
-; USM; El-Harrach;                      1-0 CA Batna
+; USM El-Harrach;                      1-0; CA Batna
 ; MC Alger                               ; 1-0; WA Tlemcen
 ; MO Constantine                         ; 4-0; AS Ain m'lila
-; NA; Hussein-Dey;                          0-1 CR Belouizdad
+; NA Hussein-Dey;                          0-1; CR Belouizdad
 
 Round: 3
 
@@ -52,7 +52,7 @@ Round: 3
 ; CA Batna                           ; 3-0; MC Alger
 ; WA Tlemcen                             ; 1-1; MO Constantine
 ; AS Ain m'lila                              ; 2-1; CR Belouizdad
-; NA; Hussein-Dey;                              2-0 USM Ain Beida
+; NA Hussein-Dey;                              2-0; USM Ain Beida
 
 Round: 4
 
@@ -63,7 +63,7 @@ Round: 4
 ; AS Ain m'lila                          ; 1-2; NA Hussein-Dey
 ; MO Constantine                         ; 0-0; CA Batna
 ; CR Belouizdad                          ; 0-1; WA Tlemcen   
-; USM; El-Harrach;                          1-1 JS Kabylie
+; USM El-Harrach;                          1-1; JS Kabylie
 
 Round: 5
 
@@ -103,7 +103,7 @@ Round: 8
 ; MO Constantine         ; 1-2; CS Constantine
 ; CR Belcourt                ; 0-1; USM Alger
 ; CA Batna                       ; 1-0; NA Hussein-Dey
-; USM; El-Harrach;                  2-1 WO Boufarik
+; USM El-Harrach;                  2-1; WO Boufarik
 ; AS Ain m'lila                      ; 1-0; JS Kabylie
 ; MC Oran                                ; 5-1; US Chaouia
 ; MC Alger                                   ; 1-0; USM Ain Beida
@@ -119,7 +119,8 @@ Date: 11/20/1996
 ; NA Hussein Dey                 ; 3-4; MC Oran
 ; USM Ain Beida                      ; 2-0; MO Constantine
 ; WO Boufarik                            ; 2-1; MC Alger
-; US Chaouia                                 ; 2-0; USM El Harrach [1-0?]
+; US Chaouia                                 ; 2-0; USM El Harrach 
+*[1-0?]
 
 Round: 10
 Date: 
@@ -132,7 +133,7 @@ Date:
 ; MC Alger                           ; 6-1; US Chaouia  
 ; CA Batna                               ; 2-1; JS Kabylie 
 ; WA Mostaganem                          ; 3-2; NA Hussein-Dey
-; USM; El-Harrach;                          1-0 MC Oran        
+; USM El-Harrach;                          1-0; MC Oran        
 
 Round: 11 
 *[Dec 2?]
@@ -237,7 +238,7 @@ Round: 19
 ; USM Alger                  ; 2-1; MC Oran
 ; USM Ain Beida                  ; 0-0; WO Boufarik
 ; CS Constantine                 ; 3-0; US Chaouia
-; NA; Hussein-Dey;                  3-3 AS Ain m'lila
+; NA Hussein-Dey;                  3-3; AS Ain m'lila
 ; CA Batna                           ; 2-0; MO Constantine
 ; WA Tlemcen                             ; 0-0; CR Belouizdad
 ; JS Kabylie                                 ; 1-0; USM El Harrach
@@ -260,7 +261,7 @@ Date:
 ; USM Alger              ; 3-1;  MC Alger 
 ; JS Kabylie                  ; 1-1;  MO Constantine
 ; WA Mostaganem               ; 1-1;  CR Belouizdad
-; NA; Hussein-Dey;               0-2  WA Tlemcen
+; NA Hussein-Dey;               0-2;  WA Tlemcen
 ; USM Ain Beida                    ; 1-0;  MC Oran
 ; WO Boufarik                           ; 3-1;  US Chaouia
 ; CA Batna                                   ; 2-1;  AS Ain m'lila
@@ -283,7 +284,7 @@ Date:
 
 ; CS Constantine         ; 0-0; MO Constantine
 ; USM Alger                  ; 1-1; CR Belouizdad
-; NA; Hussein-Dey;              2-2 CA Batna
+; NA Hussein-Dey;              2-2; CA Batna
 ; WO Boufarik                    ; 0-1; USM El Harrach
 ; JS Kabylie                         ; 2-0; AS Ain m'lila
 ; US Chaouia                             ; 1-0; MC Oran
@@ -310,7 +311,7 @@ Date: 4/24/1997
 ; USM Alger                      ; 2-1; WA Tlemcen
 ; US Chaouia                         ; 1-0; MC Alger 
 ; JS Kabylie                             ; 2-0; CA Batna 
-; NA; Hussein-Dey;                          5-1 WA Mostaganem
+; NA Hussein-Dey;                          5-1; WA Mostaganem
 ; MC Oran                                    ; 2-1; USM El Harrach 
 
 Round: 26 
@@ -319,9 +320,10 @@ Date: 5/1/1997
 ; CR Belouizdad          ; 0-0; WO Boufarik
 ; WA Tlemcen                 ; 1-1; CS Constantine
 ; WA Mostaganem              ; 6-0; JS Kabylie
-; USM; El-Harrach;              1-1 NA Hussein-Dey
+; USM El-Harrach;              1-1; NA Hussein-Dey
 ; MO Constantine             ; 1-1; US Chaouia
-; CA Batna                       ; 1-0; USM Alger  [played later]
+; CA Batna                       ; 1-0; USM Alger  
+*[played later]
 ; MC Alger                           ; 0-1; MC Oran
 ; AS Ain m'lila                      ; 2-1; USM Ain Beida
 
@@ -329,7 +331,7 @@ Round: 27
 Date: 
 ; CS Constantine         ; 2-0; CA Batna
 ; USM Alger                  ; 2-1; WA Mostaganem
-; NA; Hussein-Dey;                  3-1 JS Kabylie
+; NA Hussein-Dey;                  3-1; JS Kabylie
 ; USM Ain Beida                      ; 2-1; WA Tlemcen
 ; WO Boufarik                            ; 1-0; AS Ain m'lila
 ; US Chaouia                                 ; 2-1; CR Belouizdad
@@ -357,7 +359,7 @@ Round: 29
 ; MC Alger                       ; 1-2; MO Constantine
 ; WO Boufarik                        ; 3-1; CA Batna
 ; US Chaouia                             ; 3-2; WA Tlemcen
-; NA; Hussein-Dey;                          1-2 USM Alger
+; NA Hussein-Dey;                          1-2; USM Alger
 
 Round: 30
 

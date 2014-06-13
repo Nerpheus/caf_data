@@ -31,7 +31,7 @@ Round: 1
 ; ASO Chlef                          ; 1-2; WA Tlemcen
 ; MC Alger                               ; 1-0; MC Oran
 ; JS Bordj Menaiel                       ; 0-0; US Chaouia
-; NA; Hussein-Dey;                              1-1 USM Blida
+; NA Hussein-Dey;                              1-1; USM Blida
 ; USM El Harrach                                 ; 2-0; CA Batna
 
 Round: 2
@@ -53,7 +53,7 @@ Round: 3
 ; ASO Chlef                          ; 1-0; US Chaouia
 ; MC Alger                               ; 3-3; USM Blida
 ; JS Bordj Menaiel                       ; 0-0; CA Batna
-; NA; Hussein-Dey;                              1-1 USM El Harrach 
+; NA Hussein-Dey;                              1-1; USM El Harrach 
 ; JS Kabylie                                     ; 1-0; AS Ain M'lila
 
 Round: 4
@@ -84,7 +84,7 @@ Round: 6
 ; USM Blida                  ; 1-1; WA Boufarik
 ; CA Batna                       ; 1-0; CS Constantine
 ; USM El Harrach                     ; 1-0; ASO Chlef
-; NA; Hussein-Dey;                          1-1 MC Alger
+; NA Hussein-Dey;                          1-1; MC Alger
 ; AS Ain M'lila                              ; 1-0; JS Bordj Menaiel
 ; MC Oran                                           ; 2-0; JS Kabylie
 ; WA Tlemcen                                            ; 3-1; CR Belcourt
@@ -104,7 +104,7 @@ Round: 8
 
 ; CA Batna               ; 2-0; GC Mascara
 ; USM El Harrach             ; 1-1; WA Boufarik
-*; NA; Hussein-Dey;                  awd CS Constantine  [awarded 3-0 because of ineligible player CSC, originally 0-1]
+*; NA Hussein-Dey;                  awd CS Constantine  [awarded 3-0; because of ineligible player CSC, originally 0-1]
 ; JS Bordj Menaiel               ; 2-0; ASO Chlef
 ; AS Ain M'lila                      ; 2-0; MC Alger
 ; USM Blida                              ; 0-0; JS Kabylie
@@ -124,7 +124,7 @@ Round: 9
 
 Round: 10
 
-; NA; Hussein-Dey;          0-0 GC Mascara
+; NA Hussein-Dey;          0-0; GC Mascara
 ; JS Bordj Menaiel       ; 0-1; WA Boufarik
 ; MC Alger               ; 1-1; CS Constantine
 ; AS Ain M'lila              ; 0-0; ASO Chlef
@@ -150,7 +150,7 @@ Round: 12
 ; ASO Chlef                  ; 2-2; WA Boufarik
 ; CS Constantine                 ; 1-0; AS Ain M'lila
 ; JS Bordj Menaiel               ; 1-0; JS Kabylie
-; NA; Hussein-Dey;                      1-2 CR Belcourt
+; NA Hussein-Dey;                      1-2; CR Belcourt
 ; USM El Harrach                         ; 1-1; WA Tlemcen
 ; CA Batna                                   ; 0-3; MC Oran
 ; USM Blida                                      ; 1-1; US Chaouia
@@ -173,7 +173,7 @@ Round: 14
 ; ASO Chlef                      ; 2-2; JS Kabylie
 ; MC Alger                           ; 2-1; CR Belcourt
 ; JS Bordj Menaiel                   ; 1-0; WA Tlemcen
-; NA; Hussein-Dey;                          3-2 MC Oran
+; NA Hussein-Dey;                          3-2; MC Oran
 ; USM El Harrach                             ; 1-0; US Chaouia
 ; CA Batna                                       ; 1-0; USM Blida
 
@@ -207,7 +207,7 @@ Round: 17
 ; ASO Chlef                          ; 2-2; MC Oran
 ; MC Alager                              ; 0-0; US Chaouia
 ; JS Bordj Menaiel                       ; 3-1; USM Blida
-; NA; Hussein-Dey;                              2-1 CA Batna
+; NA Hussein-Dey;                              2-1; CA Batna
 ; USM El Harrach                                 ; 2-1; AS Ain M'lila
 
 Round: 18
@@ -229,7 +229,7 @@ Round: 19
 ; ASO Chlef                          ; 2-3; USM Blida
 ; MC Alger                               ; 0-0; CA Batna
 ; JS Bordj Menaiel                       ; 0-0; USM El Harrach
-; NA; Hussein-Dey;                              0-1 AS Ain M'lila
+; NA Hussein-Dey;                              0-1; AS Ain M'lila
 ; JS Kabylie                                     ; 2-0; CR Belcourt
 
 Round: 20
@@ -239,7 +239,7 @@ Round: 20
 ; USM Blida                      ; 0-0; CS Constantine
 ; CA Batna                           ; 2-0; ASO Chlef       
 ; USM El Harrach                         ; 0-0; MC Alger    
-; NA; Hussein-Dey;                              2-1 JS Bordj Menaiel
+; NA Hussein-Dey;                              2-1; JS Bordj Menaiel
 ; WA Tlemcen                                     ; 3-0; JS Kabylie          
 ; AS Ain M'lila                                      ; 2-0; CR Belcourt             
 
@@ -259,7 +259,7 @@ Round: 22
 ; USM Blida              ; 2-1; GC Mascara
 ; CA Batna                   ; 2-0; WA Boufarik
 ; USM El Harrach                 ; 1-0; CS Constantine
-; NA; Hussein-Dey;                      0-1 ASO Chlef       
+; NA Hussein-Dey;                      0-1; ASO Chlef       
 ; JS Bordj Menaiel                   ; 0-0; MC Alger
 ; US Chaouia                              awd JS Kabylie     [awarded; 3-0; US Chaouia - JSK refused played match for insecurity in the stadium ]
 ; MC Oran                                       ; 3-0; CR Belcourt                     
@@ -279,7 +279,7 @@ Round: 23
 Round: 24
 
 ; USM El Harrach         ; 2-1; GC Mascara
-; NA; Hussein-Dey;              1-0 WA Boufarik
+; NA Hussein-Dey;              1-0; WA Boufarik
 ; JS Bordj Menaeil           ; 1-0; CS Constantine
 ; MC Alger                   ; 1-1; ASO Chlef       
 ; CA Batna                       ; 1-1; JS Kabylie  
@@ -303,7 +303,7 @@ Round: 26
 ; JS Bordj Menaeil       ; 0-0; GC Mascara
 ; MC Alger               ; 1-1; WA Boufarik
 ; CS Constantine             ; 1-0; ASO Chlef
-; NA; Hussein-Dey;                  0-1 JS Kabylie  
+; NA Hussein-Dey;                  0-1; JS Kabylie  
 ; USM El Harrach                     ; 1-0; CR Belcourt     
 ; CA Batna                               ; 0-0; WA Tlemcen  
 ; USM Blida                                  ; 3-1; MC Oran 
@@ -326,7 +326,7 @@ Round: 28
 ; CS Constantine             ; 2-0; WA Boufarik             
 ; MC Alger                       ; 4-4; JS Kabylie                  
 ; JS Bordj Menaiel               ; 1-0; CR Belcourt                         
-; NA; Hussein-Dey;                      2-0 WA Tlemcen                              
+; NA Hussein-Dey;                      2-0; WA Tlemcen                              
 ; USM El Harrach                         ; 2-0; MC Oran                                     
 ; CA Batna                                   ; 1-0; US Chaouia                                      
 ; USM Blida                                      ; 1-1; AS Ain M'lila                                       
@@ -349,7 +349,7 @@ Round: 30
 ; ASO Chlef                      ; 2-3; CR Belcourt 
 ; MC Alger                           ; 1-0; WA Tlemcen      
 ; JS Bordj Menaiel                   ; 1-1; MC Oran         
-; NA; Hussein-Dey;                          0-1 US Chaouia  
+; NA Hussein-Dey;                          0-1; US Chaouia  
 ; USM El Harrach                             ; 1-2; USM Blida       
 ; CA Batna                                       ; 1-0; AS Ain M'lila
 

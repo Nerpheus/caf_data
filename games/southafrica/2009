@@ -246,7 +246,7 @@ Date: 9/27/2009
   Clifford Mulenga 20, Clifford Mulenga 61;
               
 Round: 9
-Date 10/2/2009
+Date: 10/2/2009
 
 ; Santos                   ; 1-0; Mpumalanga Black Aces  
   Erwin Isaacs 56;
@@ -254,7 +254,7 @@ Date 10/2/2009
 ; Maritzburg United        ; 1-5; Mamelodi Sundowns   
   Noah Chivuta (pk) 24; Katlego Mphela 46, Katlego Mphela 70, Elias Pelembe 50, Mabhuti Khenyeza 89, Lebohang Mokoena 90+1
             
-Date 10/3/2009
+Date: 10/3/2009
 
 ; Platinum Stars           ; 1-2; Bloemfontein Celtic   
   Tshepo Ramokala 42; Prine Olomu 49, Thabo Nthethe 71
@@ -267,7 +267,7 @@ Date 10/3/2009
 ; SuperSport United        ; 1-1; Lamontville Golden Arrows 
   Bongani Khumalo 59; Nhlanhla Zothwane 54
       
-Date 10/4/2009
+Date: 10/4/2009
 
 ; Bidvest Wits University  ; 3-1; Jomo Cosmos           
   Fabricio Rodriguez (pk) 25, Calvin Kadi 77, Marawaan Bantam 86; Koena Mathopa 79
@@ -276,7 +276,7 @@ Date 10/4/2009
 ; Kaizer Motaung Jnr 28, Thabang Rooi 41, Nkosinathi Nhleko 84
            
 Round: 10
-Date 10/17/2009
+Date: 10/17/2009
 
 ; Lamontville Golden Arrows; 3-3; Bidvest Wits University 
   Richard Henyekane 11, Njabulo Manqana 30, Nhlanhla Zothwane 56; Justin Miller 32, Mark Haskins 62, Sifiso Myeni 75
@@ -296,7 +296,7 @@ Date 10/17/2009
 ; Jomo Cosmos              ; 1-1; AmaZulu              
   Sekou Camara 68; Ntokozo Sikhakhane 36
      
-Date 10/18/2009
+Date: 10/18/2009
 
 ; Moroka Swallows          ; 2-0; Maritzburg United    
   Sibusiso Khumalo 78, David Radebe 89;
@@ -313,7 +313,7 @@ Date: 9/30/2009
 ; Platinum Stars           ; 0-1; Ajax Cape Town            
 ; Diphetogo Selolwane 75
 
-Date 10/21/2009
+Date: 10/21/2009
 
 ; Bloemfontein Celtic      ; 0-2; Mamelodi Sundowns    
 ;  Mabhuti Khenyeza 13, Felix Katongo 84
@@ -334,12 +334,12 @@ Date 10/21/2009
 ;  Clifford Mulenga 78
           
 Round: 12
-Date 10/27/2009
+Date: 10/27/2009
 
 ; SuperSport United        ; 2-2; Santos    
   Thandani "Bibo" Ntshumayelo 21, Morgan Gould 69; Graham King 17, Phikolethu Spelman 90+2
                 
-Date 10/28/2009
+Date: 10/28/2009
 
 ; Ajax Cape Town           ; 2-0; Moroka Swallows  
   Diphetogo Selolwane (pk) 58, Gordon Gilbert (og) 90+1;
@@ -363,7 +363,7 @@ Date 10/28/2009
   Calvin Kadi 42; Siyabonga Mdluli 27
                 
 Round: 13
-Date 10/31/2009
+Date: 10/31/2009
 
 ; Kaizer Chiefs            ; 0-0; Orlando Pirates    
 
@@ -541,14 +541,14 @@ Date: 12/2/2009
 ; Lamontville Golden Arrows; 2-1; Mpumalanga Black Aces
   Thanduyise Khuboni 57, Njabulo 90+1; Clifford Mulenga (pk) 82
        
-Kaizer Chiefs             abd AmaZulu                   [abandoned at 0-0]  
-Mamelodi Sundowns         abd Santos                    [abandoned at 1-0]   
+*Kaizer Chiefs             abd AmaZulu                   [abandoned at 0-0]  
+*Mamelodi Sundowns         abd Santos                    [abandoned at 1-0]   
 
 ; Jomo Cosmos              ; 1-0; Orlando Pirates   
   Siza Dlamini (pk) 66;
           
 ; Bloemfontein Celtic      ; 3-0; Bidvest Wits University 
-  Mbuyiselo Wellington Sambu 15, Excellent Walaza 17, Cecil Oerson 54
+  Mbuyiselo Wellington Sambu 15, Excellent Walaza 17, Cecil Oerson 54;
     
 ; Maritzburg United        ; 1-3; Platinum Stars   
   Noah Chivuta (pk) 33; Norikazu Murakami 6, Dillon Sheppard 44, Almiro Lobo 78
@@ -588,7 +588,7 @@ Date: 12/5/2009
 Date: 12/6/2009
 
 ; AmaZulu                  ; 2-1; Bloemfontein Celtic 
-  Marc Van Heerden (pk) 45+1, Ayanda Dlamini 80. Prince Olomu 16
+  Marc Van Heerden (pk) 45+1, Ayanda Dlamini 80; Prince Olomu 16
       
 ; Maritzburg United        ; 1-3; Kaizer Chiefs   
   Musa Nyatama 42; Nkosinathi Nhleko 32, Zhaimu Jambo 81, Abia Nale 86
@@ -857,7 +857,7 @@ Date: 2/24/2010
 ;  Dumisani Ngwenya 89
 
 ; Moroka Swallows          ; 1-0; Platinum Stars
-  Siyabonga Nomvethe 37
+  Siyabonga Nomvethe 37;
 
 ; Free State Stars         ; 0-0; Maritzburg United
 
@@ -877,7 +877,7 @@ Date: 3/6/2010
   Katlego Mphela 41, Siyanda Xulu 89, Mabhuti Khenyeza 90;
 
 ; AmaZulu                  ; 3-0; SuperSport United
-  Ayanda Dlamini 58, Ayanda Dlamini (pk) 85, Thamsanqa Sangweni 74
+  Ayanda Dlamini 58, Ayanda Dlamini (pk) 85, Thamsanqa Sangweni 74;
 
 ; Bidvest Wits University  ; 2-0; Platinum Stars
   Marwaan Bantam 65, Thando Mngomeni 82;

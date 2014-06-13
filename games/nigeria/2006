@@ -43,7 +43,7 @@ Date: 4/15/2006
 
 Date: 4/16/2006
 
-;; El-Kanemi;       0-0 Wikki
+; El-Kanemi;       0-0; Wikki
 ; Insurance      ; 2-0; Pillars
 ; Ranchers Bees  ; 1-0; Julius Berger
 ; Rangers        ; 2-2; Kwara
@@ -97,7 +97,7 @@ Group: A
 
 Date: 4/29/2006
 
-;; El-Kanemi;       3-2 Pillars
+; El-Kanemi;       3-2; Pillars
 ; Ranchers Bees  ; 3-0; Insurance
 ; Dolphins; 2-0; Kwara
 
@@ -155,7 +155,7 @@ Group: A
 Date: 5/13/2006
 
 ; Ranchers Bees  ; 1-0; Rangers
-;; El-Kanemi;       2-0 Insurance
+; El-Kanemi;       2-0; Insurance
 ; Wikki              ; 1-0; Kwara
 ; Dolphins           ; 2-0; Julius Berger
 
@@ -232,7 +232,7 @@ Date: 6/3/2006
 ; Julius Berger  ; 0-1; Kwara
 ; Pillars            ; 1-0; Ranchers Bees
 ; Insurance          ; 2-1; Wikki
-;; El-Kanemi;           2-0 Dolphins
+; El-Kanemi;           2-0; Dolphins
 
 Date: 6/4/2006
 
@@ -274,7 +274,7 @@ Date: 6/17/2006
 
 ; Insurance      ; 1-1; Kwara
 ; Julius Berger  ; 1-1; Pillars
-;; El-Kanemi;       2-0 Bayelsa
+; El-Kanemi;       2-0; Bayelsa
 ; Dolphins       ; 2-1; Ranchers Bees
 
 Date: 6/18/2006
@@ -320,7 +320,7 @@ Group: A
 Date: 7/1/2006
 
 ; Insurance      ; 2-0; Julius Berger
-;; El-Kanemi;       2-1 Kwara
+; El-Kanemi;       2-1; Kwara
 ; Ranchers Bees  ; 2-0; Bayelsa
 ; Dolphins; 2-0; Wikki
 
@@ -375,7 +375,7 @@ Date: 7/16/2006
 
 ; Rangers        ; 0-0; Insurance
 ; Bayelsa            ; 0-0; Kwara
-;; El-Kanemi;           1-0 Julius Berger
+; El-Kanemi;           1-0; Julius Berger
 
 Date: 8/6/2006
 
@@ -432,7 +432,7 @@ Date: 7/30/2006
 
 ; Bayelsa        ; 2-0; Julius Berger
 ; Ranchers Bees  ; 0-1; Kwara
-;; El-Kanemi;       3-0 Rangers
+; El-Kanemi;       3-0; Rangers
 Group: B
 
 Date: 7/30/2006
@@ -453,7 +453,7 @@ Round: 17
 Group: A 
 Date: 8/9/2006
 
-;; El-Kanemi;    1-0 Ranchers Bees
+; El-Kanemi;    1-0; Ranchers Bees
 ; Julius Berger   ; 2-0; Wikki
 ; Pillars             ; 2-0; Kwara
 ; Insurance           ; 0-0; Bayelsa

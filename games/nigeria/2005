@@ -54,7 +54,7 @@ Date: 2/23/2005
 Round: 2
 Date: 2/19/2005
 
-;; El-Kanemi;       1-1 Kwara
+; El-Kanemi;       1-1; Kwara
 ; Insurance      ; 2-1; Gabros
 ; Wikki              ; 1-0; Tornadoes
 ; Pillars                ; 2-1; Berger
@@ -91,7 +91,7 @@ Date: 2/27/2005
 Round: 4
 Date: 3/5/2005
 
-;; El-Kanemi;       0-0 Gabros
+; El-Kanemi;       0-0; Gabros
 ; Wikki              ; 2-1; Shooting
 ; Gateway                ; 1-1; Kwara
 ; Sharks                     ; 2-1; Berger
@@ -131,7 +131,7 @@ Date: 2/13/2005
 Round: 6
 Date: 3/19/2005
 
-;; El-Kanemi;       1-0 Tornadoes
+; El-Kanemi;       1-0; Tornadoes
 ; Wikki              ; 2-0; Berger
 ; Kwara                  ; 1-0; Gabros
 ; Sharks                     ; 4-0; Nasarawa
@@ -169,7 +169,7 @@ Round: 8
 Date: 4/2/2005
 
 ; Insurance      ; 3-1; Berger
-;; El-Kanemi;       1-0 Shooting
+; El-Kanemi;       1-0; Shooting
 ; Kwara              ; 1-1; Tornadoes
 ; Wikki                  ; 2-0; Nasarawa
 ; Gateway                    ; 2-1; Gabros
@@ -206,7 +206,7 @@ Round: 10
 Date: 4/16/2005
 
 ; Insurance      ; 1-0; Nasarawa
-;; El-Kanemi;       3-0 Berger
+; El-Kanemi;       3-0; Berger
 ; Kwara              ; 0-0; Shooting
 ; Gateway                ; 2-2; Gombe
 
@@ -250,7 +250,7 @@ Date: 4/30/2005
 
 ; Insurance      ; 0-3; Enyimba
 ; Kwara              ; 2-1; Berger
-;; El-Kanemi;           2-0 Nasarawa
+; El-Kanemi;           2-0; Nasarawa
 ; Gateway                ; 1-1; Tornadoes
 
 Date: 5/1/2005
@@ -291,7 +291,7 @@ Date: 5/18/2005
 ; Gateway        ; 2-1; Zamfara
 ; Tornadoes      ; 1-1; Shooting
 ; Kwara              ; 2-1; Nasarawa
-;; El-Kanemi;           1-0 Enyimba
+; El-Kanemi;           1-0; Enyimba
 ; Gombe                  ; 1-0; NPA
 ; Nationale              ; 2-0; Wikki
 ; Gabros                     ; 1-0; Berger
@@ -330,7 +330,7 @@ Round: 16
 Date: 5/28/2005
 
 ; Kwara          ; 1-0; Enyimba
-;; El-Kanemi;       1-0 Rangers
+; El-Kanemi;       1-0; Rangers
 ; Tornadoes      ;  abd; Berger      
 Notes: abd at 1-1
 
@@ -371,7 +371,7 @@ Date: 6/11/2005
 ; Shooting       ; 1-2; Berger
 ; Tornadoes      ; 0-0; Nasarawa
 ; Kwara              ; 2-0; Rangers
-;; El-Kanemi;           0-1 Nationale
+; El-Kanemi;           0-1; Nationale
 ; Gateway                ; 2-0; NPA
 
 Date: 6/12/2005
@@ -388,7 +388,7 @@ Date: 6/19/2005
 ; Insurance    ; 2-0; Kwara
 ; Berger           ; 1-0; NPA
 ; Pillars              ; 1-0; Shooting
-;; El-Kanemi;             5-0 Gateway
+; El-Kanemi;             5-0; Gateway
 ; Wikki                    ; 2-0; Gabros
 ; Rangers                      ; 1-0; Dolphin
 ; Nationale                    ; 1-0; Lobi
@@ -453,7 +453,7 @@ Date: 7/23/2005
 
 ; Pillars        ; 4-1; NPA
 ; Gateway            ; 0-1; Berger
-;; El-Kanemi;           3-0 Lobi
+; El-Kanemi;           3-0; Lobi
 ; Wikki                  ; 2-1; Gombe
 ; Insurance              ; np; Dolphin
 Notes: postponed
@@ -510,7 +510,7 @@ Date: 10/6/2005
 
 Date: 10/19/2005
 
-;; El-Kanemi;       1-0 Dolphin
+; El-Kanemi;       1-0; Dolphin
 
 Round: 24
 Date: 8/13/2005
@@ -534,7 +534,7 @@ Date: 8/20/2005
 
 ; Wikki          ; 0-0; NPA
 ; Insurance      ; 2-1; Zamfara
-;; El-Kanemi;       1-0 Gombe
+; El-Kanemi;       1-0; Gombe
 ; Gateway            ; 2-0; Nasarawa
 ; Sharks                 ; 2-2; Pillars
 
@@ -573,7 +573,7 @@ Round: 27
 Date: 9/3/2005
 
 ; Insurance      ; 2-1; NPA
-;; El-Kanemi;       2-2 Zamfara
+; El-Kanemi;       2-2; Zamfara
 
 *Gateway             awd Sharks  
 *[0-2 awarded; abd at 1-1; the match officials were intimidated with a gun; later revoked]
@@ -616,7 +616,7 @@ Date: 10/26/2005
 Round: 29
 Date: 9/17/2005
 
-;; El-Kanemi;       1-0 NPA
+; El-Kanemi;       1-0; NPA
 ; Kwara              ; 3-0; Zamfara
 ; Insurance          ; 3-0; Pillars
 
@@ -654,7 +654,7 @@ Round: 31
 Date: 10/1/2005
 
 ; Kwara          ; 3-1; NPA
-;; El-Kanemi;       1-0 Pillars
+; El-Kanemi;       1-0; Pillars
 
 Date: 10/2/2005
 
@@ -695,7 +695,7 @@ Date: 10/15/2005
 
 ; Insurance      ; 1-0; Wikki
 ; Kwara              ; 1-0; Pillars
-;; El-Kanemi;           1-0 Sharks
+; El-Kanemi;           1-0; Sharks
 ; Tornadoes          ; 3-2; Zamfara
 ; Gateway                ; 4-2; Rangers
 
@@ -735,7 +735,7 @@ Date: 10/31/2005
 Date: 11/2/2005
 
 ; Zamfara        ; 2-0; Shooting
-;; El-Kanemi;       4-1 Wikki
+; El-Kanemi;       4-1; Wikki
 ; Kwara              ; 1-0; Sharks
 ; Gateway                ; 2-0; Insurance
 ; Tornadoes              ; 2-1; NPA
@@ -767,7 +767,7 @@ Date: 11/27/2005
 Round: 37
 Date: 11/13/2005
 
-;; El-Kanemi;       6-2 Insurance
+; El-Kanemi;       6-2; Insurance
 ; Shooting       ; 2-1; NPA
 ; Tornadoes      ; 1-0; Pillars
 ; Kwara              ; 1-0; Wikki

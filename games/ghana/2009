@@ -33,15 +33,15 @@ Date: 10/18/2009
 ; Arsenal         ; 1-1; Aduana Stars
 
 ; AshGold         ; 1-0; Chelsea
-  Albert Asamoah 23pen
+  Albert Asamoah (pk) 23;
 
 ; Eleven Wise     ; 1-1; All Stars
-  Sam Ayew-Yeboah 65; Stephen Aidoo 44og
+  Sam Ayew-Yeboah 65; Stephen Aidoo (og) 44
 
 ; Heart of Lions  ; 2-0; Hearts of Oak
 
 ; King Faisal     ; 1-2; Kessben
-  Ofosu Mickey 75pen; Attakora Gyimah 16, James Boadu 90
+  Ofosu Mickey (pk) 75; Attakora Gyimah 16, James Boadu 90
 
 ; Olympics        ; 1-1; Kotoko
   James Abban 74; Ofosu Appiah 43
@@ -51,7 +51,7 @@ Date: 10/18/2009
 Date: 10/28/2009
 
 ; Liberty         ; 1-0; New Edubiase
-  Richard Kissi 80
+  Richard Kissi 80;
 
 Round: 2 
 Date: 10/21/2009
@@ -61,20 +61,19 @@ Date: 10/21/2009
 ; Chelsea         ; 2-0; Arsenal
 
 ; Hasaacas        ; 3-2; Heart of Lions
-  Joseph Bissah 5, 77 Charles Nartey 21;
-   Mohammed Tanko 56, Daniel Acquaye 89
+  Joseph Bissah 5, Joseph Bissah 77 Charles Nartey 21;Mohammed Tanko 56, Daniel Acquaye 89
 
 ; Hearts of Oak   ; 0-2; King Faisal
-  Frank Acheampong 54, Prince Arkoh 69
+;  Frank Acheampong 54, Prince Arkoh 69
 
 ; Kessben         ; 2-0; Olympics
-  Richard Mpong (2)
+  Richard Mpong, Richard Mpong;
 
 ; Kotoko          ; 2-1; Eleven Wise
   Yayaha Ganni 3, Kabiru Imoro 48;  Nurudeen Yusif 45
 
 ; New Edubiase    ; 1-0; RTU
-  Aron Amoah 86
+  Aron Amoah 86;
 
 Round: 3 
 Date: 10/25/2009
@@ -90,12 +89,12 @@ Date: 10/25/2009
 ; Heart of Lions  ; 2-1; New Edubiase
 
 ; Hearts of Oak   ; 1-0; Kessben
-  Mahatma Otto 53
+  Mahatma Otto 53;
 
 ; King Faisal     ; 2-1; Hasaacas
 
 ; Liberty         ; 1-0; Chelsea
-  Kamal Issah 39
+  Kamal Issah 39;
 
 ; RTU             ; 1-0; Aduana Stars
 
@@ -105,7 +104,7 @@ Date: 11/1/2009
 ; Aduana Stars    ; 1-0; Heart of Lions
 
 ; All Stars       ; 1-0; Liberty
-  Nathaniel Asamoah 67
+  Nathaniel Asamoah 67;
 
 ; Chelsea         ; 0-0; RTU
 ; Hasaacas        ; 1-1; Hearts of Oak
@@ -113,7 +112,7 @@ Date: 11/1/2009
 ; Kotoko          ; 2-2; Arsenal
 
 ; New Edubiase    ; 1-0; King Faisal
-  Nuhu Fuseini 57
+  Nuhu Fuseini 57;
 
 ; Olympics        ; 2-1; AshGold
   Bilal Mohammed 15, Eric Adjetey 58; Aminu Mohammed 25
@@ -124,17 +123,16 @@ Date: 11/8/2009
 ; Arsenal         ; 2-1; Olympics
 
 ; AshGold         ; 2-0; Eleven Wise  
-  Addoquaye Addo 41, Theophilus Anobah 51
+  Addoquaye Addo 41, Theophilus Anobah 51;
 
 ; Hasaacas        ; 3-4; Kessben
-  Joe Agyeman Jnr 1-1, Prince Antwi 2-1, 75;
-   Bismark Idan 1, 80, James Boadu 50, Yufa Zugah 69
+  Joe Agyeman Jnr, Prince Antwi, Unknown 75; Bismark Idan 1, Bismark Idan 80, James Boadu 50, Yufa Zugah 69
 
 ; Heart of Lions  ; 2-1; Chelsea
   Emmanuel Osei Banahene 7, Abraham Annan 71; Obed Owusu 35
 
 ; Hearts of Oak   ; 1-0; New Edubiase 
-  Bernard Don Bortey
+  Bernard Don Bortey;
 
 ; King Faisal     ; 0-0; Aduana Stars
 ; Liberty         ; 3-1; Kotoko
@@ -148,7 +146,7 @@ Date: 11/18/2009
 ; Chelsea         ; 1-0; King Faisal           
 
 ; Eleven Wise     ; 0-1; Arsenal  
-  Salu Yakubu 85pen
+;  Salu Yakubu (pk) 85
       
 ; Kessben         ; 2-1; AshGold 
   Ali Baba 2, Edmund Owusu Peprah 56; Fred Quayson 10
@@ -159,7 +157,7 @@ Date: 11/18/2009
 ; New Edubiase    ; 2-0; Hasaacas          
 
 ; Olympics        ; 1-0; Liberty   
-  Emmanuel Lartey 80
+  Emmanuel Lartey 80;
 
 Round: 7 
 Date: 11/22/2009
@@ -167,16 +165,16 @@ Date: 11/22/2009
 ; Arsenal         ; 2-1; AshGold      
 
 ; Hasaacas        ; 1-0; Aduana Stars 
-  Francis Larbi 70
+  Francis Larbi 70;
       
 ; Heart of Lions  ; 1-0; Kotoko       
 ; Hearts of Oak   ; 2-1; Chelsea            
 
 ; King Faisal     ; 1-2; All Stars     
-  Ofosu Micky 12pen; Nathaniel Asamoah 1-1, Daniel Bomfa 90
+  Ofosu Micky (pk) 12; Nathaniel Asamoah, Daniel Bomfa 90
       
 ; Liberty         ; 2-0; Eleven Wise   
-  Kevin Kwaku Kouadio 45, Francis Moton 2-0
+  Kevin Kwaku Kouadio 45, Francis Moton;
    
 ; New Edubiase    ; 2-1; Kessben          
 
@@ -188,23 +186,24 @@ Date: 11/29/2009
 ; Kotoko          ; 1-1; King Faisal 
 
 ; Olympics        ; 1-0; Heart of Lions
-  Latif Mohammed 90
+  Latif Mohammed 90;
 
-; Eleven Wise     ; 4-3; RTU              [also reported 4-2]
-  John Antwi 17, 25, 27, 62; Sadat Karim 22, 36, Abdul Aziz Yusif 88
+; Eleven Wise     ; 4-3; RTU              
+*[also reported 4-2]
+  John Antwi 17, John Antwi 25, John Antwi 27, John Antwi 62; Sadat Karim 22, Sadat Karim 36, Abdul Aziz Yusif 88
 
 ; AshGold         ; 3-0; Liberty
-  Eugene Owusu Prempeh 30, Aminu Mohammed 55, Theophilus Anobah 60
+  Eugene Owusu Prempeh 30, Aminu Mohammed 55, Theophilus Anobah 60;
 
 ; Aduana Stars    ; 1-0; New Edubiase 
 
 ; Chelsea         ; 2-1; Hasaacas
 
 ; All Stars       ; 2-0; Hearts of Oak
-  Frank Nortey Sowah 18, Nathaniel Asamoah 75
+  Frank Nortey Sowah 18, Nathaniel Asamoah 75;
 
 ; Kessben         ; 2-0; Arsenal
-  Edmund Owusu Peprah, Bismark Idan
+  Edmund Owusu Peprah, Bismark Idan;
 
 
 Round: 9 
@@ -255,16 +254,16 @@ Date: 12/27/2009
 ; Eleven Wise     ; 4-1; Hasaacas
 
 ; Kessben         ; 2-0; RTU
-  Bismark Ian 1-0, Daniel Coleman (og) 2-0
+  Bismark Ian, Daniel Coleman (og);
 
 ; Kotoko          ; 1-0; Aduana Stars   
-  Daniel Nii Adjei 92
+  Daniel Nii Adjei 92;
   
 ; Liberty         ; 1-1; Heart of Lions
   Latifu Salifu 36; Gilbert Fiamenyo 91
 
 ; Olympics        ; 2-0; New Edubiase
-  Mohammed Latif 67, Bilal Mohammed 2-0
+  Mohammed Latif 67, Bilal Mohammed;
 
 Round: 13 
 Date: 1/3/2010
@@ -279,10 +278,10 @@ Date: 1/3/2010
 ; Heart of Lions  ; 0-0; RTU
 
 ; Hearts of Oak   ; 3-0; Arsenal
-  Eric Gawu 44, 55, Samuel Affum 80
+  Eric Gawu 44, Eric Gawu 55, Samuel Affum 80;
 
 ; King Faisal     ; 1-2; Liberty
-  Boli Jean Francois 31; Latif Salifu 63, Christopher Nkansah 90pen
+  Boli Jean Francois 31; Latif Salifu 63, Christopher Nkansah (pk) 90
 
 ; New Edubiase    ; 2-1; Eleven Wise
 
@@ -297,12 +296,12 @@ Date: 1/6/2010
   Issah Alhassan 35; Samuel Asiedu 7, Joseph Doe 30
 
 ; Kessben         ; 1-0; Heart of Lions 
-  Edmund Owusu Peprah 9
+  Edmund Owusu Peprah 9;
 
 ; Kotoko          ; 0-0; All Stars
 
 ; Liberty         ; 0-1; Hearts of Oak
-  Andrews Aryitey 70
+;  Andrews Aryitey 70
 
 ; Olympics        ; 1-0; Chelsea
 ; RTU             ; 0-4; King Faisal
@@ -316,16 +315,15 @@ Date: 1/9/2010
 ; Hasaacas        ; 1-1; Liberty
 
 ; Hearts of Oak   ; 2-0; RTU
-  Mahatma Otoo 37, 58
+  Mahatma Otoo 37, Mahatma Otoo 58;
 
 ; Kessben         ; 1-1; Kotoko 
 
 ; King Faisal     ; 3-1; Heart of Lions
-  Frank Acheampong 21, Prince Arko 43, Abu Naaba Jnr 78;
-   Osei Banahene 69
+  Frank Acheampong 21, Prince Arko 43, Abu Naaba Jnr 78; Osei Banahene 69
 
 ; New Edubiase    ; 2-0; Arsenal
-  Ibrahim Moro 50, Seidu Bansi 69
+  Ibrahim Moro 50, Seidu Bansi 69;
 
 Round: 16 
 Date: 2/3/2010
@@ -340,10 +338,10 @@ Date: 2/3/2010
 ; Heart of Lions  ; 2-1; King Faisal
 
 ; Kotoko          ; 2-0; Kessben     
-  Daniel Nii Adjei (2)
+  Daniel Nii Adjei, Daniel Nii Adjei;
     
 ; Liberty         ; 4-1; Hasaacas   
-  Sylla Foda (3), Capi Soumah; Charles Nartey
+  Sylla Foda, Sylla Foda, Sylla Foda, Capi Soumah; Charles Nartey
         
 ; Olympics        ; 4-3; All Stars   
 ; RTU             ; 0-0; Hearts of Oak  
@@ -352,21 +350,21 @@ Round: 17
 Date: 2/7/2010
 
 ; Aduana Stars    ; 1-0; Eleven Wise
-  Godfred Saka (pen)
+  Godfred Saka (pk);
 
 ; All Stars       ; 0-0; Kotoko
 ; Chelsea         ; 0-0; Olympics
 
 ; Hasaacas        ; 1-0; Arsenal
-  John Ayison
+  John Ayison;
 
 ; Heart of Lions  ; 1-0; Kessben 
-  Edmund Owusu-Ansah
+  Edmund Owusu-Ansah;
 
 ; Hearts of Oak   ; 2-3; Liberty
 
 ; King Faisal     ; 1-0; RTU
-  Ofosu Mikey
+  Ofosu Mikey;
 
 ; New Edubiase    ; 1-2; AshGold
 
@@ -392,20 +390,20 @@ Round: 19
 Date: 2/21/2010
 
 ; Aduana Stars    ; 1-0; Kotoko
-  Nurudeen Ali 60
+  Nurudeen Ali 60;
 
 ; Chelsea         ; 2-0; All Stars
 
 ; Hasaacas        ; 0-1; Eleven Wise
-  William Owusu 5
+;  William Owusu 5
 
 ; Heart of Lions  ; 1-0; Liberty
-  Tanko Mohammed
+  Tanko Mohammed;
 
 ; Hearts of Oak   ; 0-0; AshGold
 
 ; King Faisal     ; 2-0; Arsenal
-  Ofosu Micky 36pen, Arkoh 50
+  Ofosu Micky (pk) 36, Arkoh 50;
 
 ; New Edubiase    ; 1-1; Olympics
 
@@ -426,11 +424,10 @@ Date: 2/28/2010
   Addoquaye Addo 25, Emmanuel Adjetey 77; Ebo Andoh 92
 
 ; Eleven Wise     ; 2-3; Hearts of Oak
-  John Antwi 30, Bashiru Abdul 85pen; Obed Ansah 13pen,
-   Mahatma Otoo 40, Samuel Affum 74
+  John Antwi 30, Bashiru Abdul (pk) 85; Obed Ansah (pk) 13, Mahatma Otoo 40, Samuel Affum 74
 
 ; Olympics        ; 1-3; Hasaacas
-  Ben Mensah 45og; Mawuli Tuglo 30, Joseph Akowuah 75, 1-3
+  Ben Mensah (og) 45; Mawuli Tuglo 30, Joseph Akowuah 75, Joseph Akowuah 
 
 *Kessben          awd Chelsea          [awarded 0-3; abandoned due to attack on referee
 
@@ -445,10 +442,10 @@ Date: 3/7/2010
 ; Hasaacas        ; 1-1; Kotoko
 ; Heart of Lions  ; 1-0; AshGold
 ; Hearts of Oak   ; 1-0; Olympics 
-  Samuel Affum 32
+  Samuel Affum 32;
 
 ; King Faisal     ; 2-0; Eleven Wise
-Enock Ebo Andoh 52, Frank Acheampong 81
+Enock Ebo Andoh 52, Frank Acheampong 81;
 
 ; Liberty         ; 4-0; Kessben
 ; New Edubiase    ; 0-0; All Stars
@@ -466,7 +463,7 @@ Date: 3/14/2010
 ; AshGold         ; 1-0; RTU
 ; Kessben         ; 1-0; Aduana Stars
 ; Kotoko          ; 0-1; Hearts of Oak 
-  Samuel Affum 18pen
+;  Samuel Affum (pk) 18
 
 ; Olympics        ; 0-1; King Faisal
 
@@ -483,10 +480,10 @@ Date: 3/21/2010
 ; Heart of Lions  ; 2-1; Olympics
 
 ; Hearts of Oak   ; 1-2; All Stars
-  Samuel Affum 80; Ben Acheampong 63, 90
+  Samuel Affum 80; Ben Acheampong 63, Ben Acheampong 90
 
 ; King Faisal     ; 1-0; Kotoko
-  Frank Acheampong 12
+  Frank Acheampong 12;
 
 ; Liberty         ; 1-1; AshGold
 ; New Edubiase    ; 1-0; Aduana Stars
