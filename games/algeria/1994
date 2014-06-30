@@ -39,7 +39,7 @@ Round: 2
 ; JS Kabylie             ; 4-0; GC Mascara
 ; CR Belcourt                ; 2-0; WA Boufarik
 ; WA Tlemcen                     ; 0-0; CS Constantine
-; MC Oran                         1     ; 0-0; ASO Chlef
+; MC Oran                         ; 0-0; ASO Chlef
 ; US Chaouia                            ; 0-0; MC Alger
 ; USM Blida                                 ; 1-1; JS Bordj Menaiel
 ; CA Batna                                      ; 0-0; NA Hussein-Dey
@@ -261,7 +261,8 @@ Round: 22
 ; USM El Harrach                 ; 1-0; CS Constantine
 ; NA Hussein-Dey;                      0-1; ASO Chlef       
 ; JS Bordj Menaiel                   ; 0-0; MC Alger
-; US Chaouia                              awd JS Kabylie     [awarded; 3-0; US Chaouia - JSK refused played match for insecurity in the stadium ]
+*; US Chaouia                              awd JS Kabylie     
+*[awarded; 3-0; US Chaouia - JSK refused played match for insecurity in the stadium ]
 ; MC Oran                                       ; 3-0; CR Belcourt                     
 ; AS Ain M'lila                                     ; 0-0; WA Tlemcen                  
 
