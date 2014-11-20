@@ -1,4 +1,4 @@
-BlockSource: http://www.rsssf.com/tablesz/zamb2010.html
+(BlockSource: http://www.rsssf.com/tablesz/zamb2010.html
 Season: 2010
 Competition: KCM Super Division
 
@@ -24,8 +24,10 @@ Competition: KCM Super Division
 *    their status is contentious due to a power wrangle within
 *    the FAZ
 
-Round 1 
-[Mar 13]
+Round: 1 
+
+Date: 3/13/2010
+
 Konkola Blades          2-2 Nchanga Rangers
   [Chipulu Chileya 14, 35; Aubrey Funga 71, Ignatius Mukota 85]
 Choma Eagles            1-1 Power Dynamos
@@ -40,16 +42,22 @@ Roan United             0-2 Green Buffaloes
   [Morgan Hanjema 11, Brian Chilando 40]
 City of Lusaka          0-2 National Assembly
   [Moses Phiri 26, Mazuba Mkandawire 82]
-[May 19]
+
+Date: 5/19/2010
+
 Zanaco                  2-2 Zesco United
   [Mathews Macha 66, 80; Nicholas Zulu 40, Clifford Chipalo 59]
 
-Round 2 
-[Mar 20]
+Round: 2 
+
+Date: 3/20/2010
+
 Power Dynamos           2-0 Konkola Blades
   [Joseph Sitali 6, Kennedy Mudenda 80]
 Nchanga Rangers         0-0 Nkana
-[Mar 21]
+
+Date: 3/21/2010
+
 Lusaka Dynamos          1-2 Roan United
   [Tom Bakala 16; Lyson Sikaonga 69, John Phiri 90]
 National Assembly       1-1 Nkwazi
@@ -60,38 +68,54 @@ Green Buffaloes         5-0 City of Lusaka
 Red Arrows              4-1 Forest Rangers
   [Brian Lubaba 14, Jimmy Njobvu 16, Dube Phiri 20, Stanley Banda 54;
    John Mulombwa 29pen]
-[May 5]
+
+Date: 5/5/2010
+
 Zesco United            3-1 Choma Eagles
   [Clifford Chipalo 7, Enoch Sakala 30, John Chingangu 77;
    Aubrey Zulu 62]
-[Jun 2]
+
+Date: 6/2/2010
+
 Kabwe Warriors          0-0 Zanaco
 
-Round 3 
-[Mar 27]
+Round: 3 
+
+Date: 3/27/2010
+
 Konkola Blades          1-0 Nkana
   [Patrick Kasunga 28]
-[Mar 28]
+
+Date: 3/28/2010
+
 Power Dynamos           1-1 Zesco United
   [Kennedy Mudenda 32; Arthur Kasoloki 13]
-[Apr 2]
+
+Date: 4/2/2010
+
 Forest Rangers          0-1 Nchanga Rangers
   [Aubrey Chamulanda 16]
 Roan United             1-1 Red Arrows
   [Douglas Muwowo 60; Jimmy Njovu 90+2]
-[Apr 3]
+
+Date: 4/3/2010
+
 Choma Eagles            0-2 Kabwe Warriors
   [Maonga Kabuku, Steven Kabamba]
 City of Lusaka          0-1 Lusaka Dynamos
   [Lameck Banda 37]
 Nkwazi                  1-1 Green Buffaloes
   [Keegan Phiri 81; Liniker Mwikisa 31]
-[Jun 9]
+
+Date: 6/9/2010
+
 Zanaco                  2-1 National Assembly
   [Charles Siyingwa, Winstone Kalenga; Kruger Mwansa]
 
-Round 4
-[Apr 5]
+Round: 4
+
+Date: 4/5/2010
+
 Lusaka Dynamos          1-1 Nkwazi
   [Patson Kaimana 20; Perry Mutapa 14]
 Nkana                   2-2 Forest Rangers
@@ -103,14 +127,20 @@ Nchanga Rangers         1-0 Roan United
 National Assembly       0-0 Choma Eagles
 Red Arrows              0-1 City of Lusaka
   [Chomba Sikazwe 23]
-[Apr 7]
+
+Date: 4/7/2010
+
 Zesco United            0-0 Konkola Blades
-[Jun 12]
+
+Date: 6/12/2010
+
 Green Buffaloes         0-2 Zanaco
   [Winstone Kalengo 10, Kennedy Nkethani 56pen]
 
-Round 5
-[Apr 10]
+Round: 5
+
+Date: 4/10/2010
+
 Konkola Blades          0-0 Forest Rangers
 Roan United             0-1 Nkana
   [Douglas Chiwaya 77]
@@ -120,14 +150,18 @@ Choma Eagles            1-0 Green Buffaloes
 Nkwazi                  0-0 Red Arrows
 Power Dynamos           2-1 National Assembly
   [Luka Lungu 4, Lameck Mwale 70pen; Mwape Mwelwa 44]
-[Apr 11]
+
+Date: 4/11/2010
+
 Zanaco                  2-0 Lusaka Dynamos
   [Venacious Mapande 30, Winston Kalengo 81]
 Zesco United            1-1 Kabwe Warriors
   [Kangwa Chileshe 23; Maonga Kabuku 61]
 
-Round 6
-[Apr 17]
+Round: 6
+
+Date: 4/17/2010
+
 Lusaka Dynamos          2-0 Choma Eagles
   [Cassius Mwila 4, Sydney Nteke 22]
 Red Arrows              1-1 Zanaco 
@@ -142,11 +176,15 @@ Nchanga Rangers         3-1 Nkwazi
 National Assembly       0-0 Zesco United
 Kabwe Warriors          2-0 Konkola Blades
   [Geofrey Kangwa 41, Hendrix Kapeta 75]
-[Apr 18]
+
+Date: 4/18/2010
+
 Green Buffaloes         0-0 Power Dynamos
 
-Round 7
-[Apr 24]
+Round: 7
+
+Date: 4/24/2010
+
 Konkola Blades          1-1 Roan United
   [Chipili Mungule 55; Lyson Sikaonga 18]
 Zesco United            1-0 Green Buffaloes
@@ -158,16 +196,22 @@ Kabwe Warriors          1-3 National Assembly
    Mundia Makoka 47]
 Choma Eagles            3-2 Red Arrows
   [Aubrey Zulu 22pen, 59, Lewis Macha 86; Dube Phiri 44, 66]
-[Apr 25]
+
+Date: 4/25/2010
+
 Nkwazi                  0-0 Nkana
 City of Lusaka          1-0 Forest Rangers
   [Moffat Gondwe 36]
-[Jun 19]
+
+Date: 6/19/2010
+
 Zanaco                  0-1 Nchanga Rangers
   [Moses Mulambi 59]
 
-Round 8
-[May 1]
+Round: 8
+
+Date: 5/1/2010
+
 Red Arrows              2-0 Power Dynamos
   [Dube Phiri 43pen, 58]
 Nkana                   1-0 Zanaco
@@ -184,15 +228,19 @@ Roan United             0-0 City of Lusaka
 Forest Rangers          1-2 Nkwazi
   [Frazer Mwelwa 33; Abraham Mwila 4, Edward Mumba 72]
 
-Round 9
-[May 8]
+Round: 9
+
+Date: 5/8/2010
+
 Konkola Blades          1-1 City of Lusaka
   [Chipulu Chileya 82; Evans Musonda 47]
 Zesco United            2-0 Red Arrows
   [Clifford Chipalo 10, Jackson Mwanza 88]
 Kabwe Warriors          3-0 Lusaka Dynamos
   [Henrix Mumpa 20, Joseph Bwalya 36, Festus Mbewe 51]
-[May 9]
+
+Date: 5/9/2010
+
 Choma Eagles            2-0 Nkana
   [Oscar Kachika 66, Lewis Macha 70]
 Power Dynamos           2-2 Nchanga Rangers
@@ -202,12 +250,16 @@ Nkwazi                  1-0 Roan United
 National Assembly       1-4 Green Buffaloes
   [Fackson Kapundu 29; Liniker Mwikisa 25, Kennedy Chola 28, 35,
    Dears Kakunta 90]
-[Jun 26]
+
+Date: 6/26/2010
+
 Zanaco                  3-1 Forest Rangers
   [Mathew Macha 17, Vanecious Mapande 32, 47; Kameta Mutambo 36pen]
 
-Round 10 
-[May 15]
+Round: 10 
+
+Date: 5/15/2010
+
 Nkana                   1-2 Power Dynamos
   [(Douglas Chiwaya 66pen; Mukuka Mulenga 11, Joseph Sitali 82]
 Red Arrows              2-2 Kabwe Warriors 
@@ -222,11 +274,15 @@ Nchanga Rangers         1-2 Zesco United
   [Chongo Chirwa 60; Clifford Chipalo 5, Enock Sakala 44]
 Green Buffaloes         2-0 Konkola Blades  
   [Reuben Tembo 32pen, 82]
-[May 16]    
+
+Date: 5/16/2010
+
 City of Lusaka          0-1 Nkwazi
   [Keegan Phiri 8]
 
-Round 11 [May 22]
+Round: 11 
+Date: 5/22/2010
+
 Choma Eagles            0-0 Roan United             
 Green Buffaloes         1-1 Lusaka Dynamos    
   [Reuben Tembo 45; Jeff Kapelwa 44]      
@@ -242,8 +298,10 @@ Zanaco                  3-0 City of Lusaka
   [Vanecious Mapande 66, 84, Mathews Macha 88]         
 Zesco United            0-0 Nkana
 
-Round 12 
-[May 29]
+Round: 12 
+
+Date: 5/29/2010
+
 Nkana                   2-0 Kabwe Warriors          
   [Maxwell Phiri 6, Rabby Lwambula 30]
 Nchanga Rangers         2-0 National Assembly      
@@ -258,12 +316,16 @@ City of Lusaka          1-1 Choma Eagles
   [Kennedy Chola 47; Aubrey Zulu 31]
 Lusaka Dynamos          1-1 Konkola Blades          
   [Jeff Kapelwa 44; Claude Bwalya 31]
-[May 30]
+
+Date: 5/30/2010
+
 Red Arrows              1-1 Green Buffaloes         
   [Stanley Banda; Saili Musebo]
 
-Round 13
-[Jun 5]
+Round: 13
+
+Date: 6/5/2010
+
 Konkola Blades          2-1 Zanaco
   [Patrick Kasunga 40pen, Graven Chitalu 87; Winstone Kalengo 45]
 Zesco United            2-0 Roan United
@@ -273,15 +335,19 @@ Kabwe Warriors          1-1 Forest Rangers
 Power Dynamos           2-0 City of Lusaka
   [Francis Kasonde 40, Felix Nyaende 87]
 Choma Eagles            0-0 Nkwazi
-[Jun 6]
+
+Date: 6/6/2010
+
 National Assembly       0-0 Nkana
 Green Buffaloes         2-0 Nchanga Rangers
   [Dennis Banda 49, Saili Musebo 90] 
 Lusaka Dynamos          1-1 Red Arrows              
   [Patson Kaimana 15; Dube Phiri 74pen]
 
-Round 15 
-[Jul 10]
+Round: 15 
+
+Date: 7/10/2010
+
 Konkola Blades          1-1 Choma Eagles            
   [Chipulu Chileya 6; Kebby Hachipuka 67pen]
 Red Arrows              2-1 Nchanga Rangers         
@@ -294,21 +360,27 @@ Kabwe Warriors          1-1 City of Lusaka
 National Assembly       5-2 Roan United             
   [Fackson Kapumbu 34, Mundia Makokwa 41, 76, Francis Lusambo 70,
    Robby Musesha 83; Mukasa Mufwaya 85, Ben Mwanza 90]
-[Jul 11]
+
+Date: 7/11/2010
+
 Lusaka Dynamos          1-0 Nkana                   
   [Jeff Kapelwa 85]
 Zesco United            2-1 Nkwazi                  
   [Enock Sakala 19, Nicholas Zulu 70; Derrick Mwansa 65]
 
-Round 16
-[Jul 17]
+Round: 16
+
+Date: 7/17/2010
+
 Nchanga Rangers         2-1 Konkola Blades          
   [Chileshe Kabwe 9, Floyd Phiri 67; Chipulu Chileya 69]
 Power Dynamos           3-0 Choma Eagles            
   [Luka Lungu 2, 53, Joseph Sitali 80]
 Kabwe Warriors          0-1 Nkwazi                  
   [Keegan Phiri 1]
-[Jul 18]
+
+Date: 7/18/2010
+
 National Assembly       1-0 City of Lusaka          
   [Mundia Makokwa 23]
 Green Buffaloes         1-0 Roan United             
@@ -323,8 +395,10 @@ Zesco United            3-1 Zanaco
   [Nicholas Zulu 1-0, John Ching’andu 2-1, Innocent Mwaba (pen) 3-1;
    own goal 1-1]
 
-Round 17 
-[Jul 21]
+Round: 17 
+
+Date: 7/21/2010
+
 Konkola Blades          1-1 Power Dynamos           
   [Felix Sunzu Jr 25; Luka Lungu 40]
 Nkana                   1-1 Nchanga Rangers         
@@ -342,8 +416,10 @@ City of Lusaka          0-2 Green Buffaloes
 Zanaco                  2-0 Kabwe Warriors          
   [George Chilifya 23, Henry Banda 47]
 
-Round 18
-[Jul 24]
+Round: 18
+
+Date: 7/24/2010
+
 Nkana                   0-1 Konkola Blades          
   [Felix Sunzu Jr 34]
 Zesco United            1-0 Power Dynamos           
@@ -351,7 +427,9 @@ Zesco United            1-0 Power Dynamos
 Nchanga Rangers         1-0 Forest Rangers          
   [Moses Mulambi 70]
 Kabwe Warriors          0-0 Choma Eagles            
-[Jul 25]
+
+Date: 7/25/2010
+
 Red Arrows              0-1 Roan United             
   [Kelvin Mumba 27]
 Lusaka Dynamos          2-3 City of Lusaka          
@@ -362,8 +440,10 @@ Green Buffaloes         1-1 Nkwazi
 [Oct 30]
 National Assembly       0-0 Zanaco
 
-Round 19
-[Jul 31]
+Round: 19
+
+Date: 7/31/2010
+
 Konkola Blades          2-1 Zesco United            
   [Patrick Kasunga 25, Felix Sunzu 79; Nicholas Zulu 47]
 Forest Rangers          2-1 Nkana                   
@@ -381,8 +461,10 @@ Nkwazi                  1-0 Lusaka Dynamos
 Zanaco                  1-0 Green Buffaloes
   [Mathew Macha 72] 
 
-Round 14 [postponed from Jul 3 due to referee strike]
-[Aug 2]
+Round: 14 [postponed from Jul 3 due to referee strike]
+
+Date: 8/2/2010
+
 Red Arrows              1-0 Konkola Blades          
   [Timothy Mbewe 5]
 Nchanga Rangers         1-0 Lusaka Dynamos          
@@ -393,18 +475,26 @@ Nkana                   2-1 Green Buffaloes
   [Victor Mwansa 24, Richard Mooka 71; Nathan Sinkala 55]
 Roan United             1-0 Kabwe Warriors          
   [Ben Mwanza 17]
-[Aug 4]
+
+Date: 8/4/2010
+
 Forest Rangers          1-1 National Assembly       
   [Peter Banda 73; Morgan Hanjeema 34]
-[Aug 18]
+
+Date: 8/18/2010
+
 City of Lusaka          1-0 Zesco United            
   [Fabrice Mbimba 49]
-[Sep 1]
+
+Date: 9/1/2010
+
 Zanaco                  1-0 Choma Eagles            
   [Venecious Mapande 48]
 
-Round 20
-[Aug 7]
+Round: 20
+
+Date: 8/7/2010
+
 Forest Rangers          2-0 Konkola Blades          
   [Nasha Kaya 22, Roberto Kabeya 28og]
 Nkana                   1-0 Roan United             
@@ -415,17 +505,25 @@ Green Buffaloes         1-1 Choma Eagles
   [John Musukwa 28; Diamond Chikwete 18]
 Lusaka Dynamos          1-2 Zanaco                  
   [Jeff Banda 63; Charles Siyingwa 46, Henry Banda 79]
-[Aug 18]
+
+Date: 8/18/2010
+
 Red Arrows              0-0 Nkwazi       
-[Sep 1]      
+
+Date: 9/1/2010
+
 National Assembly       0-3 Power Dynamos  
   [Joseph Sitali 30, Crispin Mulenga 53, Lameck Mwale 83]              
-[Sep 12]
+
+Date: 9/12/2010
+
 Kabwe Warriors          0-1 Zesco United            
   [Humphrey Luputa 59]
 
-Round 21
-[Aug 14]
+Round: 21
+
+Date: 8/14/2010
+
 Konkola Blades          1-1 Kabwe Warriors          
   [Robert Tembo 14; Richard Kasonde 37]
 Roan United             0-0 Forest Rangers          
@@ -437,15 +535,19 @@ Power Dynamos           1-2 Green Buffaloes
   [Simon Bwalya 49; John Musukwa 2, Brian Chilando 43]
 Choma Eagles            3-0 Lusaka Dynamos          
   [Aubrey Zulu 17, 87, Tresford Mhango 69]
-[Aug 15]
+
+Date: 8/15/2010
+
 Nkwazi                  1-1 Nchanga Rangers         
   [Keegan Phiri 2; Moses Mwape 65pen]
 [Dec 10; status of match contentious]     
 Zanaco                  1-0 Red Arrows         
   [Mathews Macha 74]
 
-Round 22
-[Aug 21]
+Round: 22
+
+Date: 8/21/2010
+
 Roan United             1-1 Konkola Blades          
   [Kelly Sichiliya (pen); Felix Sunzu]
 National Assembly       0-1 Kabwe Warriors   
@@ -458,13 +560,17 @@ Nchanga Rangers         2-1 Zanaco
   [Mose Mulambi 12, Danny Chama 35; Chongo Chirwa 38og]
 Red Arrows              1-1 Choma Eagles            
   [Dude Phiri 61; Lewis Macha]
-[Aug 22]
+
+Date: 8/22/2010
+
 Lusaka Dynamos          0-0 Power Dynamos           
 Nkana                   2-1 Nkwazi                  
   [William Chinse 10, 18; Keegan Phiri 29]
 
-Round 23
-[Sep 8]
+Round: 23
+
+Date: 9/8/2010
+
 Konkola Blades          1-0 National Assembly       
   [Patrick Kasunga 4]
 City of Lusaka          0-1 Roan United             
@@ -479,8 +585,10 @@ Choma Eagles            0-0 Nchanga Rangers
 [tba]
 Zanaco                   -  Nkana                
 
-Round 24
-[Sep 18]
+Round: 24
+
+Date: 9/18/2010
+
 Roan United             2-1 Nkwazi                  
   [Graven Chitalu 55, 67; Keegan Phiri 65]
 Nkana                   2-1 Choma Eagles            
@@ -496,8 +604,10 @@ Red Arrows              1-1 Zesco United
 Nchanga Rangers         0-0 Power Dynamos           
 Forest Rangers          0-0 Zanaco                  
 
-Round 25
-[Sep 29]
+Round: 25
+
+Date: 9/29/2010
+
 Konkola Blades          0-3 Green Buffaloes         
   [Edward Musebo 4, 41, Brian Chilando 76]
 Nkwazi                  0-2 City of Lusaka          
@@ -512,7 +622,7 @@ Power Dynamos           1-1 Nkana
 [tba]
 Zanaco                   -  Roan United             
 
-Round 26
+Round: 26
 [Oct 2]        
 Nkana                   0-0 Zesco United             
 Nchanga Rangers         1-0 Kabwe Warriors          
@@ -532,7 +642,7 @@ Forest Rangers          1-1 Power Dynamos
 [tba]
 City of Lusaka           -  Zanaco                         
 
-Round 27
+Round: 27
 [Oct 13]
 Kabwe Warriors          1-0 Nkana       
   [Elson Mkandawire 47]
@@ -557,7 +667,7 @@ Zanaco                  8-1 Nkwazi
    Makundika Sakala 67, 85, Henry Banda 80, Allen Mukuka 82;
    Musukuma Chipungu 18]
 
-Round 28
+Round: 28
 [Oct 23]
 Nchanga Rangers         1-2 Green Buffaloes
   [Aubrey Funga; John Musukwa, Dennis Banda]
@@ -587,7 +697,7 @@ NB: due to a dispute on the legal status of the FAZ administration,
     Lusaka Dynamos officially withdrew from league before round 29
     for financial reasons
 
-Round 29 
+Round: 29 
 [Nov 6]
 Konkola Blades          n/p Red Arrows              [neither team showed]  
 Lusaka Dynamos          awd Nchanga Rangers         [awarded 0-2, Dynamos withdrew]
@@ -601,7 +711,7 @@ Power Dynamos           4-0 Nkwazi
 Choma Eagles            1-0 Zanaco
   [Fabrice Kanda 23og]
 
-Round 30 
+Round: 30 
 [Nov 13]
 Choma Eagles            n/p Konkola Blades        
 Nchanga Rangers         n/p Red Arrows           
@@ -652,7 +762,9 @@ Zanaco                  0-1 Zesco United            [at Woodlands Stadium]
   [Derrick Kabwe]
 Power Dynamos           1-3 Green Buffaloes         [at Kafubu Stadium, Luanshya]
 
-Final [Mar 6]
+Final 
+Date: 3/6/2010
+
 Green Buffaloes         1-0 Zesco United            [aet]
   [Linekar Mwikisa]
 
@@ -667,12 +779,16 @@ Top team from Division 1 north and south by Week 15:
   Lime Hotspurs (North), Nakambala Leopards (South)
 
 Quarterfinals
-[Sep 25, Woodlands Stadium, Lusaka]
+
+Date: 9/25, Woodlands Stadium, Lusaka/2010
+
 Zesco United            1-0 Nakambala Leopards
   [Kangwa Chileshe 15]
 Power Dynamos           1-0 Nkwazi
   [Luka Lungu 12]
-[Sep 25, Arthur Davies, Kitwe]
+
+Date: 9/25, Arthur Davies, Kitwe/2010
+
 Green Buffaloes         0-2 Zanaco 
   [Venecious Mapande 47, Lottie Nyambili 74]
 Nchanga Rangers         0-0 Lime Hotspurs           [2-4 pen]
@@ -682,7 +798,9 @@ Zesco United            2-0 Power Dynamos
   [Kondwani Mtonga 44, Clifford Chipalo 45]          
 Zanaco                  0-0 Lime Hotspurs           [5-4 pen]
 
-Final [Apr 9, 2011, Nkoloma Stadium, Lusaka]
+Final 
+Date: 4/9, 2011, Nkoloma Stadium, Lusaka/2010
+
 Zesco United            2-0 Zanaco
   [Alfred Luputa 32, Clifford Chipalo 90]
 
@@ -693,8 +811,10 @@ Division 1 North | Division 1 South
 
 Division 1 North
 
-Round 1 
-[Mar 14]
+Round: 1 
+
+Date: 3/14/2010
+
 Konkola Mine Police     1-0 Chingola Leopards
 Muchindu                0-0 Zamtel
 Chindwin Sentries       0-0 Mufulira Wanderers
@@ -703,11 +823,15 @@ Kalulushi Modern Stars  1-1 Kitwe United
 Mining Rangers          2-1 Medical Stars
 Kalewa                  0-1 Ndola United
 Indeni                  3-0 Lime Hotspurs
-[May 4]
+
+Date: 5/4/2010
+
 Mansa Health Stars      0-1 Chambishi
 
-Round 2 
-[Mar 21]
+Round: 2 
+
+Date: 3/21/2010
+
 Chingola Leopards       0-0 Muchindu
 Mufulira Wanderers      1-1 Mansa Health Stars
 Zamtel                  1-1 Mufulira Blackpool
@@ -716,7 +840,9 @@ Prison Leopards         1-0 Mining Rangers
 Ndola United            0-0 Kalulushi Modern Stars
 Medical Stars           0-0 Indeni
 Lime Hotspurs           2-1 Kalewa
-[May 19]
+
+Date: 5/19/2010
+
 Chambishi               1-0 Konkola Mine Police
 
 Table (Mar 22):
@@ -744,8 +870,10 @@ Table (Mar 22):
 
 [*] Muchindu aka Mufulira Police
 
-Round 3 
-[Mar 28]
+Round: 3 
+
+Date: 3/28/2010
+
 Konkola Mine Police      -  Muchindu
 Chambishi                -  Mufulira Wanderers
 Mufulira Blackpool       -  Chingola Leopards
@@ -754,11 +882,15 @@ Chindwin Sentries        -  Ndola United
 Indeni                   -  Prison Leopards
 Kalulushi Modern Stars   -  Lime Hotspurs
 Kalewa                   -  Medical Stars
-[May 19]
+
+Date: 5/19/2010
+
 Mansa Health Stars      0-0 Kitwe United
 
-Round 6 
-[Apr 11]
+Round: 6 
+
+Date: 4/11/2010
+
 Mufulira Blackpool      0-0 Mining Rangers
 Ndola United            2-0 Mufulira Wanderers 
 Lime Hotspurs           2-1 Chambishi 
@@ -770,7 +902,9 @@ Muchindu                n/p Indeni                  [Indeni showed late]
 [tba]
 Kitwe United             -  Konkola Mine Police
 
-Round 7 [Apr 17,18]
+Round: 7 
+Date: 4/17,18/2010
+
 Kitwe United            0-0 Ndola United 
 Indeni                  1-0 Mufulira Blackpool 
 Mufulira wanderers      0-0 Lime Hotspurs 
@@ -781,7 +915,9 @@ Mansa Health Stars      1-1 Prison Leopards
 Chindwin Sentries       1-1 Zamtel 
 Konkola Mine Police      -  Mining Rangers         
 
-Round 8 [Apr 24,25]
+Round: 8 
+Date: 4/24,25/2010
+
 Mufulira Wanderers      1-0 Medical Stars 
 Lime Hotspurs           2-0 Kitwe United 
 Muchindu                1-1 Kalulushi Modern Stars
@@ -792,7 +928,9 @@ Chambishi               2-2 Prison Leopards
 Chingola Leopards       2-0 Chindwin Sentries     
 Mufulira Blackpool      1-1 Kalewa 
 
-Round 9 [May 1,2]
+Round: 9 
+Date: 5/1,2/2010
+
 Mufulira Wanderers      2-1 Prison  Leopards 
 Kalulushi Modern Stars  1-1 Mufulira Blackpool 
 Ndola United            1-1 Lime Hotspurs 
@@ -803,7 +941,9 @@ Kitwe United            1-0 Medical Stars
 Chambishi               1-0 Zamtel 
 Mansa Health Stars      n/p Chingola Leopards 
 
-Round 10 [May 9]
+Round: 10 
+Date: 5/9/2010
+
 Lime Hotspurs           2-0 Konkola Mine Police 
 Indeni                  0-2 Kalewa 
 Medical Stars           0-2 Ndola United 
@@ -814,7 +954,9 @@ Zamtel                  1-1 Mufulira Wanderers
 Muchindu                1-1 Mansa Health Stars 
 Chingola Leopards       1-0 Chambeshi 
 
-Round 11 [May 12]
+Round: 11 
+Date: 5/12/2010
+
 Mufulira Wanderers      1-0 Chingola Leopards 
 Mansa Health Stars      1-2 Mufulira Blackpool 
 Konkola Mine Police     1-1 Kalewa 
@@ -825,7 +967,9 @@ Chindwin Sentries       1-2 Mining Rangers
 Kitwe United            3-0 Zamtel 
 Chambishi               2-0 Muchindu 
 
-Round 12 [May 16]
+Round: 12 
+Date: 5/16/2010
+
 Muchindu                1-1 Mufulira Wanderers 
 Medical Stars           0-1 Konkola Mine Police 
 Kalewa                  0-0 Kalulushi Modern Stars 
@@ -836,7 +980,9 @@ Mining Rangers          1-0 Mansa Health Stars
 Chingola Leopards       1-1 Kitwe United 
 Mufulira Blackpool      0-2 Chambishi 
 
-Round 13 [May 23]
+Round: 13 
+Date: 5/23/2010
+
 Konkola Mine Police     2-0 Kalulushi Modern Stars 
 Medical Stars           0-1 Prison Leoprads 
 Chindwin Sentries       0-0 Kalewa 
@@ -847,7 +993,9 @@ Chambishi               3-2 Mining Rangers
 Kitwe United            3-0 Mufulira Police 
 Mufulira Wanderers      0-3 Mufulira Blackpool 
 
-Round 5 [May 24]
+Round: 5 
+Date: 5/24/2010
+
 Konkola Mine Police     1-0 Mufulira Blackpool
 Mufulira Wanderers      0-0 Kitwe United
 Mining Rangers          0-0 Muchindu
@@ -858,7 +1006,9 @@ Kalewa                  n/p Zamtel
 Chindwin Sentries       2-0 Medical Stars
 Kalulushi Modern Stars  3-0 Prison Leopards
 
-Round 14 [May 29, 30]
+Round: 14 
+Date: 5/29, 30/2010
+
 Prison Leopards         1-1 Konkola Mine Police  
 Kalulushi Modern Stars  1-0 Chindwin Sentries
 Kalewa                  1-0 Mansa Health Stars 
@@ -869,10 +1019,14 @@ Mining Rangers          2-2 Mufulira Wanderers
 Mufulira Blackpool      1-1 Kitwe United 
 Zamtel                  n/p Medical Stars
 
-Moved Match [Jun 2]
+Moved Match 
+Date: 6/2/2010
+
 Chambishi               1-1 Kitwe United 
 
-Round 15 [Jun 6]
+Round: 15 
+Date: 6/6/2010
+
 Konkola Mine Police     2-1 Chindwin Sentries
 Prison Leopards         3-0 Zamtel 
 Medical Stars           0-1 Chingola Leopards
@@ -883,7 +1037,9 @@ Ndola United            4-1 Mufulira Blackpool
 Kitwe United            1-1 Mining Rangers 
 Mansa Health Stars      n/p Kalulushi Modern Stars
 
-Round 18 [Jul 10,11]
+Round: 18 
+Date: 7/10,11/2010
+
 Chingola Leopards       1-0 Konkola Mine Police 
 Chambishi               2-1 Mansa Health Stars 
 Zamtel                  0-1 Muchindu 
@@ -894,7 +1050,9 @@ Medical Stars           1-0 Mining Rangers
 Ndola United            1-2 Kalewa 
 Lime Hotspurs           1-1 Indeni 
 
-Round 19 [Jul 17,18]
+Round: 19 
+Date: 7/17,18/2010
+
 Konkola Mine Police     3-0 Chambishi 
 Muchindu                1-0 Chingola Leopards 
 Mansa Health Stars      2-0 Mufulira wanderers 
@@ -905,7 +1063,9 @@ Kalulushi Modern Stars  1-0 Ndola United
 Indeni                  2-0 Medical Stars 
 Kalewa                  1-1 Lime Hotspurs 
 
-Round 20 [Jul 21]
+Round: 20 
+Date: 7/21/2010
+
 Muchindu                3-2 Konkola Mine Police 
 Mufulira Wanderers      1-0 Chambishi 
 Chingola Leopards       0-2 Mufulira Blackpool 
@@ -916,7 +1076,9 @@ Lime Hotspurs           1-1 Kalulushi Modern Stars
 Medical Stars           0-0 Kalewa 
 Kitwe United            n/p Mansa Health Stars      [Mansa dns]
 
-Round 21 [Jul 24,25]
+Round: 21 
+Date: 7/24,25/2010
+
 Konkola Mine Police     3-1 Mufulira Wanderers 
 Mufulira Blackpool      0-0 Muchindu 
 Chambishi               1-0 Kitwe United 
@@ -927,7 +1089,9 @@ Chindwin Sentries       0-2 Lime Hotspurs
 Kalulushi Modern Stars  3-0 Medical Stars 
 Kalewa                  n/p Prison Leopards 
 
-Round 22 [Jul 31, Aug 1]
+Round: 22 
+Date: 7/31, Aug 1/2010
+
 Mufulira Blackpool      2-2 Konkola Mine Police 
 Kitwe United            1-1 Mufulira Wanderers 
 Muchindu                0-0 Mining Rangers 
@@ -938,7 +1102,9 @@ Zamtel                  0-3 Kalewa
 Medical Stars           0-2 Chindwin Sentries
 Prison Leopards         n/p Kalulushi Modern Stars
 
-Round 17 [Aug 4?]
+Round: 17 
+Date: 8/4?/2010
+
 Zamtel                  1-1 Chingola Leopards 
 Chambishi               1-1 Chindwin Sentries
 Prisons Leopards        2-0 Muchindu
@@ -949,7 +1115,9 @@ Ndola United            1-1 Indeni
 Konkola Mine Police     n/p Mansa Health Stars
 Lime Hotspurs           n/p Mining Rangers
 
-Round 23 [Aug 7,8]
+Round: 23 
+Date: 8/7,8/2010
+
 Konkola Mine Police     1-1 Kitwe United 
 Mining Rangers          1-0 Mufulira Blackpool 
 Mufulira wanderers      0-0 Ndola United 
@@ -960,7 +1128,9 @@ Chindwin Sentries       0-0 Prisons Leopards
 Mansa Health Stars      2-1 Medical Stars 
 Kalulushi Modern Stars  n/p Zamtel
 
-Round 24 [Aug 15]
+Round: 24 
+Date: 8/15/2010
+
 Mining Rangers          2-3 Konkola Mine Police 
 Ndola United            0-0 Kitwe United 
 Mufulira Blackpool      0-2 Indeni 
@@ -971,7 +1141,9 @@ Chingola Leopards       1-0 Kalulushi Modern Stars
 Prison Leopards         1-0 Mansa Health Stars 
 Zamtel                  n/p Chindwin Sentries       [Zamtel dns]
 
-Round 25 [Aug 21,22]
+Round: 25 
+Date: 8/21,22/2010
+
 Kalewa                  2-1 Mufulira Blackpool 
 Kalulushi Modern Stars  3-0 Muchindu
 Mufulira Wanderers      0-1 Medical Stars 
@@ -982,7 +1154,9 @@ Kitwe United            1-1 Lime Hotspurs
 Chindwin Sentries       1-1 Chingola Leopards 
 Mansa Health Stars      n/p Zamtel
 
-Round 27 [Sep 8]
+Round: 27 
+Date: 9/8/2010
+
 Konkola Mine Police     0-0 Lime Hotspurs
 Kalewa                  0-0 Indeni
 Kalulushi Modern Stars  0-1 Mining Rangers 
@@ -993,7 +1167,9 @@ Mansa Health Stars      2-0 Muchindu
 Ndola United            1-0 Medical Stars 
 Chambishi               0-0 Chingola Leopards 
 
-Round 28 [Sep 11,12]
+Round: 28 
+Date: 9/11,12/2010
+
 Kalewa                  2-1 Konkola Mine Police 
 Medical Stars           0-1 Lime Hotspurs 
 Indeni                  2-1 Kalulushi Modern Stars 
@@ -1004,7 +1180,9 @@ Mufulira Blackpool      0-1 Mansa Health Stars
 Chingola Leopards       0-0 Mufulira Wanderers 
 Muchindu                1-0 Chambishi 
 
-Round 29 [Sep 18,19]
+Round: 29 
+Date: 9/18,19/2010
+
 Lime Hotspurs           2-0 Prisons Leopards 
 Chindwin Sentries       1-0 Indeni 
 Mansa Health Stars      0-0 Mining Rangers 
@@ -1015,8 +1193,10 @@ Mufulira Wanderers      1-0 Muchindu
 Ndola United            1-0 Zamtel 
 Kitwe United            2-1 Chingola Leopards 
 
-Round 30
-[Sep 25,26]
+Round: 30
+
+Date: 9/25,26/2010
+
 Kalulushi Modern Stars  0-0 Konkola Mine Police 
 Prison Leopards         2-0 Medical Stars 
 Kalewa                  1-0 Chindwin Sentries 
@@ -1025,10 +1205,12 @@ Chingola Leopards       0-0 Ndola United
 Mining Rangers          0-0 Chambishi 
 Muchindu                1-0 Kitwe United 
 Mufulira Blackpool      1-1 Mufulira wanderers 
-[Sep 29]
+
+Date: 9/29/2010
+
 Zamtel                   -  Lime Hotspurs
 
-Round 32 [Oct 9,10]
+Round: 32 [Oct 9,10]
 Kalewa                  1-2 Chambishi 
 Indeni                  4-2 Mufulira Wanderers 
 Muchindu                2-2 Lime Hotspurs
@@ -1039,7 +1221,7 @@ Zamtel                  1-1 Prison Leopards
 Mufulira Blackpool      2-1 Ndola United 
 Chingola Leopards       0-0 Medical Stars 
 
-Round 33 [Oct 17]
+Round: 33 [Oct 17]
 Ndola United            0-1 Mining Rangers 
 Kitwe United            1-0 Indeni 
 Lime Hotspurs           1-0 Mufulira Blackpool 
@@ -1064,7 +1246,9 @@ Promoted: Kalewa (Ndola) and Lime Hotspurs (Ndola)
 
 Division 1 South
 
-Round 1 [Mar 14]
+Round: 1 
+Date: 3/14/2010
+
 Zesco Shockers          0-1 Luena Buffaloes  
 Nampundwe               1-0 Kafue Celtic
 Young Green Eagles      1-0 Kalomo Jetters
@@ -1075,7 +1259,9 @@ Nakambala Leopards      1-1 Paramilitary
 Riflemen                0-0 Green Eagles
 Kummawa                 1-3 Profound Warriors
 
-Round 2 [Mar 21]
+Round: 2 
+Date: 3/21/2010
+
 Kafue Celtic            3-0 Zesco Shockers
 Luena Buffaloes         3-0 Young Green Eagles
 Communite               1-1 Nampundwe
@@ -1113,7 +1299,9 @@ Table:
 
 NB: Young Arrows (Lusaka) apparently withdrew
 
-Round 3 [Mar 28]
+Round: 3 
+Date: 3/28/2010
+
 Zesco Shockers           -  Young Green Eagles
 Kafue Celtic             -  Communite
 Livingstone Pirates      -  Luena Buffaloes  
@@ -1124,7 +1312,9 @@ Kummawa                  -  Lusaka Tigers
 Lusaka City Council      -  Profound Warriors
 Riflemen                 -  Paramilitary 
 
-Round 6 [Apr 11]
+Round: 6 
+Date: 4/11/2010
+
 Mazabuka United         2-2 Zesco Shockers
 Livingstone Pirates     2-0 Nakambala Leopards
 Green Eagles            2-0 Communite 
@@ -1135,7 +1325,9 @@ Paramilitary            1-1 Nampundwe
 Kalomo Jetters          1-2 Lusaka City Council 
 Lusaka Tigers           1-1 TP Rangers 
 
-Round 7 [Apr 17,18]
+Round: 7 
+Date: 4/17,18/2010
+
 Zesco Shockers          1-4 Nakambala Leopards
 Mazabuka United         0-0 Green Eagles 
 Kummawa                 2-2 Livingstone Pirates 
@@ -1146,7 +1338,9 @@ Lusaka City Council     1-1 Luena Buffaloes
 Nampundwe               1-1 Lusaka Tigers 
 TP Rangers              1-1 Kalomo Jetters 
 
-Round 8 [Apr 24,25]
+Round: 8 
+Date: 4/24,25/2010
+
 Green Eagles            1-0 Zesco Shockers 
 Nakambala Leopards      4-0 Kummawa
 Profound Warriors       0-0 Mazabuka United 
@@ -1157,7 +1351,9 @@ Lusaka Tigers           1-0 Kafue Celtic
 Luena Buffaloes         0-0 TP Rangers 
 Kalomo Jetters          1-1 Nampundwe 
 
-Round 9 [May 1,2]
+Round: 9 
+Date: 5/1,2/2010
+
 Zesco Shockers          3-1 Kummawa 
 Green Eagles            0-1 Profound Warriors 
 Riflemen                0-1 Nakambala Leopards 
@@ -1168,8 +1364,10 @@ TP Rangers              1-0 Young Green Eagles
 Kafue Celtic            1-0 Kalomo Jetters 
 Nampundwe               1-2 Luena Buffaloes 
 
-Round 10 
-[May 9]
+Round: 10 
+
+Date: 5/9/2010
+
 Profound Warriors       1-0 Zesco Shockers 
 Paramilitary            0-0 Green Eagles 
 Nakambala Leopards      1-1 Lusaka City Council 
@@ -1178,10 +1376,14 @@ Livingstone Pirates     3-1 TP Rangers
 Kalomo Jetters          1-2 Communite 
 Young Green Eagles      0-0 Nampundwe 
 Luena Buffaloes         0-0 Kafue Celtic 
-[May 19]
+
+Date: 5/19/2010
+
 Kummawa                 1-0 Riflemen 
 
-Round 11 [May 12]
+Round: 11 
+Date: 5/12/2010
+
 Lusaka City Council     4-0 Kummawa
 Green Eagles            1-0 Lusaka Tigers 
 TP Rangers              1-2 Nakambala Leopards 
@@ -1192,8 +1394,10 @@ Kafue Celtic            0-0 Young Green Eagles
 Profound Warriors       1-0 Paramilitary 
 Zesco Shockers          n/p Riflemen
 
-Round 12 
-[May 16]
+Round: 12 
+
+Date: 5/16/2010
+
 Paramilitary            2-1 Zesco Shockers 
 Riflemen                3-0 Lusaka City Council 
 Lusaka Tigers           3-1 Profound Warriors 
@@ -1202,10 +1406,14 @@ Kalomo Jetters          0-0 Green Eagles
 Nakambala Leopards      0-0 Nampundwe 
 Luena Buffaloes         2-2 Mazabuka United 
 Young Green Eagles      0-1 Communite 
-[May 19]
+
+Date: 5/19/2010
+
 Livingstone Pirates     1-2 Kafue Celtic            
 
-Round 13 [May 23]
+Round: 13 
+Date: 5/23/2010
+
 Zesco Shockers          1-0 Lusaka City Council 
 Paramilitary            1-1 Lusaka Tigers 
 TP Rangers              1-1 Riflemen  
@@ -1216,7 +1424,9 @@ Kafue Celtic            2-0 Nakambala Leopards
 Mazabuka United         0-0 Young Green Eagles 
 Communite               0-1 Livingstone Pirates 
 
-Round 5 [May 24]
+Round: 5 
+Date: 5/24/2010
+
 Zesco Shockers          n/p Livingstone Pirates
 Communite               2-1 Mazabuka United
 Nakambala Leopards      2-1 Young Green Eagles
@@ -1227,7 +1437,9 @@ Riflemen                1-1 Kalomo Jetters
 TP Rangers              0-1 Paramilitary
 Lusaka City Council     2-2 Lusaka Tigers
 
-Round 14 [May 29, 30]
+Round: 14 
+Date: 5/29, 30/2010
+
 Lusaka City Council     1-1 TP Rangers 
 Kalomo Jetters          1-1 Paramilitary 
 Riflemen                0-0 Nampundwe 
@@ -1238,7 +1450,9 @@ Nakambala Leopards      2-0 Communite
 Livingstone Pirates     2-1 Mazabuka United 
 Lusaka Tigers           n/p Zesco Shockers
 
-Round 15 [Jun 6]
+Round: 15 
+Date: 6/6/2010
+
 Zesco Shockers          2-2 TP Rangers 
 Nampundwe               1-2 Lusaka City Council 
 Lusaka Tigers           1-1 Kalomo Jetters 
@@ -1249,7 +1463,9 @@ Communite               2-0 Kummawa
 Green Eagles            0-1 Livingstone Pirates  
 Mazabuka United         n/p Nakambala Leopards
 
-Round 18 [Jul 10,11]
+Round: 18 
+Date: 7/10,11/2010
+
 Luena Buffaloes         2-0 Zesco Shockers 
 Kafue Celtic            1-0 Nampundwe 
 Kalomo Jetters          1-0 Young Green Eagles 
@@ -1260,7 +1476,9 @@ Profound Warriors       1-1 Kummawa
 Communite               n/p TP Rangers              [TP dns]
 Mazabuka United         n/p Lusaka City Council     [LCC dns]
     
-Round 19 [Jul 17,18]
+Round: 19 
+Date: 7/17,18/2010
+
 Zesco Shockers          3-1 Kafue Celtic 
 Young Green Eagles      1-0 Luena Buffaloes        
 Livingstone Pirates     1-1 Kalomo Jetters 
@@ -1271,7 +1489,9 @@ Kummawa                 0-2 Paramilitary
 Riflemen                0-0 Profound Warriors 
 Communite               n/p Nampundwe
 
-Round 20 [Jul 21]
+Round: 20 
+Date: 7/21/2010
+
 Communite               1-3 Kafue Celtic 
 Luena Buffaloes         1-1 Livingstone Pirates 
 Mazabuka United         1-0 Nampundwe 
@@ -1282,7 +1502,9 @@ Profound Warriors       1-0 Lusaka City Council
 Paramilitary            0-3 Riflemen 
 Young Green Eagles      n/p Zesco Shockers 
 
-Round 21 [Jul 24,25]
+Round: 21 
+Date: 7/24,25/2010
+
 Livingstone Pirates     0-0 Young Green Eagles 
 Kafue Celtic            0-0 Mazabuka United 
 Nampundwe               0-0 Luena Buffaloes      
@@ -1292,7 +1514,9 @@ Lusaka City Council     0-1 Paramilitary
 Kummawa                 n/p Kalomo Jetters 
 Zesco Shockers          n/p Communite 
 
-Round 22 [Jul 31, Aug 1]
+Round: 22 
+Date: 7/31, Aug 1/2010
+
 Mazabuka United         1-0 Communite 
 Young Green Eagles      0-2 Nakambala Leopards 
 Green Eagles            1-0 Kafue Celtic 
@@ -1303,7 +1527,9 @@ Paramilitary            1-0 TP Rangers
 Lusaka Tigers           1-0 Lusaka City Council 
 Livingstone Pirates     n/p Zesco Shockers          [Zesco dns]
 
-Round 17 [Aug 4?]
+Round: 17 
+Date: 8/4?/2010
+
 Zesco Shockers          1-1 Nampundwe 
 Kalomo Jetters          1-0 Luena Buffaloes 
 Kafue Celtic            0-2 TP Rangers 
@@ -1314,7 +1540,9 @@ Profound Warriors       2-0 Nakambala Leopards
 Green Eagles            2-0 Kummawa
 Communite               n/p Lusaka City Council
 
-Round 23 [Aug 7,8]
+Round: 23 
+Date: 8/7,8/2010
+
 Zesco Shockers          0-0 Mazabuka United
 Nakambala Leopards      1-1 Livingstone Pirates 
 Communite               1-1 Green Eagles 
@@ -1325,7 +1553,9 @@ Lusaka City Council     5-0 Kalomo Jetters
 TP Rangers              1-2 Lusaka Tigers 
 Kummawa                 n/p Young Green Eagles
  
-Round 24 [Aug 15]
+Round: 24 
+Date: 8/15/2010
+
 Nakambala Leopards      6-1 Zesco Shockers 
 Green Eagles            2-0 Mazabuka United 
 Young Green Eagles      1-0 Riflemen 
@@ -1336,7 +1566,9 @@ Kalomo Jetters          3-1 TP Rangers
 Profound Warriors       n/p Communite
 Livingstone Pirates     n/p Kummawa
 
-Round 25 [Aug 21,22]
+Round: 25 
+Date: 8/21,22/2010
+
 Zesco Shockers          0-1 Green Eagles 
 Mazabuka United         0-2 Profound warriors 
 Riflemen                2-0 Livingstone  Pirates
@@ -1348,20 +1580,26 @@ Nampundwe               2-0 Kalomo Jetters
 [tba]
 Kummawa                  -  Nakambala Leopards 
 
-Round 27 
-[Sep 8]
+Round: 27 
+
+Date: 9/8/2010
+
 Riflemen                2-0 Kummawa 
 Green Eagles            1-0 Paramilitary 
 Mazabuka United         0-1 Lusaka Tigers 
 TP Rangers              2-0 Livingstone Pirates 
 Lusaka City Council     1-1 Nakambala Leopards 
-[Sep 9]
+
+Date: 9/9/2010
+
 Zesco Shockers          1-0 Profound Warriors 
 Nampundwe               1-0 Young Green Eagles 
 Kafue Celtic            1-0 Luena Buffaloes 
 Communite               1-2 Kalomo Jetters 
 
-Round 28 [Sep 11,12]
+Round: 28 
+Date: 9/11,12/2010
+
 Riflemen                2-1 Zesco Shockers 
 Paramilitary            2-2 Profound Warriors 
 Kummawa                 1-1 Lusaka City Council 
@@ -1372,7 +1610,9 @@ Livingstone Pirates     3-2 Nampundwe
 Young Green Eagles      0-0 Kafue Celtic 
 Luena Buffaloes         n/p Communite               [Communite dns]
  
-Round 29 [Sep 18,19]
+Round: 29 
+Date: 9/18,19/2010
+
 Profound Warriors       0-1 Lusaka Tigers 
 TP Rangers              1-0 Kummawa 
 Green Eagles            2-0 Kalomo Jetters 
@@ -1383,8 +1623,10 @@ Communite               2-0 Young Green Eagles
 Zesco Shockers          1-0 Paramilitary 
 Lusaka City Council     1-1 Riflemen 
 
-Round 30
-[Sep 25,26]
+Round: 30
+
+Date: 9/25,26/2010
+
 Lusaka City Council     1-0 Zesco Shockers 
 Riflemen                1-1 TP Rangers 
 Young Green Eagles      0-1 Mazabuka United 
@@ -1392,10 +1634,12 @@ Livingstone Pirates     0-0 Communite
 Luena Buffaloes         1-2 Green Eagles 
 Lusaka Tigers           1-0 Paramilitary 
 Kalomo Jetters          n/p Profound Warriors       [Profound did not have player cards]
-[Sep 29]
+
+Date: 9/29/2010
+
 Nakambala Leopards       -  Kafue Celtic
 
-Round 32 [Oct 9,10]
+Round: 32 [Oct 9,10]
 TP Rangers              1-0 Zesco Shockers 
 Kalomo Jetters          2-0 Lusaka Tigers 
 Lusaka City Council     1-0 Nampundwe 
@@ -1406,7 +1650,7 @@ Livingstone Pirates     1-1 Green Eagles
 Nakambala Leopards      0-0 Mazabuka United 
 Kummawa                 n/p Communite 
 
-Round 33 [Oct 17]
+Round: 33 [Oct 17]
 Green Eagles            1-0 Nakambala Leopards 
 Profound Warriors       0-0 Livingstone Pirates 
 Zesco Shockers          1-1 Kalomo Jetters 
@@ -1417,7 +1661,7 @@ Paramilitary            1-1 Young Green Eagles
 Communite               1-2 Riflemen 
 Mazabuka United         n/p Kummawa 
 
-Round 34 [Oct 30,31]
+Round: 34 [Oct 30,31]
 Nakambala Leopards      0-0 Profound Warriors 
 Nampundwe               2-1 Zesco Shockers 
 Luena Buffaloes         1-0 Kalomo Jetters 

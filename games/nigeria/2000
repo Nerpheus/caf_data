@@ -28,374 +28,456 @@ Competition: Nigerian Premier League
 *2) Top four teams qualify for Super League; bottom three teams are
 *   relegated
 
-Round: 1 [Dec 18]
-Nationale          1-1 Kwara United
-Kwara Stars        3-1 Enyimba
-Plateau United     0-0 Lobi Stars
-Katsina United     1-0 Jigawa          [inferred]
-Wikki Tourists     1-0 Rangers
-Gombe United       2-1 Gabros          [inferred]
-Udoji United       0-1 Insurance
-Jasper United      1-0 Julius Berger
-Sharks             bye
+Round: 1 
+Date: 12/18/1999
+
+; Nationale         ; 1-1; Kwara United
+; Kwara Stars       ; 3-1; Enyimba
+; Plateau United    ; 0-0; Lobi Stars
+; Katsina United    ; 1-0; Jigawa          
+Notes: inferred
+
+; Wikki Tourists    ; 1-0; Rangers
+; Gombe United      ; 2-1; Gabros          
+Notes: inferred
+
+; Udoji United      ; 0-1; Insurance
+; Jasper United     ; 1-0; Julius Berger
+*Sharks             bye
 
 Round: 2 [Dec 22]
-Insurance          2-1 Kwara Stars     [inferred]
-Gabros             1-0 Sharks
-Kwara United       2-0 Gombe United    [inferred]
-Julius Berger      1-1 Nationale
-Jigawa             1-2 Jasper United
-Lobi Stars         1-2 Katsina United
-Rangers            1-0 Plateau United  [inferred]
-Enyimba            3-2 Wikki Tourists  [inferred]
+; Insurance         ; 2-1; Kwara Stars     
+Notes: inferred
+
+; Gabros            ; 1-0; Sharks
+; Kwara United      ; 2-0; Gombe United    
+Notes: inferred
+
+; Julius Berger     ; 1-1; Nationale
+; Jigawa            ; 1-2; Jasper United
+; Lobi Stars        ; 1-2; Katsina United
+; Rangers           ; 1-0; Plateau United  
+Notes: inferred
+
+; Enyimba           ; 3-2; Wikki Tourists  
+Notes: inferred
+
 Udoji United       bye
 
 Round: 3 [Dec 29-30]
-Gombe United       2-0 Julius Berger
-Plateau United     3-1 Enyimba
-Nationale          0-0 Jigawa
-Katsina United     2-0 Rangers
-Kwara Stars        0-0 Udoji United
-Wikki Tourists     0-0 Insurance
-Jasper United      0-0 Lobi Stars
-Sharks             1-1 Kwara United
-Gabros             bye
+; Gombe United      ; 2-0; Julius Berger
+; Plateau United    ; 3-1; Enyimba
+; Nationale         ; 0-0; Jigawa
+; Katsina United    ; 2-0; Rangers
+; Kwara Stars       ; 0-0; Udoji United
+; Wikki Tourists    ; 0-0; Insurance
+; Jasper United     ; 0-0; Lobi Stars
+; Sharks            ; 1-1; Kwara United
+*Gabros             bye
 
 Round: 4 [Jan 1]
-Insurance          1-0 Plateau United
-Rangers            2-0 Jasper United
-Julius Berger      1-1 Sharks
-Lobi Stars         1-0 Nationale       [inferred]
-Enyimba            1-2 Katsina United  [inferred]
-Jigawa             2-0 Gombe United    [inferred]
-Udoji United       2-1 Wikki Tourists  [inferred]
-Kwara United       0-0 Gabros
+; Insurance         ; 1-0; Plateau United
+; Rangers           ; 2-0; Jasper United
+; Julius Berger     ; 1-1; Sharks
+; Lobi Stars        ; 1-0; Nationale       
+Notes: inferred
+
+; Enyimba           ; 1-2; Katsina United  
+Notes: inferred
+
+; Jigawa            ; 2-0; Gombe United    
+Notes: inferred
+
+; Udoji United      ; 2-1; Wikki Tourists  
+Notes: inferred
+
+; Kwara United      ; 0-0; Gabros
 Kwara Stars        bye
 
 Round: 5 [Jan 5]
-Gabros             0-0 Julius Berger
-Sharks             1-0 Jigawa
-Nationale          2-1 Rangers
-Katsina United     0-0 Insurance
-Gombe United       0-0 Lobi Stars      [inferred]
-Plateau United     1-0 Udoji United    [inferred]
-Jasper United      3-1 Enyimba         [inferred]
-Wikki Tourists     3-2 Kwara Stars     [inferred]
+; Gabros            ; 0-0; Julius Berger
+; Sharks            ; 1-0; Jigawa
+; Nationale         ; 2-1; Rangers
+; Katsina United    ; 0-0; Insurance
+; Gombe United      ; 0-0; Lobi Stars      
+Notes: inferred
+
+; Plateau United    ; 1-0; Udoji United    
+Notes: inferred
+
+; Jasper United     ; 3-1; Enyimba         
+Notes: inferred
+
+; Wikki Tourists    ; 3-2; Kwara Stars     
+Notes: inferred
+
 Kwara United       bye
 
 Round: 6 [Jan 8-9]
-Kwara Stars        0-0 Plateau United
-Udoji United       4-0 Katsina United  [abd. midway thru 2nd half]
-Insurance          0-0 Jasper United
-Jigawa             2-0 Gabros
-Julius Berger      0-0 Kwara United
-Lobi Stars         3-2 Sharks
-Rangers            1-0 Gombe United    [inferred]
-Enyimba            2-1 Nationale
+; Kwara Stars       ; 0-0; Plateau United
+; Udoji United      ; 4-0; Katsina United  [abd. midway thru 2nd half]
+; Insurance         ; 0-0; Jasper United
+; Jigawa            ; 2-0; Gabros
+; Julius Berger     ; 0-0; Kwara United
+; Lobi Stars        ; 3-2; Sharks
+; Rangers           ; 1-0; Gombe United    
+Notes: inferred
+
+; Enyimba           ; 2-1; Nationale
 Wikki Tourists     bye
 
 Round: 7 [Jan 12]   
-Kwara United       1-0 Jigawa
-Katsina United     1-0 Kwara Stars
-Udoji United       1-1 Jasper United
-Nationale          1-0 Insurance
-Gabros             2-0 Lobi Stars
-Plateau United     4-0 Wikki Tourists  [inferred]
-Sharks             0-0 Rangers
-Gombe United        -  Enyimba
+; Kwara United      ; 1-0; Jigawa
+; Katsina United    ; 1-0; Kwara Stars
+; Udoji United      ; 1-1; Jasper United
+; Nationale         ; 1-0; Insurance
+; Gabros            ; 2-0; Lobi Stars
+; Plateau United    ; 4-0; Wikki Tourists  
+Notes: inferred
+
+; Sharks            ; 0-0; Rangers
+; Gombe United       ; -;  Enyimba
 Julius Berger      bye
 
 Round: 8 [Jan 16-17]
-Insurance          1-0 Gombe United  
-Kwara Stars        1-1 Jasper United 
-Wikki Tourists     3-0 Katsina United
-Jigawa             1-1 Julius Berger  
-Lobi Stars         0-0 Kwara United  
-Rangers            1-1 Gabros 
-Enyimba            1-1 Sharks  
-Udoji United       2-2 Nationale
+; Insurance         ; 1-0; Gombe United  
+; Kwara Stars       ; 1-1; Jasper United 
+; Wikki Tourists    ; 3-0; Katsina United
+; Jigawa            ; 1-1; Julius Berger  
+; Lobi Stars        ; 0-0; Kwara United  
+; Rangers           ; 1-1; Gabros 
+; Enyimba           ; 1-1; Sharks  
+; Udoji United      ; 2-2; Nationale
 Plateau United     bye
 
 Round: 9 [Jan 19]
-Katsina United     1-1 Plateau United  [inferred]
-Kwara United       2-2 Rangers
-Jasper United      1-1 Wikki Tourists
-Julius Berger      1-0 Lobi Stars
-Nationale          0-0 Kwara Stars     [inferred]
-Sharks             2-2 Insurance
-Gabros             2-0 Enyimba
-Gombe United       1-0 Udoji United    [inferred]
+; Katsina United    ; 1-1; Plateau United  
+Notes: inferred
+
+; Kwara United      ; 2-2; Rangers
+; Jasper United     ; 1-1; Wikki Tourists
+; Julius Berger     ; 1-0; Lobi Stars
+; Nationale         ; 0-0; Kwara Stars     
+Notes: inferred
+
+; Sharks            ; 2-2; Insurance
+; Gabros            ; 2-0; Enyimba
+; Gombe United      ; 1-0; Udoji United    
+Notes: inferred
+
 Jigawa             bye
 
 Round: 10 [Feb 19-20]
-Rangers            2-0 Julius Berger
-Insurance          0-0 Gabros
-Wikki Tourists     1-0 Nationale
-Kwara Stars        1-1 Gombe United
-Plateau United     1-0 Jasper United
-Enyimba            2-0 Kwara United
-Udoji United       2-1 Sharks           [inferred]
-Lobi Stars         2-1 Jigawa           [inferred]
+; Rangers           ; 2-0; Julius Berger
+; Insurance         ; 0-0; Gabros
+; Wikki Tourists    ; 1-0; Nationale
+; Kwara Stars       ; 1-1; Gombe United
+; Plateau United    ; 1-0; Jasper United
+; Enyimba           ; 2-0; Kwara United
+; Udoji United      ; 2-1; Sharks           
+Notes: inferred
+
+; Lobi Stars        ; 2-1; Jigawa           
+Notes: inferred
+
 Katsina United     bye
 
 Round: 11 [Feb 26-27]
-Nationale          1-1 Plateau United
-Jasper United      0-0 Katsina United   [inferred]
-Kwara United       1-0 Insurance        [inferred]
-Julius Berger      2-1 Enyimba
-Gabros             0-0 Udoji United
-Sharks             4-0 Kwara Stars
-Gombe United       2-0 Wikki Tourists
-Jigawa              -  Rangers
+; Nationale         ; 1-1; Plateau United
+; Jasper United     ; 0-0; Katsina United   
+Notes: inferred
+
+; Kwara United      ; 1-0; Insurance        
+Notes: inferred
+
+; Julius Berger     ; 2-1; Enyimba
+; Gabros            ; 0-0; Udoji United
+; Sharks            ; 4-0; Kwara Stars
+; Gombe United      ; 2-0; Wikki Tourists
+; Jigawa             ; -;  Rangers
 Lobi Stars         bye
 
 Round: 12
-Insurance          0-0 Julius Berger
-Rangers            1-1 Lobi Stars       [inferred]
-Plateau United     1-0 Gombe United     [inferred]
-Kwara Stars        1-0 Gabros           [inferred]
-Udoji United       1-0 Kwara United     [inferred]
-Wikki Tourists     2-0 Sharks           [played later; inferred;
-                                         could also be 1-0]
-Enyimba             -  Jigawa
-Katsina United      -  Nationale
+; Insurance         ; 0-0; Julius Berger
+; Rangers           ; 1-1; Lobi Stars       
+Notes: inferred
+
+; Plateau United    ; 1-0; Gombe United     
+Notes: inferred
+
+; Kwara Stars       ; 1-0; Gabros           
+Notes: inferred
+
+; Udoji United      ; 1-0; Kwara United     
+Notes: inferred
+
+; Wikki Tourists    ; 2-0; Sharks           [played later; inferred;
+;                                          could also be; 1-0]
+Enyimba;             -  Jigawa
+; Katsina United     ; -;  Nationale
 Jasper United      bye
 
 Round: 13 [Mar 8]
-Julius Berger      2-0 Udoji United
-Kwara United       1-0 Kwara Stars
-Lobi Stars         2-1 Enyimba
-Gombe United       1-0 Katsina United
-Sharks             2-0 Plateau United
-Nationale          2-0 Jasper United
-Gabros              -  Wikki Tourists
-Jigawa              -  Insurance
+; Julius Berger     ; 2-0; Udoji United
+; Kwara United      ; 1-0; Kwara Stars
+; Lobi Stars        ; 2-1; Enyimba
+; Gombe United      ; 1-0; Katsina United
+; Sharks            ; 2-0; Plateau United
+; Nationale         ; 2-0; Jasper United
+; Gabros             ; -;  Wikki Tourists
+; Jigawa             ; -;  Insurance
 Rangers            bye
 
 Round: 14 [Mar 11-12]
-Kwara Stars        1-3 Julius Berger
-Katsina United     3-0 Sharks          [inferred]
-Plateau United     2-0 Gabros          [inferred]
-Jasper United      0-2 Gombe United    [inferred]
-Wikki Tourists     0-1 Kwara United
-Udoji United       1-1 Jigawa          [inferred]
-Insurance          0-0 Lobi Stars      [inferred]
-Enyimba            1-0 Rangers         [played later; inferred]
+; Kwara Stars       ; 1-3; Julius Berger
+; Katsina United    ; 3-0; Sharks          
+Notes: inferred
+
+; Plateau United    ; 2-0; Gabros          
+Notes: inferred
+
+; Jasper United     ; 0-2; Gombe United    
+Notes: inferred
+
+; Wikki Tourists    ; 0-1; Kwara United
+; Udoji United      ; 1-1; Jigawa          
+Notes: inferred
+
+; Insurance         ; 0-0; Lobi Stars      
+Notes: inferred
+
+; Enyimba           ; 1-0; Rangers         [played later; inferred]
 Nationale          bye
 
 Round: 15 [Mar 18-19]
-Jigawa             1-0 Kwara Stars     [inferred]
-Julius Berger      1-0 Wikki Tourists
-Sharks             0-1 Jasper United   [inferred]
-Rangers            2-1 Insurance
-Gabros             3-1 Katsina United  [inferred]
-Lobi Stars         1-0 Udoji United    [played later; inferred]
-Kwara United       2-0 Plateau United  [played later; inferred]
-Gombe United        -  Nationale       [played later]
+; Jigawa            ; 1-0; Kwara Stars     
+Notes: inferred
+
+; Julius Berger     ; 1-0; Wikki Tourists
+; Sharks            ; 0-1; Jasper United   
+Notes: inferred
+
+; Rangers           ; 2-1; Insurance
+; Gabros            ; 3-1; Katsina United  
+Notes: inferred
+
+; Lobi Stars        ; 1-0; Udoji United    [played later; inferred]
+; Kwara United      ; 2-0; Plateau United  [played later; inferred]
+; Gombe United       ; -;  Nationale       [played later]
 Enyimba            bye
 
 Round: 16 [Mar 25-26]
-Plateau United     2-0 Julius Berger
-Kwara Stars        1-0 Lobi Stars
-Wikki Tourists     1-0 Jigawa
-Insurance           -  Enyimba
-Udoji United       1-1 Rangers
-Nationale           -  Sharks
-Jasper United      0-0 Gabros          [inferred]
-Katsina United     1-1 Kwara United    [inferred]
+; Plateau United    ; 2-0; Julius Berger
+; Kwara Stars       ; 1-0; Lobi Stars
+; Wikki Tourists    ; 1-0; Jigawa
+; Insurance          ; -;  Enyimba
+; Udoji United      ; 1-1; Rangers
+; Nationale          ; -;  Sharks
+; Jasper United     ; 0-0; Gabros          
+Notes: inferred
+
+; Katsina United    ; 1-1; Kwara United    
+Notes: inferred
+
 Gombe United       bye
 
 Round: 17 [Mar 29]
-Kwara United       2-0 Jasper United
-Julius Berger      3-1 Katsina United  [inferred]
-Lobi Stars          -  Wikki Tourists
-Rangers            1-0 Kwara Stars     [inferred]
-Sharks              -  Gombe United
-Enyimba             -  Udoji United
-Gabros              -  Nationale
-Jigawa             2-3 Plateau United  [played later]
+; Kwara United      ; 2-0; Jasper United
+; Julius Berger     ; 3-1; Katsina United  
+Notes: inferred
+
+; Lobi Stars         ; -;  Wikki Tourists
+; Rangers           ; 1-0; Kwara Stars     
+Notes: inferred
+
+; Sharks             ; -;  Gombe United
+; Enyimba            ; -;  Udoji United
+; Gabros             ; -;  Nationale
+; Jigawa            ; 2-3; Plateau United  [played later]
 Insurance          bye
 
 Round: 18 [Apr 1-2]
-Kwara Stars        2-0 Rangers
-Katsina United     1-0 Julius Berger
-Gombe United       0-0 Sharks
+; Kwara Stars       ; 2-0; Rangers
+; Katsina United    ; 1-0; Julius Berger
+; Gombe United      ; 0-0; Sharks
 
-Round: 19 [Apr 8-9]
-Lobi Stars         1-0 Plateau United
-Rangers            2-2 Wikki Tourists
-Kwara United       1-0 Nationale
-Insurance          2-0 Udoji United
-Julius Berger      1-0 Jasper United
-Enyimba            3-1 Kwara Stars
-Jigawa              -  Katsina United
-Gabros              -  Gombe United
+; Round: 19 [Apr; 8-9]
+Lobi; Stars         1-0 Plateau United
+; Rangers           ; 2-2; Wikki Tourists
+; Kwara United      ; 1-0; Nationale
+; Insurance         ; 2-0; Udoji United
+; Julius Berger     ; 1-0; Jasper United
+; Enyimba           ; 3-1; Kwara Stars
+; Jigawa             ; -;  Katsina United
+; Gabros             ; -;  Gombe United
 Sharks             bye
 
 Round: 20 [Apr 15-16]
-Nationale          2-0 Julius Berger
-Katsina United     1-0 Lobi Stars
-Plateau United     2-1 Rangers
-Wikki Tourists     1-0 Enyimba
-Gombe United       1-3 Kwara United
-Jasper United       -  Jigawa
-Sharks             2-0 Gabros
-Kwara Stars        3-2 Insurance
-Udoji United       bye
+; Nationale         ; 2-0; Julius Berger
+; Katsina United    ; 1-0; Lobi Stars
+; Plateau United    ; 2-1; Rangers
+; Wikki Tourists    ; 1-0; Enyimba
+; Gombe United      ; 1-3; Kwara United
+; Jasper United      ; -;  Jigawa
+; Sharks            ; 2-0; Gabros
+; Kwara Stars       ; 3-2; Insurance
+*Udoji United       bye
 
 Round: 21 [Apr 18-19]
-Udoji United        -  Kwara Stars
-Jigawa             2-0 Nationale
-Kwara United        -  Sharks
-Julius Berger      3-1 Gombe United    [May 24]
-Enyimba            1-0 Plateau United
-Rangers            2-0 Katsina United
-Insurance          3-1 Wikki Tourists
-Lobi Stars          -  Jasper United
-Gabros             bye
+; Udoji United       ; -;  Kwara Stars
+; Jigawa            ; 2-0; Nationale
+; Kwara United       ; -;  Sharks
+; Julius Berger     ; 3-1; Gombe United    [May 24]
+; Enyimba           ; 1-0; Plateau United
+; Rangers           ; 2-0; Katsina United
+; Insurance         ; 3-1; Wikki Tourists
+; Lobi Stars         ; -;  Jasper United
+*Gabros             bye
 
 Round: 22 [Apr 22-23]
-Plateau United     2-1 Insurance
-Jasper United       -  Rangers         [May 24]
-Sharks             2-0 Julius Berger
-Nationale          2-0 Lobi Stars      [inferred]
-Katsina United      -  Enyimba
-Gombe United        -  Jigawa
-Wikki Tourists      -  Udoji United
-Gabros             2-0 Kwara United
+; Plateau United    ; 2-1; Insurance
+; Jasper United      ; -;  Rangers         [May 24]
+; Sharks            ; 2-0; Julius Berger
+; Nationale         ; 2-0; Lobi Stars      
+Notes: inferred
+
+; Katsina United     ; -;  Enyimba
+; Gombe United       ; -;  Jigawa
+; Wikki Tourists     ; -;  Udoji United
+; Gabros            ; 2-0; Kwara United
 Kwara Stars        bye
 
 Round: 23 [Apr 29-30]
-Julius Berger      0-0 Gabros          [also reported as 1-0]
-Jigawa             3-0 Sharks
-Rangers            1-0 Nationale
-Insurance          1-1 Katsina United
-Lobi Stars         1-0 Gombe United
-Udoji United        -  Plateau United
-Enyimba            1-0 Jasper United
-Kwara Stars        0-0 Wikki Tourists
+; Julius Berger     ; 0-0; Gabros          [also reported as 1-0]
+; Jigawa            ; 3-0; Sharks
+; Rangers           ; 1-0; Nationale
+; Insurance         ; 1-1; Katsina United
+; Lobi Stars        ; 1-0; Gombe United
+; Udoji United       ; -;  Plateau United
+; Enyimba           ; 1-0; Jasper United
+; Kwara Stars       ; 0-0; Wikki Tourists
 Kwara United       bye
 
 Round: 24 [May 3-4]
-Katsina United      -  Udoji United
-Kwara United       1-0 Julius Berger
-Sharks              -  Lobi Stars
-Nationale          1-0 Enyimba         [played later]
-Jasper United       -  Insurance
-Plateau United      -  Kwara Stars
-Gabros              -  Jigawa
-Gombe United       2-0 Rangers
-Wikki Tourists     bye
+; Katsina United     ; -;  Udoji United
+; Kwara United      ; 1-0; Julius Berger
+; Sharks             ; -;  Lobi Stars
+; Nationale         ; 1-0; Enyimba         [played later]
+; Jasper United      ; -;  Insurance
+; Plateau United     ; -;  Kwara Stars
+; Gabros             ; -;  Jigawa
+; Gombe United      ; 2-0; Rangers
+*Wikki Tourists     bye
 
 Round: 25 [May 6-7]
-Jigawa             2-0 Kwara United
-Kwara Stars        1-1 Katsina United
-Jasper United      2-1 Udoji United
-Wikki Tourists     1-0 Plateau United
-Rangers            3-0 Sharks
-Enyimba            2-1 Gombe United
-Insurance           -  Nationale
-Lobi Stars         2-1 Gabros           [played later]
-Julius Berger      bye
+; Jigawa            ; 2-0; Kwara United
+; Kwara Stars       ; 1-1; Katsina United
+; Jasper United     ; 2-1; Udoji United
+; Wikki Tourists    ; 1-0; Plateau United
+; Rangers           ; 3-0; Sharks
+; Enyimba           ; 2-1; Gombe United
+; Insurance          ; -;  Nationale
+; Lobi Stars        ; 2-1; Gabros           [played later]
+*Julius Berger      bye
 
 Round: 26 [May 13-14]
-Gombe United        -  Insurance
-Jasper United       -  Kwara Stars
-Katsina United      -  Wikki Tourists
+; Gombe United       ; -;  Insurance
+; Jasper United      ; -;  Kwara Stars
+; Katsina United     ; -;  Wikki Tourists
 Julius Berger      ppd Jigawa
-Kwara United       0-1 Lobi Stars
-Gabros             1-0 Rangers
-Sharks             1-0 Enyimba          [replay June 14]
-Nationale           -  Udoji United
+; Kwara United      ; 0-1; Lobi Stars
+; Gabros            ; 1-0; Rangers
+; Sharks            ; 1-0; Enyimba          [replay June 14]
+; Nationale          ; -;  Udoji United
 Plateau United     bye
 
 Round: 27 [May 17]
-Plateau United      -  Katsina United
-Rangers            1-0 Kwara United
-Wikki Tourists      -  Jasper United
-Lobi Stars          -  Julius Berger
-Kwara Stars        2-3 Nationale        [June 25]
-Insurance          2-0 Sharks
-Enyimba             -  Gabros
-Udoji United        -  Gombe United
-Jigawa             bye
+; Plateau United     ; -;  Katsina United
+; Rangers           ; 1-0; Kwara United
+; Wikki Tourists     ; -;  Jasper United
+; Lobi Stars         ; -;  Julius Berger
+; Kwara Stars       ; 2-3; Nationale        [June 25]
+; Insurance         ; 2-0; Sharks
+; Enyimba            ; -;  Gabros
+; Udoji United       ; -;  Gombe United
+*Jigawa             bye
 
 Round: 28 [May 20-21]
-Julius Berger      2-1 Rangers
-Gabros             2-0 Insurance
-Nationale          1-0 Wikki Tourists
-Gombe United        -  Kwara Stars
-Jasper United      1-0 Plateau United
-Kwara United       1-2 Enyimba          [May 24]
-Sharks             1-0 Udoji United
-Jigawa             1-0 Lobi Stars
-Katsina United     bye
+; Julius Berger     ; 2-1; Rangers
+; Gabros            ; 2-0; Insurance
+; Nationale         ; 1-0; Wikki Tourists
+; Gombe United       ; -;  Kwara Stars
+; Jasper United     ; 1-0; Plateau United
+; Kwara United      ; 1-2; Enyimba          [May 24]
+; Sharks            ; 1-0; Udoji United
+; Jigawa            ; 1-0; Lobi Stars
+*Katsina United     bye
 
 Round: 29 [May 27-28]
-Plateau United     2-0 Nationale
-Katsina United      -  Jasper United
-Insurance          1-0 Kwara United    [played later]
-Enyimba            0-3 Julius Berger   [awarded; originally 0-0]
-Udoji United       2-1 Gabros
-Kwara Stars        4-2 Sharks
-Wikki Tourists      -  Gombe United
-Rangers             -  Jigawa
-Lobi Stars         bye
+; Plateau United    ; 2-0; Nationale
+; Katsina United     ; -;  Jasper United
+; Insurance         ; 1-0; Kwara United    [played later]
+; Enyimba           ; 0-3; Julius Berger   [awarded; originally 0-0]
+; Udoji United      ; 2-1; Gabros
+; Kwara Stars       ; 4-2; Sharks
+; Wikki Tourists     ; -;  Gombe United
+; Rangers            ; -;  Jigawa
+*Lobi Stars         bye
 
 Round: 30 [May 31]
-Julius Berger       -  Insurance
-Kwara United       1-2 Udoji United
-Lobi Stars          -  Rangers
-Gombe United        -  Plateau United
-Gabros              -  Kwara Stars
-Sharks              -  Wikki Tourists
-Jigawa             3-0 Enyimba          [June 28]
-Nationale           -  Katsina United
-Jasper United      bye
+; Julius Berger      ; -;  Insurance
+; Kwara United      ; 1-2; Udoji United
+; Lobi Stars         ; -;  Rangers
+; Gombe United       ; -;  Plateau United
+; Gabros             ; -;  Kwara Stars
+; Sharks             ; -;  Wikki Tourists
+; Jigawa            ; 3-0; Enyimba          [June 28]
+; Nationale          ; -;  Katsina United
+*Jasper United      bye
 
 Round: 31 [Jun 3-4]
-Udoji United        -  Julius Berger
-Kwara Stars        1-0 Kwara United
-Enyimba             -  Lobi Stars
-Katsina United      -  Gombe United
-Plateau United      -  Sharks
-Jasper United       -  Nationale
-Wikki Tourists      -  Gabros
-Insurance           -  Jigawa
-Rangers            bye
+; Udoji United       ; -;  Julius Berger
+; Kwara Stars       ; 1-0; Kwara United
+; Enyimba            ; -;  Lobi Stars
+; Katsina United     ; -;  Gombe United
+; Plateau United     ; -;  Sharks
+; Jasper United      ; -;  Nationale
+; Wikki Tourists     ; -;  Gabros
+; Insurance          ; -;  Jigawa
+*Rangers            bye
 
 Round: 32 [June 14]
-Julius Berger       -  Kwara Stars
-Sharks              -  Katsina United
-Gabros             awd Plateau United  [awarded 0-3; originally 0-0 on June 7; Ejide Austin
-Gombe United        -  Jasper United    and Ereku David not considered eligible for Gabro]
-Kwara United       0-1 Wikki Tourists
-Jigawa              -  Udoji United
-Lobi Stars         3-0 Insurance
-Rangers            2-2 Enyimba
-Nationale          bye
+; Julius Berger      ; -;  Kwara Stars
+; Sharks             ; -;  Katsina United
+; Gabros             awd Plateau United  [awarded; 0-3;; originally 0-0 on June 7; Ejide Austin
+; Gombe United       ; -;  Jasper United    and Ereku David not considered eligible for Gabro]
+; Kwara United      ; 0-1; Wikki Tourists
+; Jigawa             ; -;  Udoji United
+; Lobi Stars        ; 3-0; Insurance
+; Rangers           ; 2-2; Enyimba
+*Nationale          bye
 
 Round: 33 [June 28]
-Kwara Stars        2-0 Jigawa          [June 13]
-Wikki Tourists     0-0 Julius Berger
-Jasper United       -  Sharks
-Insurance          2-0 Rangers
-Katsina United     1-0 Gabros
-Udoji United        -  Lobi Stars
-Plateau United     1-0 Kwara United
-Nationale          3-2 Gombe United
-Enyimba            bye
+; Kwara Stars       ; 2-0; Jigawa          [June 13]
+; Wikki Tourists    ; 0-0; Julius Berger
+; Jasper United      ; -;  Sharks
+; Insurance         ; 2-0; Rangers
+; Katsina United    ; 1-0; Gabros
+; Udoji United       ; -;  Lobi Stars
+; Plateau United    ; 1-0; Kwara United
+; Nationale         ; 3-2; Gombe United
+*Enyimba            bye
 
 Round: 34 [July 6]
-Julius Berger      1-0 Plateau United
-Lobi Stars         3-0 Kwara Stars
-Jigawwa            2-0 Wikki Tourists
-Enyimba            1-0 Insurance
-Rangers            2-0 Udoji United
-Sharks             1-0 Nationale
-Gabros             3-0 Jasper United
-Kwara United       2-2 Katsina United
-Gombe United       bye
+; Julius Berger     ; 1-0; Plateau United
+; Lobi Stars        ; 3-0; Kwara Stars
+; Jigawwa           ; 2-0; Wikki Tourists
+; Enyimba           ; 1-0; Insurance
+; Rangers           ; 2-0; Udoji United
+; Sharks            ; 1-0; Nationale
+; Gabros            ; 3-0; Jasper United
+; Kwara United      ; 2-2; Katsina United
+*Gombe United       bye
 
 *Table [from Nando 7/7/00]:
 * 1.Katsina United                 32  14 10  8  32-27  52
@@ -424,36 +506,38 @@ Gombe United       bye
 *   relegated
 
 
-Championship Playoff ("Pepsi Super Four League")
+Stage: Championship Playoff 
+* ("Pepsi Super Four League")
 
-Final Table:
-
- 1.Julius Berger (Lagos)           3   2  1  0   2- 0   7  Champions
- 2.Katsina United                  3   2  0  1   3- 1   6
- 3.Lobi Stars FC (Makurdi)         3   1  0  2   1- 2   3
- 4.Plateau United (Jos)            3   0  1  2   0- 3   1
+* 1.Julius Berger (Lagos)           3   2  1  0   2- 0   7  Champions
+* 2.Katsina United                  3   2  0  1   3- 1   6
+* 3.Lobi Stars FC (Makurdi)         3   1  0  2   1- 2   3
+* 4.Plateau United (Jos)            3   0  1  2   0- 3   1
 
 Round: 1 [Jul 12]
-Katsina United     2-0 Plateau United
-  [Thomas Ekoja 50,Justice Christopher 52
-Julius Berger      1-0 Lobi Stars
+
+; Katsina United    ; 2-0; Plateau United
+  Thomas Ekoja 50,Justice Christopher 52;
+
+; Julius Berger     ; 1-0; Lobi Stars
 
 Round: 2 [Jul 14]
-Katsina United     1-0 Lobi Stars
-Plateau United     0-0 Julius Berger 
+
+; Katsina United    ; 1-0; Lobi Stars
+; Plateau United    ; 0-0; Julius Berger 
  
 Round: 3 [Jul 16]
-Lobi Stars         1-0 Plateau United
-  [Robert Akaruye 46]
-Julius Berger      1-0 Katsina United
-  [Ambrose Duru 90]
- 
-Final Table:
 
- 1.Julius Berger (Lagos)           3   2  1  0   2- 0   7  Champions
- 2.Katsina United                  3   2  0  1   3- 1   6
- 3.Lobi Stars FC (Makurdi)         3   1  0  2   1- 2   3
- 4.Plateau United (Jos)            3   0  1  2   0- 3   1
+; Lobi Stars        ; 1-0; Plateau United
+Robert Akaruye 46;
+
+; Julius Berger     ; 1-0; Katsina United
+Ambrose Duru 90;
+ 
+* 1.Julius Berger (Lagos)           3   2  1  0   2- 0   7  Champions
+* 2.Katsina United                  3   2  0  1   3- 1   6
+* 3.Lobi Stars FC (Makurdi)         3   1  0  2   1- 2   3
+* 4.Plateau United (Jos)            3   0  1  2   0- 3   1
 
 
 *With thanks to Mikael Jönsson and José Batalha
