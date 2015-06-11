@@ -1,0 +1,446 @@
+BlockSource: http://rsssf.com/tablesa/alg2015.html#premiere
+
+*2ème Division
+
+* 1.USM Blida              30  14 11  5  35-22  53  Promoted  
+* 2.DRB Tadjenant          30  13 10  7  26-21  49  Promoted  
+* 3.RC Relizane            30  14  6 10  37-31  48  Promoted  
+*-------------------------------------------------
+* 4.CA Bordj Bou Arréridj  30  13  6 11  33-29  45 
+* 5.Olympique Médéa        30  11 11  8  30-21  44 
+* 6.MC Saïda               30  11 10  9  24-19  43 
+* 7.CA Batna               30  10 11  9  21-19  41 
+* 8.AS Khroub              30  10 10 10  30-36  40 
+* 9.A Bou Saada            30  12  4 14  25-33  40 
+*10.JSM Béjaïa             30  10  9 11  39-37  39 
+*11.CRB Aïn Fakroun        30  10  8 12  24-25  38 
+*12.US Chaouia             30  10  8 12  26-30  38 
+*13.USMM Hadjout           30   9  8 13  30-36  35 
+*-------------------------------------------------
+*14.ESM Koléa              30   7 13 10  28-31  34  Relegated
+*15.WA Tlemcen             30   8  9 13  21-26  33  Relegated
+*16.AB Mérouana            30   6 10 14  18-31  28  Relegated
+
+Round: 1
+Date: 8/15/2014
+
+; A Bou Saada          ; 2-0; AB Mérouana
+; ESM Koléa                  ; 1-1; USM Blida
+; JSM Béjaïa                       ; 0-1; CA Batna
+; MC Saïda                               ; 3-0; USMM Hadjout
+; Olympique Médéa      ; 2-0; DRB Tadjenant
+; US Chaouia           ; 0-1; CA Bordj Bou Arréridj
+; WA Tlemcen           ; 1-1; RC Relizane
+
+Date: 8/16/2014
+
+; CRB Aïn Fakroun      ; 4-1; AS Khroub
+
+Round: 2 
+Date: 8/22/2014
+
+; A Bou Saada          ; 1-0; MC Saïda
+; AB Mérouana          ; 0-1; Olympique Médéa
+; AS Khroub            ; 1-3; RC Relizane
+; CA Batna             ; 0-0; CRB Aïn Fakroun
+; CA Bordj Bou Arréridj; 2-0; ESM Koléa
+; DRB Tadjenant        ; 2-0; US Chaouia
+; USM Blida            ; 1-2; JSM Béjaïa
+; USMM Hadjout         ; 0-2; WA Tlemcen
+
+Round: 3
+Date: 9/12/2014
+
+; ESM Koléa            ; 3-1; DRB Tadjenant
+; JSM Béjaïa           ; 4-1; CA Bordj Bou Arréridj
+; MC Saïda             ; 0-0; USM Blida
+; Olympique Médéa      ; 1-1; A Bou Saada
+; RC Relizane          ; 1-0; CA Batna
+; US Chaouia           ; 2-0; AB Mérouana
+; WA Tlemcen           ; 0-0; AS Khroub
+
+Date: 9/13/2014
+
+; CRB Aïn Fakroun      ; 1-0; USMM Hadjout
+
+Round: 4 
+Date: 9/19/2014
+
+; A Bou Saada       ; 1-0; US Chaouia
+; Olympique Médéa         ; 1-2; MC Saïda
+; CA Batna       ; 0-0; AS Khroub
+; USMM Hadjout         ; 1-0; RC Relizane
+; USM Blida                  ; 1-1; CRB Aïn Fakroun
+; CA Bordj Bou Arréridj; 2-1; WA Tlemcen
+; DRB Tadjenant              ; 0-2; JSM Béjaïa
+; AB Mérouana                      ; 1-1; ESM Koléa
+
+Round: 5
+Date: 9/26/2014
+
+; RC Relizane          ; 1-2; USM Blida
+; AS Khroub                  ; 2-0; USMM Hadjout
+; US Chaouia                       ; 1-1; Olympique Médéa
+; ESM Koléa                              ; 0-0; A Bou Saada
+; MC Saïda                                     ; 0-0; DRB Tadjenant
+; JSM Béjaïa                                         ; 1-1; AB Mérouana
+; WA Tlemcen                                               ; 0-0; CA Batna
+
+Date: 9/27/2014
+
+; CRB Aïn Fakroun      ; 1-0; CA Bordj Bou Arréridj
+
+Round: 6 
+Date: 10/2/2014
+
+; USM Blida         ; 3-0; AS Khroub
+; USMM Hadjout            ; 2-0; CA Batna
+; DRB Tadjenant                 ; 1-0; WA Tlemcen
+; AB Mérouana                         ; 1-2; MC Saïda
+; A Bou Saada                               ; 0-2; JSM Béjaïa
+; Olympique Médéa      ; 2-0; ESM Koléa
+; US Chaouia                 ; 2-1; CRB Aïn Fakroun
+; CA Bordj Bou Arréridj; 1-1; RC Relizane
+
+Round: 7
+Date: 10/10/2014
+
+; AS Khroub            ; 2-1; Olympique Médéa
+; ESM Koléa                  ; 2-3; US Chaouia
+; CRB Aïn Fakroun                  ; 1-2; DRB Tadjenant
+; WA Tlemcen                             ; 2-0; AB Mérouana
+; MC Saïda                                     ; 3-0; CA Bordj Bou Arréridj
+; RC Relizane                                        ; 2-0; A Bou Saada
+; JSM Béjaïa                                               ; 3-1; USMM Hadjout
+
+Date: 10/11/2014
+
+; CA Batna             ; 3-2; USM Blida
+
+Round: 8 
+Date: 10/17/2014
+
+; ESM Koléa         ; 2-1; CRB Aïn Fakroun
+; US Chaouia              ; 1-0; MC Saïda
+; USM Blida                     ; 5-3; USMM Hadjout
+; Olympique Médéa                     ; 2-0; JSM Béjaïa
+; AB Mérouana                               ; 2-0; RC Relizane
+; A Bou Saada                                     ; 1-2; WA Tlemcen
+; DRB Tadjenant                                         ; 1-1; AS Khroub
+; CA Bordj Bou Arréridj; 3-1; CA Batna
+
+Round: 9 
+Date: 10/24/2014
+
+; USMM Hadjout      ; 1-0; CA Bordj Bou Arréridj
+; CA Batna                ; 2-0; A Bou Saada
+; MC Saïda                      ; 1-0; ESM Koléa
+; AS Khroub                           ; 4-1; AB Mérouana
+; WA Tlemcen                                ; 0-1; USM Blida
+; RC Relizane                                     ; 1-0; DRB Tadjenant
+; CRB Aïn Fakroun      ; 0-0; Olympique Médéa
+; JSM Béjaïa                 ; 2-2; US Chaouia
+
+Round: 10 
+Date: 10/31/2014
+
+; CA Bordj Bou Arréridj; 1-1; USM Blida
+; DRB Tadjenant              ; 1-0; USMM Hadjout
+; A Bou Saada          ; 2-0; AS Khroub
+; MC Saïda                   ; 1-0; CRB Aïn Fakroun
+; AB Mérouana          ; 0-0; CA Batna
+; Olympique Médéa            ; 2-0; RC Relizane
+; US Chaouia                       ; 1-0; WA Tlemcen
+; ESM Koléa                              ; 1-1; JSM Béjaïa
+
+Round: 11 
+Date: 11/7/2014
+
+; JSM Béjaïa         ; 0-0; MC Saïda
+; CRB Aïn Fakroun          ; 2-1; AB Mérouana
+; RC Relizane                    ; 2-1; US Chaouia
+; USM Blida                            ; 1-0; A Bou Saada
+; WA Tlemcen           ; 1-0; Olympique Médéa
+; AS Khroub                  ; 1-0; CA Bordj Bou Arréridj
+; CA Batna                         ; 0-1; DRB Tadjenant
+; USMM Hadjout                           ; 0-0; ESM Koléa
+
+Round: 12 
+Date: 11/28/2014
+
+; ESM Koléa          ; 1-1; RC Relizane
+; US Chaouia               ; 2-0; AS Khroub
+; MC Saïda                       ; 1-2; WA Tlemcen
+; Olympique Médéa      ; 0-0; CA Batna
+; AB Mérouana                ; 0-0; USM Blida
+; A Bou Saada          ; 0-0; USMM Hadjout
+; DRB Tadjenant              ; 2-1; CA Bordj Bou Arréridj
+; JSM Béjaïa                       ; 1-1; CRB Aïn Fakroun
+
+Round: 13 
+Date: 12/5/2014
+
+; USMM Hadjout       ; 1-1; Olympique Médéa
+; CA Batna                 ; 1-0; US Chaouia
+; USM Blida                      ; 1-0; DRB Tadjenant
+; AS Khroub                            ; 0-0; ESM Koléa
+; WA Tlemcen                                 ; 1-0; JSM Béjaïa
+; RC Relizane                                      ; 1-0; MC Saïda
+; CRB Aïn Fakroun                                        ; 1-0; A Bou Saada
+; CA Bordj Bou Arréridj; 2-1; AB Mérouana
+
+Round: 14
+Date: 12/19/2014
+
+; ESM Koléa            ; 1-0; CA Batna
+; US Chaouia                 ; 1-0; USMM Hadjout
+; MC Saïda                         ; 0-0; AS Khroub
+; AB Mérouana                            ; 2-0; DRB Tadjenant
+; JSM Béjaïa                                   ; 1-0; RC Relizane
+; A Bou Saada                                        ; 1-0; CA Bordj Bou Arréridj
+
+Date: 12/20/2014
+
+; Olympique Médéa      ; 1-2; USM Blida
+; CRB Aïn Fakroun      ; 1-0; WA Tlemcen
+
+Round: 15
+Date: 12/30/2014
+
+; AS Khroub             abd JSM Béjaïa            [abandoned at; 0-0; in 50' due to snow]
+; CA Batna                   ; 2-0; MC Saïda
+; DRB Tadjenant                    ; 2-1; A Bou Saada
+; RC Relizane                            ; 1-0; CRB Aïn Fakroun
+; USM Blida                                    ; 2-0; US Chaouia
+; USMM Hadjout                                       ; 2-1; AB Mérouana
+; WA Tlemcen                                               ; 0-0; ESM Koléa
+
+Date: 1/16/2015
+
+; AS Khroub            ; 3-1; JSM Béjaïa            [replay Dec 30]
+; CA Bordj Bou Arréridj; 0-2; Olympique Médéa
+
+Round: 16 
+Date: 1/20/2015
+
+; AB Mérouana        ; 2-0; A Bou Saada
+; USM Blida            ; 1-0; ESM Koléa
+; CA Batna                   ; 1-0; JSM Béjaïa
+; USMM Hadjout         ; 1-1; MC Saïda
+; DRB Tadjenant        ; 0-0; Olympique Médéa
+; CA Bordj Bou Arréridj; 1-0; US Chaouia
+; RC Relizane       ; 1-0; WA Tlemcen
+; AS Khroub               ; 0-1; CRB Aïn Fakroun
+
+Round: 17
+Date: 1/24/2015
+
+; RC Relizane          ; 4-1; AS Khroub
+; CRB Aïn Fakroun      ; 0-1; CA Batna
+; ESM Koléa            ; 1-1; CA Bordj Bou Arréridj
+; US Chaouia           ; 2-2; DRB Tadjenant
+; JSM Béjaïa           ; 1-1; USM Blida
+; WA Tlemcen           ; 1-1; USMM Hadjout
+
+Date: 2/20/2015
+
+; MC Saïda             ; 1-0; A Bou Saada
+; Olympique Médéa      ; 0-0; AB Mérouana
+
+Round: 18 
+Date: 1/30/2015
+
+; DRB Tadjenant      ; 2-0; ESM Koléa
+; CA Bordj Bou Arréridj; 1-0; JSM Béjaïa
+; USM Blida         ; 0-0; MC Saïda
+; A Bou Saada          ; 2-1; Olympique Médéa
+; CA Batna                   ; 3-3; RC Relizane
+; AB Mérouana                      ; 0-0; US Chaouia
+; AS Khroub                              ; 2-0; WA Tlemcen
+; USMM Hadjout         ; 1-0; CRB Aïn Fakroun
+
+Round: 19
+Date: 2/6/2015
+
+; US Chaouia           ; 2-0; A Bou Saada
+; AS Khroub                  ; 0-0; CA Batna
+; RC Relizane                      ; 1-1; USMM Hadjout
+; CRB Aïn Fakroun      ; 0-0; USM Blida
+; ESM Koléa                  ; 2-0; AB Mérouana
+
+Date: 2/7/2015
+
+; JSM Béjaïa           ; 1-1; DRB Tadjenant
+
+Date: 2/20/2015
+
+; WA Tlemcen           ; 1-1; CA Bordj Bou Arréridj
+
+Date: 3/13/2015
+
+; MC Saïda             ; 0-0; Olympique Médéa
+
+Round: 20
+Date: 2/13/2015
+
+; USM Blida            ; 1-0; RC Relizane
+; USMM Hadjout               ; 3-0; AS Khroub
+; Olympique Médéa                  ; 2-0; US Chaouia
+; DRB Tadjenant                          ; 1-1; MC Saïda
+; AB Mérouana                                  ; 1-1; JSM Béjaïa
+; CA Batna                                           ; 0-0; WA Tlemcen
+; CA Bordj Bou Arréridj; 2-0; CRB Aïn Fakroun
+
+Date: 2/14/2015
+
+; A Bou Saada          ; 2-0; ESM Koléa
+
+Round: 21 
+Date: 2/27/2015
+
+; AS Khroub          ; 2-1; USM Blida
+; CA Batna             ; 1-1; USMM Hadjout
+; WA Tlemcen           ; 0-0; DRB Tadjenant
+; MC Saïda             ; 0-0; AB Mérouana
+; JSM Béjaïa           ; 2-0; A Bou Saada
+; ESM Koléa            ; 0-1; Olympique Médéa
+; CRB Aïn Fakroun      ; 1-0; US Chaouia
+; RC Relizane          ; 1-0; CA Bordj Bou Arréridj
+
+Round: 22 
+Date: 3/6/2015
+
+; Olympique Médéa      ; 0-1; AS Khroub
+; US Chaouia                 ; 1-1; ESM Koléa
+; DRB Tadjenant                    ; 1-0; CRB Aïn Fakroun
+; AB Mérouana                            ; 1-0; WA Tlemcen
+; CA Bordj Bou Arréridj; 2-0; MC Saïda
+; A Bou Saada       ; 1-0; RC Relizane
+; USMM Hadjout            ; 2-0; JSM Béjaïa
+; USM Blida                     ; 1-0; CA Batna
+
+Round: 23 
+Date: 3/20/2015
+
+; CRB Aïn Fakroun      ; 1-1; ESM Koléa
+; MC Saïda                   ; 3-0; US Chaouia
+; USMM Hadjout         ; 1-2; USM Blida
+; JSM Béjaïa           ; 1-2; Olympique Médéa
+; RC Relizane          ; 2-1; AB Mérouana
+; WA Tlemcen           ; 1-2; A Bou Saada
+; AS Khroub            ; 1-1; DRB Tadjenant
+; CA Batna             ; 1-0; CA Bordj Bou Arréridj
+
+Round: 24 
+Date: 3/27/2015
+
+; CA Bordj Bou Arréridj; 2-1; USMM Hadjout
+; A Bou Saada       ; 1-0; CA Batna
+; ESM Koléa               ; 1-1; MC Saïda
+; AB Mérouana                   ; 0-0; AS Khroub
+; USM Blida                           ; 1-0; WA Tlemcen
+; DRB Tadjenant        ; 1-0; RC Relizane
+; Olympique Médéa      ; 0-0; CRB Aïn Fakroun
+; US Chaouia                 ; 1-0; JSM Béjaïa
+
+Round: 25
+Date: 4/3/2015
+
+; USM Blida            ; 1-1; CA Bordj Bou Arréridj
+; USMM Hadjout               ; 0-1; DRB Tadjenant
+; AS Khroub                        ; 3-1; A Bou Saada
+; CRB Aïn Fakroun                        ; 1-0; MC Saïda
+; CA Batna                                     ; 2-0; AB Mérouana
+; WA Tlemcen                                         ; 1-0; US Chaouia
+; JSM Béjaïa                                               ; 3-2; ESM Koléa
+
+Date: 4/4/2015
+
+; RC Relizane          ; 1-0; Olympique Médéa
+
+Round: 26 
+Date: 4/17/2015
+
+; MC Saïda      ; 1-0; JSM Béjaïa
+; AB Mérouana         ; 1-0; CRB Aïn Fakroun
+; US Chaouia                ; 0-0; RC Relizane
+; A Bou Saada                     ; 1-0; USM Blida
+; Olympique Médéa                       ; 2-1; WA Tlemcen
+; CA Bordj Bou Arréridj; 2-0; AS Khroub
+; DRB Tadjenant        ; 0-1; CA Batna
+; ESM Koléa                  ; 2-1; USMM Hadjout
+
+Round: 27 
+Date: 4/24/2015
+
+; RC Relizane        ; 2-1; ESM Koléa
+; AS Khroub                ; 1-1; US Chaouia
+; WA Tlemcen                     ; 1-0; MC Saïda
+; CA Batna                             ; 1-1; Olympique Médéa
+; USM Blida                                  ; 1-0; AB Mérouana
+; USMM Hadjout                                     ; 4-3; A Bou Saada
+; CA Bordj Bou Arréridj; 0-0; DRB Tadjenant
+; CRB Aïn Fakroun            ; 1-2; JSM Béjaïa
+
+Round: 28 
+Date: 5/8/2015
+
+; Olympique Médéa      ; 1-0; USMM Hadjout
+; US Chaouia                 ; 1-0; CA Batna
+; DRB Tadjenant                    ; 1-0; USM Blida
+; ESM Koléa                              ; 2-0; AS Khroub
+; JSM Béjaïa                                   ; 2-1; WA Tlemcen
+; MC Saïda                                           ; 2-1; RC Relizane
+; A Bou Saada                                              ; 2-1; CRB Aïn Fakroun
+; AB Mérouana                                                    ; 1-0; CA Bordj Bou Arréridj
+
+Round: 29 
+Date: 5/15/2015
+
+; CA Batna      ; 0-0; ESM Koléa
+; USMM Hadjout        ; 2-1; US Chaouia
+; AS Khroub                 ; 2-0; MC Saïda
+; DRB Tadjenant                   ; 2-0; AB Mérouana
+; RC Relizane                           ; 5-4; JSM Béjaïa
+; CA Bordj Bou Arréridj; 3-0; A Bou Saada
+; USM Blida         ; 1-1; Olympique Médéa
+; WA Tlemcen              ; 1-1; CRB Aïn Fakroun
+
+Round: 30 
+Date: 5/22/2015
+
+; JSM Béjaïa         ; 2-2; AS Khroub
+; MC Saïda                 ; 1-0; CA Batna
+; Olympique Médéa      ; 2-3; CA Bordj Bou Arréridj
+; A Bou Saada                ; 0-0; DRB Tadjenant
+; CRB Aïn Fakroun                  ; 2-1; RC Relizane
+; US Chaouia                             ; 1-1; USM Blida
+; AB Mérouana                                  ; 0-0; USMM Hadjout
+; ESM Koléa                                          ; 3-1; WA Tlemcen
+
+
+* 1.USM Blida              30  14 11  5  35-22  53  Promoted  
+* 2.DRB Tadjenant          30  13 10  7  26-21  49  Promoted  
+* 3.RC Relizane            30  14  6 10  37-31  48  Promoted  
+*-------------------------------------------------
+* 4.CA Bordj Bou Arréridj  30  13  6 11  33-29  45 
+* 5.Olympique Médéa        30  11 11  8  30-21  44 
+* 6.MC Saïda               30  11 10  9  24-19  43 
+* 7.CA Batna               30  10 11  9  21-19  41 
+* 8.AS Khroub              30  10 10 10  30-36  40 
+* 9.A Bou Saada            30  12  4 14  25-33  40 
+*10.JSM Béjaïa             30  10  9 11  39-37  39 
+*11.CRB Aïn Fakroun        30  10  8 12  24-25  38 
+*12.US Chaouia             30  10  8 12  26-30  38 
+*13.USMM Hadjout           30   9  8 13  30-36  35 
+*-------------------------------------------------
+*14.ESM Koléa              30   7 13 10  28-31  34  Relegated
+*15.WA Tlemcen             30   8  9 13  21-26  33  Relegated
+*16.AB Mérouana            30   6 10 14  18-31  28  Relegated
+
+
+*Prepared and maintained by José Batalha for the Rec.Sport.Soccer Statistics Foundation
+*Author: José Batalha 
+*Last updated: 4 Jun 2015
+*(C) Copyright José Batalha and RSSSF 2014/15
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
