@@ -24,7 +24,7 @@ Season: 2014-2015
 Round: 1
 Date: 8/15/2014
 
-; NA; Hussein-Dey; 0-2 MO Béjaïa
+; NA Hussein-Dey; 0-2; MO Béjaïa
 
 Date: 8/16/2014
 
@@ -57,7 +57,7 @@ Date: 9/6/2014
 Round: 3
 Date: 9/12/2014
 
-; NA; Hussein-Dey; 1-1 MC Alger
+; NA Hussein-Dey; 1-1; MC Alger
 
 Date: 9/13/2014
 
@@ -90,7 +90,7 @@ Date: 9/20/2014
 Round: 5
 Date: 9/26/2014
 
-; NA; Hussein-Dey; 1-2 JS Kabylie
+; NA Hussein-Dey; 1-2; JS Kabylie
 
 Date: 9/27/2014
 
@@ -124,7 +124,7 @@ Round: 7
 Date: 10/17/2014
 
 ; ASM Oran      ; 1-0; ES Sétif
-; NA; Hussein-Dey; 1-0 CR Bélouizdad
+; NA Hussein-Dey; 1-0; CR Bélouizdad
 
 Date: 10/18/2014
 
@@ -160,7 +160,7 @@ Date: 10/30/2014
 
 Date: 10/31/2014
 
-; NA; Hussein-Dey; 2-0 CS Constantine
+; NA Hussein-Dey; 2-0; CS Constantine
 
 Date: 11/1/2014
 
@@ -201,7 +201,7 @@ Date: 11/22/2014
 ; ES Sétif      ; 2-0; USM El Harrach
 ; ASO Chlef     ; 0-3; CS Constantine
 ; JS Saoura     ; 0-0; MC Oran
-; NA; Hussein-Dey; 3-0 RC Arbaâ
+; NA Hussein-Dey; 3-0; RC Arbaâ
 ; USM; Bel-Abbès;  2-1 MC El Eulma
 
 Round: 12
@@ -222,7 +222,7 @@ Date: 11/29/2014
 Round: 13
 Date: 12/5/2014
 
-; NA; Hussein-Dey; 1-2 USM El Harrach
+; NA Hussein-Dey; 1-2; USM El Harrach
 ; JS Kabylie    ; 2-1; RC Arbaâ
 
 Date: 12/6/2014
@@ -238,7 +238,7 @@ Round: 14
 Date: 12/19/2014
 
 ; USM Alger     ; 1-2; ASM Oran
-; NA; Hussein-Dey; 1-0 ASO Chlef
+; NA Hussein-Dey; 1-0; ASO Chlef
 
 Date: 12/20/2014
 
@@ -286,7 +286,7 @@ Round: 17
 Date: 1/24/2015
 
 ; MC Oran       ; 0-0; CR Bélouizdad
-; NA; Hussein-Dey; 2-1 ASM Oran
+; NA Hussein-Dey; 2-1; ASM Oran
 ; USM Alger     ; 1-1; JS Kabylie
 ; ASO Chlef     ; 0-0; MC Alger
 ; JS Saoura     ; 0-1; MO Béjaïa
@@ -312,7 +312,7 @@ Date: 1/31/2015
 Round: 19
 Date: 2/7/2015
 
-; NA; Hussein-Dey; 0-0 ES Sétif
+; NA Hussein-Dey; 0-0; ES Sétif
 ; MC El Eulma   ; 3-0; CS Constantine
 ; MO Béjaïa     ; 1-0; ASM Oran
 ; JS Saoura     ; 2-1; MC Alger
@@ -358,7 +358,7 @@ Date: 2/28/2015
 ; ASO Chlef     ; 2-0; CR Bélouizdad
 ; JS Saoura     ; 2-1; JS Kabylie
 ; MO Béjaïa     ; 3-0; ES Sétif
-; NA; Hussein-Dey; 1-0 MC Oran
+; NA Hussein-Dey; 1-0; MC Oran
 
 Round: 22
 Date: 3/6/2015
@@ -384,7 +384,7 @@ Date: 3/20/2015
 
 Date: 3/21/2015
 
-; NA; Hussein-Dey; 0-0 USM Alger
+; NA Hussein-Dey; 0-0; USM Alger
 ; MC Alger      ; 1-0; ES Sétif
 ; ASM Oran      ; 2-3; JS Kabylie
 ; MO Béjaïa     ; 2-2; CR Bélouizdad
@@ -410,7 +410,7 @@ Date: 4/14/2015
 
 ; USM; Bel-Abbès;  1-0 USM Alger
 ; ES Sétif      ; 1-0; JS Kabylie
-; NA; Hussein-Dey; 1-2 MC El Eulma
+; NA Hussein-Dey; 1-2; MC El Eulma
 
 Date: 4/17/2015
 
@@ -447,7 +447,7 @@ Date: 5/9/2015
 ; ASM Oran      ; 0-1; CS Constantine
 ; ES Sétif      ; 2-1; RC Arbaâ
 ; JS Kabylie    ; 0-1; CR Bélouizdad
-; NA; Hussein-Dey; 1-0 USM Bel-Abbès
+; NA Hussein-Dey; 1-0; USM Bel-Abbès
 ; ASO Chlef     ; 2-1; MC El Eulma
 
 Round: 28 
@@ -480,7 +480,7 @@ Date: 5/29/2015
 ; MC El Eulma   ; 3-0; ASM Oran
 ; USM Alger     ; 3-1; ASO Chlef
 ; USM El Harrach; 2-1; CR Bélouizdad
-; NA; Hussein-Dey; 1-0 JS Saoura
+; NA Hussein-Dey; 1-0; JS Saoura
 ; RC Arbaâ      ; 2-1; MC Alger
 ; USM; Bel-Abbès;  1-3 MO Béjaïa
 ; MC Oran       ; 2-1; ES Sétif
